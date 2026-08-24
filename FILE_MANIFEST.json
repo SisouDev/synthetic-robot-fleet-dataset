@@ -1,0 +1,238 @@
+{
+  "manifest_version": "1.0",
+  "dataset_version": "1.0.0",
+  "generated_on": "2026-08-24",
+  "author": {
+    "name": "Maria Karolina Silva de Souza"
+  },
+  "authorship_statement": "Todos os arquivos listados neste manifesto são de autoria de Maria Karolina Silva de Souza.",
+  "csv_authorship_note": "A autoria dos arquivos CSV é registrada de forma destacada neste manifesto para preservar intactos os cabeçalhos e o esquema tabular.",
+  "hash_algorithm": "SHA-256",
+  "file_count": 32,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 766,
+      "sha256": "b6bba4512838c0e1e4a97e30b49506f8900d74f82a53b51dea079c06de4c9da7",
+      "media_type": "application/octet-stream",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "AUTHORS.md",
+      "bytes": 1148,
+      "sha256": "7c3e417ca86afd0d5b3c588b5015c5ad00b734488f69464c589866935c737c55",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 2952,
+      "sha256": "9609e1f9474c1242b1a2fd1af3d49b28d911aac42a3c5191de73926b2e9dbf60",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 634,
+      "sha256": "d2b8f830aecf2f064746d956ffc9fac6bbb60e74a4c13bcc059e8abbdef29515",
+      "media_type": "application/yaml",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "data/analytical/BASE_ML_MANUTENCAO.csv",
+      "bytes": 567718,
+      "sha256": "546a5a447e735cfefbb9de90e5484a0174412a1b4cc4ad61540a7c47a61f0d83",
+      "media_type": "text/csv; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "data/analytical/BASE_ML_MISSOES.csv",
+      "bytes": 2967794,
+      "sha256": "16d2b823dc1119f7817f85557670a9f77469671a5350c137850fe975dece7c6b",
+      "media_type": "text/csv; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "data/dictionary.csv",
+      "bytes": 46291,
+      "sha256": "508f777a0bb0dab1a40f59260dd22dfacbe39406eee261e67ca3ca880fb6748c",
+      "media_type": "text/csv; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "data/raw/AMBIENTES.csv",
+      "bytes": 629,
+      "sha256": "61e7c0bf1d890f73b9ed07212a01cde5e73cbdf1a392484a39b4750f59342203",
+      "media_type": "text/csv; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "data/raw/CONDICOES_AMBIENTAIS.csv",
+      "bytes": 1268674,
+      "sha256": "2eb8e4caa2b3ceec3ce2a2126505329c5fb36cf340ba822534b3bd8ad1d71a76",
+      "media_type": "text/csv; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "data/raw/HISTORICO_ROBOS.csv",
+      "bytes": 1087425,
+      "sha256": "15baf3b01dec496a6ffb181162a07a3bf4913bde870dd6be0c6c8c0490cdc23d",
+      "media_type": "text/csv; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "data/raw/MANUTENCOES.csv",
+      "bytes": 148526,
+      "sha256": "7e5d28c8e2f8a8d831d89c59b3b8bd3fb927b02b95039e7ec984e56cda9988c6",
+      "media_type": "text/csv; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "data/raw/MISSOES.csv",
+      "bytes": 1855824,
+      "sha256": "426df3d424a79b6c94acf6edd150d4bdfc0d3425adcafeec1c1cb7907982f06f",
+      "media_type": "text/csv; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "data/raw/MODELOS_ROBO.csv",
+      "bytes": 234,
+      "sha256": "e4e579db058837a591390b72710c62ea4f7cd9a37b320626c475e3344f230a9a",
+      "media_type": "text/csv; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "data/raw/ROBOS.csv",
+      "bytes": 1244,
+      "sha256": "092a9dc848d5bce925f5fe1b869c97e75b9c821b89cc027d5cf962a7a14d6c31",
+      "media_type": "text/csv; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "data/raw/ROTAS.csv",
+      "bytes": 7329,
+      "sha256": "3975efb99d666d98b7c417d0d38f5dc1b1659f1b6bfaf8310500382466989d4e",
+      "media_type": "text/csv; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "data/README.md",
+      "bytes": 1379,
+      "sha256": "056e4b47daa398f1a7a0e3dbe2d9991be4a99beeaa6721e8c13656ba7ff04443",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "docs/DATA_DICTIONARY.md",
+      "bytes": 16261,
+      "sha256": "7375a66920204dbedd53dbab36328561e25fa68b8de41eadf5d8e857934bd3ee",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "docs/DATASET_CARD.md",
+      "bytes": 9420,
+      "sha256": "bf39f14a19cd99d8a438ca6d2282023089de82ed1c4f04fe7cc48d687ee39b8b",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "docs/GENERATION_METHODOLOGY.md",
+      "bytes": 7147,
+      "sha256": "a1e4cc23b61a49d8b14d7a501559abefb53f1d222272a93f0b73c88d449ce4de",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "docs/guia_explicativo_dataset_frota_robos_v2.pdf",
+      "bytes": 377521,
+      "sha256": "2c32e1227528f3df1f498f438841a2a67d4249a29738d9997e69aa9a4e01cf4f",
+      "media_type": "application/pdf",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "docs/LIMITATIONS.md",
+      "bytes": 7996,
+      "sha256": "9c9836d42bbc60746e3a66f1c68bfd9c91d65c2ade0b5fbe67c34a742b1ae292",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "docs/relational-schema.svg",
+      "bytes": 7118,
+      "sha256": "40f6862ac81240e871bb7acf64d449e86c857318464a351f3fdd1cf7487f910a",
+      "media_type": "image/svg+xml",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "docs/SCHEMA.md",
+      "bytes": 3409,
+      "sha256": "69cb4f2ae833329ccb9a0fe454fbc59d5d6a62a15b9e152bf606df31d01e5c00",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "docs/USE_CASES.md",
+      "bytes": 8922,
+      "sha256": "39065192c743633f699eaf9d4560891a81b405c1cc7fc05314e405dba825c9a2",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 11943,
+      "sha256": "92de33b585f07eb5f5d44aaf75635b817f4ae2f95325334caec5c3c96442d55f",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "examples/01_dataset_overview.ipynb",
+      "bytes": 11443,
+      "sha256": "77ae661b422ba3315548bdfe61e115f0b98f92f7309ae0b0aa1b2d281bb42d2d",
+      "media_type": "application/x-ipynb+json",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "examples/requirements.txt",
+      "bytes": 68,
+      "sha256": "662dc514cb7f4f6971ac0d74607bcd07219298ee5012b48f8d4cb3fa2d9605d7",
+      "media_type": "text/plain; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "full_dataset/dataset_frota_robos_centro_logistico_v2.xlsx",
+      "bytes": 6136028,
+      "sha256": "aa31190ea25bbde9313d00b7e76f4c58d7e19e0a6e58a3d60f9bd50c11ffe79b",
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "LICENSE-DATA.md",
+      "bytes": 2662,
+      "sha256": "d9f905d5bba77595bfe6bd4c02a72548c10dbb92ffd0ba14f45068552b2c9b24",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "PRE_PUBLICATION_CHECKLIST.md",
+      "bytes": 9445,
+      "sha256": "49b82f383f5ac3e7bc2db29ed128ad309bb2ddd79bb438626bfda27006b8e9ce",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "README.md",
+      "bytes": 13282,
+      "sha256": "e3432ecf1a7b065c6168fb430f160b1360813060fc7a7a92f86f97e6545aac6c",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    },
+    {
+      "path": "README.pt-BR.md",
+      "bytes": 14343,
+      "sha256": "f93115fbd5e3fcae1a5779c021d88e6a2ee7ef4c1f29c6ae1eba52a449e9b071",
+      "media_type": "text/markdown; charset=utf-8",
+      "author": "Maria Karolina Silva de Souza"
+    }
+  ]
+}

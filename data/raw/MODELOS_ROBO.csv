@@ -1,0 +1,5 @@
+modelo_id,nome_modelo,capacidade_carga_kg,tipo_bateria,velocidade_nominal_m_min,autonomia_nominal_h
+MD01,Atlas-M1,100,Íons de lítio,53,8
+MD02,Vector-V2,150,LFP,58,10
+MD03,Lince-L3,60,Íons de lítio,64,7
+MD04,Orion-O4,250,LFP,47,11

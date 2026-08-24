@@ -1,0 +1,3 @@
+# Author: Maria Karolina Silva de Souza
+pandas>=2.0
+matplotlib>=3.7

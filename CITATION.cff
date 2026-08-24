@@ -1,0 +1,21 @@
+cff-version: "1.2.0"
+message: "If you use this dataset, please cite it using the metadata in this file."
+type: dataset
+title: "Synthetic Mobile Robot Fleet Dataset for Logistics Operations"
+authors:
+  - given-names: "Maria Karolina"
+    family-names: "Silva de Souza"
+version: "1.0.0"
+license: "CC-BY-NC-4.0"
+abstract: >-
+  A relational and temporal synthetic dataset representing a mobile robot
+  fleet in logistics operations, designed for Data Science and Machine
+  Learning studies.
+keywords:
+  - synthetic data
+  - mobile robots
+  - logistics
+  - predictive maintenance
+  - machine learning
+  - temporal data
+  - relational data

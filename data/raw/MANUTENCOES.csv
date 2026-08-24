@@ -1,0 +1,1043 @@
+manutencao_id,robo_id,missao_relacionada_id,falha_detectada_em,data_hora_inicio_manutencao,data_hora_fim_manutencao,tempo_parado_h,componente,tipo_manutencao,custo_brl,falha_encontrada,severidade_falha,equipe_responsavel,peca_substituida
+MT000001,RB008,MS000008,2025-01-01T15:24:28,2025-01-01T15:47:07,2025-01-01T19:32:40,3.8,freios,corretiva,1908.01,efeito de colisão leve,leve,equipe alfa,1
+MT000002,RB033,MS000065,2025-01-05T06:20:34,2025-01-05T07:13:26,2025-01-05T13:26:10,6.2,controlador,corretiva,1849.62,motor de tração,moderada,equipe gama,1
+MT000003,RB016,MS000066,2025-01-05T10:51:16,2025-01-05T11:43:47,2025-01-06T05:13:44,17.5,LiDAR,corretiva,4396.84,efeito de colisão grave,crítica,equipe alfa,1
+MT000004,RB007,MS000107,2025-01-07T15:15:29,2025-01-07T15:34:16,2025-01-08T01:53:23,10.3,bateria,corretiva,1484.79,efeito de colisão moderada,moderada,equipe beta,1
+MT000005,RB023,MS000112,2025-01-08T09:47:03,2025-01-08T10:22:49,2025-01-08T17:29:38,7.1,LiDAR,corretiva,1679.76,efeito de colisão leve,leve,equipe gama,1
+MT000006,RB029,MS000153,2025-01-10T12:16:23,2025-01-10T12:34:20,2025-01-10T17:33:41,5,controlador,corretiva,1787.52,efeito de colisão moderada,moderada,equipe gama,1
+MT000007,RB006,MS000150,2025-01-10T11:50:40,2025-01-10T12:42:35,2025-01-10T21:57:54,9.3,LiDAR,corretiva,1978.61,efeito de colisão leve,leve,equipe beta,1
+MT000008,RB005,MS000250,2025-01-14T23:56:58,2025-01-15T00:11:39,2025-01-15T08:33:54,8.4,sensores de proximidade,corretiva,1391.82,efeito de colisão leve,leve,equipe alfa,1
+MT000009,RB046,MS000352,2025-01-20T01:53:07,2025-01-20T02:44:25,2025-01-20T15:26:02,12.7,bateria,corretiva,1349.3,efeito de colisão moderada,moderada,equipe gama,1
+MT000010,RB016,MS000357,2025-01-20T07:50:18,2025-01-20T08:34:23,2025-01-20T17:33:34,9,LiDAR,corretiva,3991.93,bateria abaixo do limite,moderada,equipe gama,1
+MT000011,RB002,,,2025-01-21T09:46:32,2025-01-21T12:45:08,3,controlador,preventiva,253.88,nenhuma falha,sem falha,equipe alfa,0
+MT000012,RB038,,,2025-01-21T15:16:48,2025-01-21T17:45:30,2.5,rodas,preventiva,451.82,nenhuma falha,sem falha,equipe beta,0
+MT000013,RB041,,,2025-01-22T05:20:51,2025-01-22T06:56:31,1.6,controlador,preventiva,516.61,nenhuma falha,sem falha,equipe beta,1
+MT000014,RB051,,,2025-01-22T14:11:21,2025-01-22T15:52:32,1.7,bateria,preventiva,614.82,nenhuma falha,sem falha,equipe beta,0
+MT000015,RB045,,,2025-01-22T17:12:05,2025-01-22T20:27:50,3.3,freios,preventiva,122.55,desgaste dentro do limite,sem falha,equipe beta,0
+MT000016,RB020,,,2025-01-22T20:47:11,2025-01-23T00:48:07,4,módulo de rede,preventiva,599.32,nenhuma falha,sem falha,equipe alfa,1
+MT000017,RB048,,,2025-01-23T14:50:46,2025-01-23T17:15:45,2.4,rodas,preventiva,573.81,nenhuma falha,sem falha,equipe gama,0
+MT000018,RB016,MS000410,2025-01-23T18:19:13,2025-01-23T18:55:06,2025-01-24T02:48:05,7.9,sensores de proximidade,corretiva,3763.29,motor de tração,moderada,equipe beta,1
+MT000019,RB013,,,2025-01-24T13:55:38,2025-01-24T16:03:01,2.1,motor de tração,preventiva,371.11,nenhuma falha,sem falha,equipe beta,0
+MT000020,RB003,MS000455,2025-01-25T20:14:15,2025-01-25T20:39:12,2025-01-26T06:13:39,9.6,controlador,corretiva,2815.57,efeito de colisão moderada,moderada,equipe gama,1
+MT000021,RB035,,,2025-01-26T01:08:23,2025-01-26T03:53:09,2.7,bateria,preventiva,573.41,nenhuma falha,sem falha,equipe alfa,0
+MT000022,RB052,,,2025-01-26T02:28:16,2025-01-26T04:45:35,2.3,módulo de rede,preventiva,550.86,nenhuma falha,sem falha,equipe gama,0
+MT000023,RB044,MS000463,2025-01-26T09:42:36,2025-01-26T10:12:31,2025-01-26T21:14:43,11,controlador,corretiva,2689.22,sensor,moderada,equipe gama,0
+MT000024,RB011,,,2025-01-27T03:01:28,2025-01-27T05:29:42,2.5,motor de tração,preventiva,1112.16,desgaste dentro do limite,sem falha,equipe beta,1
+MT000025,RB039,MS000481,2025-01-27T02:45:43,2025-01-27T03:04:23,2025-01-27T12:54:21,9.8,motor de tração,corretiva,2177.55,efeito de colisão leve,leve,equipe gama,1
+MT000026,RB039,,,2025-01-27T13:09:21,2025-01-27T14:34:59,1.4,sensores de proximidade,preventiva,477.57,nenhuma falha,sem falha,equipe alfa,0
+MT000027,RB005,,,2025-01-27T15:40:03,2025-01-27T17:24:52,1.7,bateria,preventiva,554.83,desgaste dentro do limite,sem falha,equipe gama,0
+MT000028,RB054,,,2025-01-27T16:49:39,2025-01-27T17:37:39,0.8,motor de tração,preventiva,310.9,nenhuma falha,sem falha,equipe gama,0
+MT000029,RB044,,,2025-01-28T09:14:49,2025-01-28T11:18:55,2.1,controlador,preventiva,776.36,nenhuma falha,sem falha,equipe beta,0
+MT000030,RB010,,,2025-01-28T09:30:00,2025-01-28T13:49:09,4.3,bateria,preventiva,663.87,nenhuma falha,sem falha,equipe beta,0
+MT000031,RB055,MS000509,2025-01-28T15:43:47,2025-01-28T16:01:18,2025-01-29T04:27:03,12.4,controlador,corretiva,2614.26,efeito de colisão moderada,moderada,equipe gama,1
+MT000032,RB004,,,2025-01-29T09:58:32,2025-01-29T11:47:51,1.8,sensores de proximidade,preventiva,971.73,nenhuma falha,sem falha,equipe beta,0
+MT000033,RB012,,,2025-01-29T12:10:28,2025-01-29T12:58:28,0.8,freios,preventiva,602.05,nenhuma falha,sem falha,equipe gama,0
+MT000034,RB029,,,2025-01-30T00:14:57,2025-01-30T01:02:57,0.8,LiDAR,preventiva,573.24,nenhuma falha,sem falha,equipe alfa,0
+MT000035,RB050,,,2025-01-30T01:20:59,2025-01-30T02:55:41,1.6,controlador,preventiva,514.58,nenhuma falha,sem falha,equipe gama,0
+MT000036,RB017,,,2025-01-30T11:58:08,2025-01-30T15:43:35,3.8,módulo de rede,preventiva,675.23,desgaste dentro do limite,sem falha,equipe beta,1
+MT000037,RB003,,,2025-01-30T20:00:42,2025-01-30T22:05:11,2.1,motor de tração,preventiva,601.3,nenhuma falha,sem falha,equipe alfa,1
+MT000038,RB049,,,2025-01-31T07:14:01,2025-01-31T09:37:17,2.4,rodas,preventiva,532.37,nenhuma falha,sem falha,equipe gama,0
+MT000039,RB018,,,2025-01-31T11:49:41,2025-01-31T15:13:19,3.4,sensores de proximidade,preventiva,443.72,nenhuma falha,sem falha,equipe beta,0
+MT000040,RB021,,,2025-01-31T18:53:11,2025-01-31T22:04:31,3.2,motor de tração,preventiva,419.77,nenhuma falha,sem falha,equipe beta,0
+MT000041,RB040,,,2025-02-01T01:50:58,2025-02-01T04:23:51,2.5,LiDAR,preventiva,346.52,nenhuma falha,sem falha,equipe gama,0
+MT000042,RB059,,,2025-02-01T04:16:17,2025-02-01T07:17:57,3,sensores de proximidade,preventiva,695.52,nenhuma falha,sem falha,equipe alfa,1
+MT000043,RB031,,,2025-02-01T07:34:54,2025-02-01T10:57:39,3.4,sensores de proximidade,preventiva,576.21,nenhuma falha,sem falha,equipe alfa,0
+MT000044,RB032,MS000584,2025-02-01T16:09:19,2025-02-01T16:48:47,2025-02-02T04:36:31,11.8,bateria,corretiva,1932.25,efeito de colisão moderada,moderada,equipe beta,0
+MT000045,RB025,,,2025-02-02T06:17:52,2025-02-02T09:04:34,2.8,sensores de proximidade,preventiva,334.24,nenhuma falha,sem falha,equipe gama,0
+MT000046,RB047,,,2025-02-02T13:06:24,2025-02-02T14:29:24,1.4,rodas,preventiva,484.4,nenhuma falha,sem falha,equipe gama,0
+MT000047,RB059,MS000627,2025-02-03T23:36:48,2025-02-03T23:57:19,2025-02-04T06:16:11,6.3,módulo de rede,corretiva,2645.35,efeito de colisão moderada,moderada,equipe beta,1
+MT000048,RB032,MS000626,2025-02-03T23:29:16,2025-02-04T00:24:31,2025-02-04T11:35:56,11.2,LiDAR,corretiva,1937.09,efeito de colisão leve,leve,equipe gama,0
+MT000049,RB045,MS000628,2025-02-03T23:53:44,2025-02-04T00:34:16,2025-02-04T13:04:06,12.5,rodas,corretiva,3237.3,efeito de colisão grave,crítica,equipe alfa,0
+MT000050,RB008,,,2025-02-04T06:55:43,2025-02-04T09:24:05,2.5,motor de tração,preventiva,829.14,nenhuma falha,sem falha,equipe alfa,0
+MT000051,RB034,,,2025-02-05T07:40:56,2025-02-05T10:14:16,2.6,freios,preventiva,736.78,nenhuma falha,sem falha,equipe alfa,1
+MT000052,RB057,,,2025-02-05T09:25:07,2025-02-05T12:37:57,3.2,controlador,preventiva,184.59,nenhuma falha,sem falha,equipe gama,0
+MT000053,RB043,,,2025-02-06T01:30:26,2025-02-06T05:12:56,3.7,motor de tração,preventiva,419.69,nenhuma falha,sem falha,equipe beta,0
+MT000054,RB007,,,2025-02-06T09:18:32,2025-02-06T10:25:17,1.1,LiDAR,preventiva,404.04,nenhuma falha,sem falha,equipe gama,1
+MT000055,RB038,MS000673,2025-02-06T18:58:36,2025-02-06T19:17:57,2025-02-07T15:39:13,20.4,LiDAR,corretiva,2373.38,motor de tração,moderada,equipe beta,1
+MT000056,RB014,,,2025-02-06T19:59:18,2025-02-06T23:55:39,3.9,módulo de rede,preventiva,729.05,desgaste dentro do limite,sem falha,equipe gama,1
+MT000057,RB024,,,2025-02-07T04:22:19,2025-02-07T08:08:08,3.8,sensores de proximidade,preventiva,451.22,nenhuma falha,sem falha,equipe beta,0
+MT000058,RB019,,,2025-02-07T15:47:58,2025-02-07T19:22:18,3.6,bateria,preventiva,783.86,nenhuma falha,sem falha,equipe gama,1
+MT000059,RB001,,,2025-02-08T07:30:27,2025-02-08T09:52:00,2.4,rodas,preventiva,390.79,nenhuma falha,sem falha,equipe beta,0
+MT000060,RB055,MS000694,2025-02-08T09:15:48,2025-02-08T10:09:52,2025-02-08T17:24:01,7.2,bateria,corretiva,2684.92,efeito de colisão moderada,moderada,equipe beta,1
+MT000061,RB023,MS000698,2025-02-08T11:22:55,2025-02-08T11:56:21,2025-02-08T14:35:28,2.7,controlador,corretiva,1289.18,efeito de colisão moderada,moderada,equipe gama,0
+MT000062,RB028,,,2025-02-08T16:30:20,2025-02-08T18:45:02,2.2,sensores de proximidade,preventiva,379.66,nenhuma falha,sem falha,equipe alfa,0
+MT000063,RB033,,,2025-02-08T17:04:39,2025-02-08T18:45:49,1.7,controlador,preventiva,482.39,nenhuma falha,sem falha,equipe alfa,0
+MT000064,RB016,MS000708,2025-02-08T18:22:04,2025-02-08T18:37:46,2025-02-09T10:31:32,15.9,módulo de rede,corretiva,1999.88,efeito de colisão moderada,moderada,equipe alfa,1
+MT000065,RB036,,,2025-02-08T19:05:54,2025-02-08T21:39:31,2.6,sensores de proximidade,preventiva,120,desgaste dentro do limite,sem falha,equipe gama,0
+MT000066,RB032,,,2025-02-09T01:42:32,2025-02-09T04:16:05,2.6,módulo de rede,preventiva,398.38,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000067,RB058,,,2025-02-09T05:12:41,2025-02-09T06:00:41,0.8,rodas,preventiva,717.47,nenhuma falha,sem falha,equipe beta,0
+MT000068,RB015,,,2025-02-09T06:16:04,2025-02-09T08:48:11,2.5,bateria,preventiva,559.32,desgaste dentro do limite,sem falha,equipe gama,0
+MT000069,RB053,,,2025-02-09T09:06:12,2025-02-09T09:57:03,0.8,controlador,preventiva,508.58,nenhuma falha,sem falha,equipe gama,0
+MT000070,RB055,,,2025-02-09T10:11:43,2025-02-09T13:08:48,3,bateria,preventiva,443.84,nenhuma falha,sem falha,equipe beta,1
+MT000071,RB006,,,2025-02-09T19:45:27,2025-02-09T22:31:09,2.8,bateria,preventiva,659.98,nenhuma falha,sem falha,equipe alfa,0
+MT000072,RB026,,,2025-02-09T20:21:43,2025-02-09T23:39:45,3.3,rodas,preventiva,560.04,nenhuma falha,sem falha,equipe alfa,0
+MT000073,RB060,,,2025-02-09T21:18:37,2025-02-09T23:09:44,1.9,controlador,preventiva,834.08,nenhuma falha,sem falha,equipe alfa,0
+MT000074,RB030,,,2025-02-10T02:04:01,2025-02-10T06:06:02,4,bateria,preventiva,346.55,nenhuma falha,sem falha,equipe alfa,0
+MT000075,RB009,,,2025-02-10T06:07:02,2025-02-10T09:25:37,3.3,rodas,preventiva,809.55,nenhuma falha,sem falha,equipe gama,0
+MT000076,RB022,,,2025-02-10T10:15:58,2025-02-10T13:12:55,2.9,motor de tração,preventiva,422.41,nenhuma falha,sem falha,equipe gama,0
+MT000077,RB029,MS000728,2025-02-10T11:11:31,2025-02-10T11:57:34,2025-02-11T09:14:30,21.3,sensores de proximidade,corretiva,4291.05,efeito de colisão grave,crítica,equipe alfa,0
+MT000078,RB036,MS000734,2025-02-10T15:58:39,2025-02-10T16:12:04,2025-02-10T23:07:01,6.9,controlador,corretiva,350,efeito de colisão moderada,moderada,equipe gama,1
+MT000079,RB039,MS000736,2025-02-10T17:20:48,2025-02-10T17:37:23,2025-02-11T00:38:22,7,bateria,corretiva,1270.94,motor de tração,moderada,equipe alfa,0
+MT000080,RB037,,,2025-02-11T06:26:19,2025-02-11T09:35:23,3.2,rodas,preventiva,445.12,nenhuma falha,sem falha,equipe gama,0
+MT000081,RB046,MS000748,2025-02-11T15:03:21,2025-02-11T15:17:58,2025-02-11T22:56:21,7.6,módulo de rede,corretiva,3003.52,efeito de colisão moderada,moderada,equipe alfa,0
+MT000082,RB016,,,2025-02-12T03:12:08,2025-02-12T06:18:47,3.1,motor de tração,preventiva,490.37,nenhuma falha,sem falha,equipe beta,0
+MT000083,RB054,MS000774,2025-02-12T16:37:13,2025-02-12T16:51:04,2025-02-12T23:34:39,6.7,bateria,corretiva,3495.51,efeito de colisão moderada,moderada,equipe gama,1
+MT000084,RB042,,,2025-02-12T23:24:18,2025-02-13T01:26:57,2,controlador,preventiva,697.85,nenhuma falha,sem falha,equipe gama,0
+MT000085,RB056,,,2025-02-13T21:12:18,2025-02-14T00:18:39,3.1,sensores de proximidade,preventiva,588.08,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000086,RB023,,,2025-02-13T23:19:21,2025-02-14T02:23:21,3.1,sensores de proximidade,preventiva,693.3,nenhuma falha,sem falha,equipe beta,0
+MT000087,RB027,,,2025-02-13T23:19:26,2025-02-14T02:52:37,3.6,LiDAR,preventiva,456.87,nenhuma falha,sem falha,equipe gama,0
+MT000088,RB046,,,2025-02-14T13:39:13,2025-02-14T16:38:34,3,rodas,preventiva,613.69,nenhuma falha,sem falha,equipe alfa,0
+MT000089,RB017,MS000846,2025-02-16T14:40:20,2025-02-16T15:23:00,2025-02-16T19:48:55,4.4,sensores de proximidade,corretiva,452.75,efeito de colisão moderada,moderada,equipe beta,0
+MT000090,RB024,MS000905,2025-02-19T19:55:04,2025-02-19T20:37:59,2025-02-20T03:21:19,6.7,rodas,corretiva,2013.03,efeito de colisão leve,leve,equipe beta,1
+MT000091,RB018,MS000926,2025-02-20T22:44:18,2025-02-20T23:07:31,2025-02-21T06:51:56,7.7,bateria,corretiva,1978.29,efeito de colisão leve,leve,equipe gama,1
+MT000092,RB049,MS000929,2025-02-21T00:29:41,2025-02-21T01:03:12,2025-02-21T09:15:00,8.2,motor de tração,corretiva,994.27,efeito de colisão leve,leve,equipe gama,0
+MT000093,RB060,MS000976,2025-02-23T11:39:23,2025-02-23T12:35:55,2025-02-23T18:53:50,6.3,sensores de proximidade,corretiva,1643.85,efeito de colisão leve,leve,equipe gama,1
+MT000094,RB018,MS001016,2025-02-25T11:22:43,2025-02-25T12:01:07,2025-02-26T02:22:49,14.4,rodas,corretiva,2344.19,perda persistente de comunicação,moderada,equipe beta,0
+MT000095,RB017,MS001017,2025-02-25T11:46:16,2025-02-25T12:33:09,2025-02-25T17:29:20,4.9,controlador,corretiva,1686.09,efeito de colisão moderada,moderada,equipe beta,1
+MT000096,RB020,,,2025-02-26T06:26:30,2025-02-26T10:09:00,3.7,bateria,preventiva,445.61,desgaste dentro do limite,sem falha,equipe beta,0
+MT000097,RB039,,,2025-03-01T20:39:29,2025-03-01T23:09:59,2.5,sensores de proximidade,preventiva,338.08,nenhuma falha,sem falha,equipe alfa,0
+MT000098,RB044,,,2025-03-01T21:50:44,2025-03-02T02:00:47,4.2,rodas,preventiva,598.7,desgaste dentro do limite,sem falha,equipe gama,0
+MT000099,RB003,MS001116,2025-03-01T23:24:23,2025-03-01T23:45:15,2025-03-02T05:44:22,6,motor de tração,corretiva,1437.16,sensor,moderada,equipe alfa,1
+MT000100,RB005,,,2025-03-02T10:30:56,2025-03-02T14:11:02,3.7,motor de tração,preventiva,747.3,nenhuma falha,sem falha,equipe alfa,0
+MT000101,RB051,MS001133,2025-03-02T21:38:28,2025-03-02T22:02:13,2025-03-03T05:52:14,7.8,sensores de proximidade,corretiva,2684.7,efeito de colisão leve,leve,equipe gama,1
+MT000102,RB036,MS001141,2025-03-03T08:56:59,2025-03-03T09:31:45,2025-03-03T22:12:38,12.7,sensores de proximidade,corretiva,1373.02,perda persistente de comunicação,moderada,equipe alfa,1
+MT000103,RB004,,,2025-03-03T10:07:57,2025-03-03T12:20:23,2.2,sensores de proximidade,preventiva,322.71,nenhuma falha,sem falha,equipe beta,0
+MT000104,RB048,,,2025-03-04T09:33:34,2025-03-04T11:24:50,1.9,LiDAR,preventiva,721.68,nenhuma falha,sem falha,equipe alfa,1
+MT000105,RB031,MS001166,2025-03-04T12:14:51,2025-03-04T12:38:45,2025-03-04T18:51:14,6.2,controlador,corretiva,1124.1,efeito de colisão leve,leve,equipe beta,1
+MT000106,RB059,MS001176,2025-03-04T19:16:42,2025-03-04T20:04:59,2025-03-05T05:20:12,9.3,sensores de proximidade,corretiva,350,efeito de colisão leve,leve,equipe alfa,1
+MT000107,RB052,,,2025-03-04T23:35:27,2025-03-05T00:30:07,0.9,bateria,preventiva,625.83,desgaste dentro do limite,sem falha,equipe beta,0
+MT000108,RB057,MS001179,2025-03-05T00:02:30,2025-03-05T00:21:36,2025-03-05T07:51:15,7.5,motor de tração,corretiva,1901.58,bateria abaixo do limite,moderada,equipe beta,1
+MT000109,RB002,,,2025-03-05T02:28:30,2025-03-05T03:40:33,1.2,motor de tração,preventiva,336.28,desgaste dentro do limite,sem falha,equipe alfa,1
+MT000110,RB040,MS001193,2025-03-05T16:23:19,2025-03-05T17:07:51,2025-03-06T00:42:27,7.6,rodas,corretiva,1517.73,perda persistente de comunicação,moderada,equipe beta,1
+MT000111,RB040,,,2025-03-06T04:08:07,2025-03-06T06:39:34,2.5,motor de tração,preventiva,712.35,nenhuma falha,sem falha,equipe alfa,0
+MT000112,RB050,,,2025-03-06T14:37:39,2025-03-06T17:14:37,2.6,sensores de proximidade,preventiva,385.44,nenhuma falha,sem falha,equipe beta,1
+MT000113,RB030,MS001211,2025-03-06T20:48:54,2025-03-06T21:06:58,2025-03-07T04:00:17,6.9,sensores de proximidade,corretiva,1000.37,efeito de colisão leve,leve,equipe beta,1
+MT000114,RB018,,,2025-03-08T11:57:40,2025-03-08T14:21:23,2.4,freios,preventiva,301,nenhuma falha,sem falha,equipe gama,0
+MT000115,RB008,,,2025-03-09T05:14:45,2025-03-09T07:55:22,2.7,sensores de proximidade,preventiva,120,nenhuma falha,sem falha,equipe gama,0
+MT000116,RB052,MS001251,2025-03-10T00:41:36,2025-03-10T01:00:32,2025-03-10T10:28:44,9.5,sensores de proximidade,corretiva,2412.21,efeito de colisão leve,leve,equipe alfa,1
+MT000117,RB012,,,2025-03-10T20:59:53,2025-03-10T23:10:23,2.2,módulo de rede,preventiva,552.81,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000118,RB009,MS001269,2025-03-10T22:53:12,2025-03-10T23:34:58,2025-03-11T09:47:33,10.2,rodas,corretiva,1781.87,bateria abaixo do limite,moderada,equipe beta,1
+MT000119,RB035,MS001281,2025-03-11T13:54:51,2025-03-11T14:16:57,2025-03-11T23:45:59,9.5,sensores de proximidade,corretiva,2183.38,efeito de colisão leve,leve,equipe alfa,0
+MT000120,RB048,MS001282,2025-03-11T16:11:50,2025-03-11T17:03:29,2025-03-11T18:42:36,1.7,rodas,corretiva,3490.14,bateria abaixo do limite,moderada,equipe alfa,1
+MT000121,RB034,,,2025-03-12T00:39:15,2025-03-12T03:53:52,3.2,controlador,preventiva,364.67,nenhuma falha,sem falha,equipe gama,0
+MT000122,RB045,,,2025-03-12T09:39:21,2025-03-12T10:58:12,1.3,controlador,preventiva,570.03,desgaste dentro do limite,sem falha,equipe beta,0
+MT000123,RB010,,,2025-03-12T15:11:25,2025-03-12T17:33:52,2.4,controlador,preventiva,380.67,nenhuma falha,sem falha,equipe beta,0
+MT000124,RB043,MS001302,2025-03-12T16:34:06,2025-03-12T16:53:38,2025-03-12T23:12:16,6.3,LiDAR,corretiva,1102.23,efeito de colisão moderada,moderada,equipe gama,1
+MT000125,RB060,MS001308,2025-03-12T22:28:48,2025-03-12T23:20:36,2025-03-13T07:14:32,7.9,sensores de proximidade,corretiva,1877.17,efeito de colisão leve,leve,equipe alfa,0
+MT000126,RB029,,,2025-03-13T01:18:07,2025-03-13T04:11:30,2.9,freios,preventiva,410.4,nenhuma falha,sem falha,equipe gama,0
+MT000127,RB014,MS001312,2025-03-13T09:46:21,2025-03-13T10:09:08,2025-03-13T20:02:51,9.9,controlador,corretiva,2308.64,efeito de colisão leve,leve,equipe gama,0
+MT000128,RB051,,,2025-03-13T12:56:15,2025-03-13T15:34:09,2.6,controlador,preventiva,522.44,nenhuma falha,sem falha,equipe beta,0
+MT000129,RB033,,,2025-03-13T16:30:08,2025-03-13T19:43:00,3.2,bateria,preventiva,466.48,nenhuma falha,sem falha,equipe alfa,0
+MT000130,RB038,,,2025-03-13T19:11:34,2025-03-13T21:48:35,2.6,sensores de proximidade,preventiva,159.45,nenhuma falha,sem falha,equipe gama,0
+MT000131,RB041,,,2025-03-14T13:18:38,2025-03-14T16:38:25,3.3,módulo de rede,preventiva,542.61,desgaste dentro do limite,sem falha,equipe gama,0
+MT000132,RB036,,,2025-03-14T18:49:17,2025-03-14T20:41:05,1.9,sensores de proximidade,preventiva,424.84,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000133,RB003,,,2025-03-14T19:36:40,2025-03-14T22:28:06,2.9,motor de tração,preventiva,788.86,nenhuma falha,sem falha,equipe gama,0
+MT000134,RB013,,,2025-03-15T04:40:49,2025-03-15T07:49:39,3.1,freios,preventiva,738.91,nenhuma falha,sem falha,equipe gama,0
+MT000135,RB035,,,2025-03-15T07:06:49,2025-03-15T08:45:46,1.6,sensores de proximidade,preventiva,662.37,nenhuma falha,sem falha,equipe beta,1
+MT000136,RB059,MS001362,2025-03-15T19:39:50,2025-03-15T20:01:44,2025-03-16T02:57:55,6.9,bateria,corretiva,2536.53,efeito de colisão moderada,moderada,equipe beta,0
+MT000137,RB032,,,2025-03-16T00:55:17,2025-03-16T04:08:54,3.2,sensores de proximidade,preventiva,376.02,nenhuma falha,sem falha,equipe gama,0
+MT000138,RB011,,,2025-03-17T05:35:35,2025-03-17T08:00:06,2.4,bateria,preventiva,327.16,nenhuma falha,sem falha,equipe beta,0
+MT000139,RB017,,,2025-03-17T09:34:43,2025-03-17T10:58:23,1.4,sensores de proximidade,preventiva,461.26,nenhuma falha,sem falha,equipe beta,1
+MT000140,RB054,,,2025-03-18T06:34:52,2025-03-18T09:28:02,2.9,motor de tração,preventiva,120,desgaste dentro do limite,sem falha,equipe beta,0
+MT000141,RB047,,,2025-03-18T06:43:10,2025-03-18T08:43:14,2,sensores de proximidade,preventiva,150.16,nenhuma falha,sem falha,equipe gama,0
+MT000142,RB055,,,2025-03-18T14:30:06,2025-03-18T18:27:29,4,bateria,preventiva,482.99,nenhuma falha,sem falha,equipe beta,1
+MT000143,RB025,,,2025-03-18T15:00:42,2025-03-18T17:07:29,2.1,módulo de rede,preventiva,185.4,nenhuma falha,sem falha,equipe beta,0
+MT000144,RB023,,,2025-03-18T20:19:53,2025-03-18T21:50:47,1.5,sensores de proximidade,preventiva,771.45,nenhuma falha,sem falha,equipe gama,0
+MT000145,RB049,,,2025-03-19T00:34:55,2025-03-19T02:30:02,1.9,bateria,preventiva,779.6,nenhuma falha,sem falha,equipe gama,0
+MT000146,RB059,,,2025-03-19T04:46:37,2025-03-19T07:28:00,2.7,bateria,preventiva,473.12,desgaste dentro do limite,sem falha,equipe beta,1
+MT000147,RB046,,,2025-03-19T08:29:29,2025-03-19T11:14:42,2.8,motor de tração,preventiva,308.1,desgaste dentro do limite,sem falha,equipe gama,1
+MT000148,RB031,MS001413,2025-03-19T08:03:48,2025-03-19T08:29:54,2025-03-19T22:21:41,13.9,sensores de proximidade,corretiva,4786.92,efeito de colisão grave,crítica,equipe alfa,1
+MT000149,RB016,,,2025-03-19T22:07:30,2025-03-20T01:23:55,3.3,sensores de proximidade,preventiva,555.24,nenhuma falha,sem falha,equipe beta,0
+MT000150,RB031,,,2025-03-19T22:36:41,2025-03-20T00:13:37,1.6,sensores de proximidade,preventiva,907.97,desgaste dentro do limite,sem falha,equipe gama,0
+MT000151,RB021,,,2025-03-20T05:38:53,2025-03-20T07:34:03,1.9,sensores de proximidade,preventiva,307.11,nenhuma falha,sem falha,equipe beta,1
+MT000152,RB056,,,2025-03-20T09:11:11,2025-03-20T09:59:11,0.8,freios,preventiva,490.19,nenhuma falha,sem falha,equipe alfa,0
+MT000153,RB053,,,2025-03-20T14:37:00,2025-03-20T16:53:03,2.3,controlador,preventiva,502.28,nenhuma falha,sem falha,equipe beta,1
+MT000154,RB026,,,2025-03-20T22:05:11,2025-03-20T23:36:11,1.5,controlador,preventiva,371.09,nenhuma falha,sem falha,equipe alfa,0
+MT000155,RB030,,,2025-03-21T08:53:15,2025-03-21T11:39:12,2.8,rodas,preventiva,644.96,desgaste dentro do limite,sem falha,equipe gama,0
+MT000156,RB004,MS001451,2025-03-22T07:19:41,2025-03-22T08:03:23,2025-03-22T09:33:23,1.5,controlador,corretiva,2742.09,sensor,moderada,equipe gama,1
+MT000157,RB027,,,2025-03-22T08:21:39,2025-03-22T09:09:39,0.8,motor de tração,preventiva,154.47,desgaste dentro do limite,sem falha,equipe beta,1
+MT000158,RB007,,,2025-03-22T08:22:53,2025-03-22T12:19:45,3.9,sensores de proximidade,preventiva,274.67,desgaste dentro do limite,sem falha,equipe beta,1
+MT000159,RB043,,,2025-03-22T10:14:53,2025-03-22T12:09:35,1.9,motor de tração,preventiva,592.56,nenhuma falha,sem falha,equipe beta,0
+MT000160,RB037,MS001459,2025-03-22T13:35:18,2025-03-22T14:01:55,2025-03-22T21:30:10,7.5,LiDAR,corretiva,1268.82,sensor,moderada,equipe gama,1
+MT000161,RB060,,,2025-03-23T05:29:48,2025-03-23T07:41:47,2.2,rodas,preventiva,817.24,nenhuma falha,sem falha,equipe beta,0
+MT000162,RB009,,,2025-03-23T13:30:33,2025-03-23T15:23:25,1.9,módulo de rede,preventiva,568.44,desgaste dentro do limite,sem falha,equipe beta,0
+MT000163,RB001,MS001518,2025-03-25T12:38:21,2025-03-25T12:59:08,2025-03-25T17:12:28,4.2,sensores de proximidade,corretiva,2511.06,perda persistente de comunicação,moderada,equipe alfa,1
+MT000164,RB015,,,2025-03-25T19:07:53,2025-03-25T23:16:03,4.1,controlador,preventiva,645.76,nenhuma falha,sem falha,equipe alfa,0
+MT000165,RB019,,,2025-03-26T12:09:21,2025-03-26T13:42:34,1.6,sensores de proximidade,preventiva,620.02,nenhuma falha,sem falha,equipe gama,0
+MT000166,RB013,MS001547,2025-03-26T21:18:04,2025-03-26T21:45:09,2025-03-27T04:19:00,6.6,rodas,corretiva,3166.71,bateria abaixo do limite,moderada,equipe alfa,1
+MT000167,RB057,,,2025-03-27T00:06:37,2025-03-27T03:21:36,3.2,motor de tração,preventiva,419.76,nenhuma falha,sem falha,equipe gama,0
+MT000168,RB006,,,2025-03-27T07:24:02,2025-03-27T10:32:16,3.1,módulo de rede,preventiva,608.29,desgaste dentro do limite,sem falha,equipe gama,0
+MT000169,RB024,,,2025-03-28T03:07:13,2025-03-28T06:02:58,2.9,módulo de rede,preventiva,622.48,nenhuma falha,sem falha,equipe beta,1
+MT000170,RB014,,,2025-03-28T19:03:26,2025-03-28T19:51:26,0.8,controlador,preventiva,429.89,desgaste dentro do limite,sem falha,equipe gama,0
+MT000171,RB037,,,2025-03-28T20:23:10,2025-03-28T22:37:55,2.2,motor de tração,preventiva,530.88,nenhuma falha,sem falha,equipe beta,0
+MT000172,RB045,MS001591,2025-03-29T13:10:09,2025-03-29T14:03:16,2025-03-29T15:33:16,1.5,bateria,corretiva,1603.19,sensor,moderada,equipe gama,1
+MT000173,RB001,,,2025-03-30T05:52:02,2025-03-30T08:18:01,2.4,freios,preventiva,496.08,desgaste dentro do limite,sem falha,equipe gama,0
+MT000174,RB022,,,2025-03-30T11:06:26,2025-03-30T11:54:26,0.8,controlador,preventiva,283.95,desgaste dentro do limite,sem falha,equipe gama,0
+MT000175,RB058,,,2025-03-30T12:01:10,2025-03-30T14:30:59,2.5,controlador,preventiva,632.72,nenhuma falha,sem falha,equipe beta,0
+MT000176,RB045,MS001627,2025-03-31T19:41:53,2025-03-31T20:15:53,2025-04-01T05:09:57,8.9,rodas,corretiva,2558.93,bateria abaixo do limite,moderada,equipe gama,1
+MT000177,RB005,MS001631,2025-03-31T21:45:52,2025-03-31T22:12:55,2025-04-01T05:26:31,7.2,controlador,corretiva,2154.64,perda persistente de comunicação,moderada,equipe gama,0
+MT000178,RB012,MS001640,2025-04-01T11:14:41,2025-04-01T12:03:11,2025-04-01T19:10:01,7.1,rodas,corretiva,2151.42,sensor,moderada,equipe beta,0
+MT000179,RB028,,,2025-04-01T12:21:11,2025-04-01T15:32:03,3.2,sensores de proximidade,preventiva,471.88,nenhuma falha,sem falha,equipe alfa,0
+MT000180,RB011,MS001642,2025-04-01T13:39:15,2025-04-01T14:01:22,2025-04-01T19:17:47,5.3,motor de tração,corretiva,1139.34,efeito de colisão grave,crítica,equipe alfa,0
+MT000181,RB042,,,2025-04-01T20:12:33,2025-04-01T23:04:23,2.9,sensores de proximidade,preventiva,618.06,nenhuma falha,sem falha,equipe beta,1
+MT000182,RB034,MS001673,2025-04-02T13:44:16,2025-04-02T14:16:39,2025-04-02T23:16:23,9,controlador,corretiva,929.32,efeito de colisão moderada,moderada,equipe beta,1
+MT000183,RB023,MS001674,2025-04-02T15:37:37,2025-04-02T16:07:52,2025-04-03T02:22:10,10.2,rodas,corretiva,2540.81,bateria abaixo do limite,moderada,equipe alfa,1
+MT000184,RB045,MS001694,2025-04-03T18:27:56,2025-04-03T19:01:27,2025-04-04T04:02:38,9,rodas,corretiva,1116.28,efeito de colisão moderada,moderada,equipe beta,1
+MT000185,RB014,MS001709,2025-04-04T11:22:03,2025-04-04T12:14:09,2025-04-05T01:35:25,13.4,motor de tração,corretiva,1081.53,efeito de colisão moderada,moderada,equipe gama,1
+MT000186,RB006,MS001712,2025-04-04T14:23:09,2025-04-04T14:36:15,2025-04-05T02:31:05,11.9,LiDAR,corretiva,1585.12,perda persistente de comunicação,moderada,equipe gama,1
+MT000187,RB014,MS001735,2025-04-05T14:42:34,2025-04-05T15:04:53,2025-04-06T03:31:40,12.4,LiDAR,corretiva,1230.06,efeito de colisão moderada,moderada,equipe beta,1
+MT000188,RB048,,,2025-04-05T15:10:30,2025-04-05T18:32:42,3.4,módulo de rede,preventiva,298.22,desgaste dentro do limite,sem falha,equipe gama,0
+MT000189,RB046,MS001738,2025-04-05T17:32:41,2025-04-05T18:22:19,2025-04-06T00:58:24,6.6,bateria,corretiva,350,perda persistente de comunicação,moderada,equipe gama,1
+MT000190,RB025,MS001744,2025-04-05T23:39:36,2025-04-06T00:08:18,2025-04-06T11:55:46,11.8,bateria,corretiva,3094.74,perda persistente de comunicação,moderada,equipe gama,1
+MT000191,RB023,MS001750,2025-04-06T14:08:36,2025-04-06T14:25:35,2025-04-06T20:32:25,6.1,sensores de proximidade,corretiva,2479.66,efeito de colisão moderada,moderada,equipe alfa,1
+MT000192,RB004,,,2025-04-08T02:47:17,2025-04-08T05:49:43,3,sensores de proximidade,preventiva,296.23,nenhuma falha,sem falha,equipe alfa,0
+MT000193,RB003,MS001789,2025-04-08T08:18:22,2025-04-08T08:50:32,2025-04-08T11:21:34,2.5,sensores de proximidade,corretiva,1164.55,perda persistente de comunicação,moderada,equipe alfa,0
+MT000194,RB033,MS001799,2025-04-08T16:39:11,2025-04-08T17:05:28,2025-04-09T03:46:37,10.7,controlador,corretiva,752.85,efeito de colisão moderada,moderada,equipe alfa,1
+MT000195,RB039,,,2025-04-09T04:47:57,2025-04-09T08:04:56,3.3,controlador,preventiva,730.36,nenhuma falha,sem falha,equipe beta,1
+MT000196,RB048,MS001833,2025-04-10T16:46:06,2025-04-10T17:24:45,2025-04-11T14:05:41,20.7,bateria,corretiva,2260.62,perda persistente de comunicação,moderada,equipe gama,1
+MT000197,RB050,,,2025-04-11T10:29:20,2025-04-11T13:10:26,2.7,bateria,preventiva,686.18,nenhuma falha,sem falha,equipe beta,0
+MT000198,RB055,MS001885,2025-04-13T07:51:09,2025-04-13T08:33:40,2025-04-13T14:46:44,6.2,motor de tração,corretiva,1389.88,sensor,moderada,equipe gama,1
+MT000199,RB045,,,2025-04-14T13:18:30,2025-04-14T14:57:08,1.6,LiDAR,preventiva,775.69,desgaste dentro do limite,sem falha,equipe beta,0
+MT000200,RB034,,,2025-04-14T16:12:37,2025-04-14T18:21:12,2.1,rodas,preventiva,748.29,nenhuma falha,sem falha,equipe beta,1
+MT000201,RB052,MS001915,2025-04-14T21:36:08,2025-04-14T21:47:55,2025-04-15T08:19:33,10.5,sensores de proximidade,corretiva,1529.78,efeito de colisão moderada,moderada,equipe beta,1
+MT000202,RB052,,,2025-04-15T08:34:33,2025-04-15T10:24:07,1.8,motor de tração,preventiva,178.1,desgaste dentro do limite,sem falha,equipe gama,1
+MT000203,RB012,,,2025-04-15T13:02:40,2025-04-15T13:50:40,0.8,rodas,preventiva,232.43,desgaste dentro do limite,sem falha,equipe gama,0
+MT000204,RB044,,,2025-04-15T18:29:54,2025-04-15T21:24:10,2.9,módulo de rede,preventiva,466,nenhuma falha,sem falha,equipe gama,0
+MT000205,RB002,,,2025-04-16T03:38:47,2025-04-16T06:32:14,2.9,motor de tração,preventiva,290.88,nenhuma falha,sem falha,equipe alfa,0
+MT000206,RB056,MS001943,2025-04-16T05:13:35,2025-04-16T05:57:06,2025-04-16T10:24:39,4.5,LiDAR,corretiva,1400.46,efeito de colisão leve,leve,equipe gama,1
+MT000207,RB020,,,2025-04-16T14:07:53,2025-04-16T19:07:25,5,motor de tração,preventiva,633.57,nenhuma falha,sem falha,equipe gama,0
+MT000208,RB040,,,2025-04-17T21:14:20,2025-04-17T23:04:40,1.8,sensores de proximidade,preventiva,144.47,desgaste dentro do limite,sem falha,equipe beta,0
+MT000209,RB010,,,2025-04-18T00:55:46,2025-04-18T03:22:41,2.4,sensores de proximidade,preventiva,526.22,desgaste dentro do limite,sem falha,equipe gama,1
+MT000210,RB032,,,2025-04-19T01:29:47,2025-04-19T04:37:11,3.1,rodas,preventiva,979.23,desgaste dentro do limite,sem falha,equipe beta,0
+MT000211,RB041,,,2025-04-19T07:53:20,2025-04-19T11:04:03,3.2,controlador,preventiva,416.69,nenhuma falha,sem falha,equipe beta,1
+MT000212,RB005,,,2025-04-20T00:09:08,2025-04-20T04:13:06,4.1,motor de tração,preventiva,564.66,desgaste dentro do limite,sem falha,equipe beta,0
+MT000213,RB054,,,2025-04-20T10:36:27,2025-04-20T13:44:27,3.1,sensores de proximidade,preventiva,768.5,desgaste dentro do limite,sem falha,equipe beta,0
+MT000214,RB038,,,2025-04-20T13:16:37,2025-04-20T15:48:16,2.5,LiDAR,preventiva,748.76,nenhuma falha,sem falha,equipe alfa,0
+MT000215,RB046,,,2025-04-21T02:47:37,2025-04-21T04:24:40,1.6,motor de tração,preventiva,637.02,nenhuma falha,sem falha,equipe gama,0
+MT000216,RB013,,,2025-04-21T10:55:06,2025-04-21T14:35:50,3.7,rodas,preventiva,390.89,nenhuma falha,sem falha,equipe gama,0
+MT000217,RB059,MS002027,2025-04-21T12:45:10,2025-04-21T13:05:41,2025-04-21T14:39:55,1.6,módulo de rede,corretiva,1598.06,efeito de colisão leve,leve,equipe gama,0
+MT000218,RB031,,,2025-04-22T07:23:42,2025-04-22T09:52:03,2.5,módulo de rede,preventiva,635.23,desgaste dentro do limite,sem falha,equipe alfa,1
+MT000219,RB018,,,2025-04-22T12:25:57,2025-04-22T16:31:02,4.1,freios,preventiva,479.59,desgaste dentro do limite,sem falha,equipe gama,0
+MT000220,RB028,MS002044,2025-04-22T12:26:32,2025-04-22T12:46:20,2025-04-23T00:06:18,11.3,módulo de rede,corretiva,1848.29,perda persistente de comunicação,moderada,equipe gama,1
+MT000221,RB030,,,2025-04-22T14:40:04,2025-04-22T15:34:15,0.9,LiDAR,preventiva,689.24,nenhuma falha,sem falha,equipe beta,0
+MT000222,RB036,,,2025-04-23T02:42:44,2025-04-23T04:19:11,1.6,módulo de rede,preventiva,519.29,nenhuma falha,sem falha,equipe gama,0
+MT000223,RB059,,,2025-04-25T14:57:39,2025-04-25T17:09:22,2.2,LiDAR,preventiva,285.17,desgaste dentro do limite,sem falha,equipe beta,1
+MT000224,RB047,,,2025-04-25T17:32:58,2025-04-25T20:40:43,3.1,bateria,preventiva,558.88,nenhuma falha,sem falha,equipe gama,0
+MT000225,RB033,,,2025-04-26T11:12:27,2025-04-26T13:41:42,2.5,freios,preventiva,792.75,nenhuma falha,sem falha,equipe gama,0
+MT000226,RB029,,,2025-04-26T15:58:25,2025-04-26T17:53:05,1.9,freios,preventiva,443,nenhuma falha,sem falha,equipe alfa,0
+MT000227,RB026,,,2025-04-26T16:31:13,2025-04-26T20:05:15,3.6,módulo de rede,preventiva,706.21,nenhuma falha,sem falha,equipe alfa,0
+MT000228,RB008,,,2025-04-27T00:21:11,2025-04-27T04:37:24,4.3,bateria,preventiva,694.06,desgaste dentro do limite,sem falha,equipe gama,0
+MT000229,RB051,,,2025-04-27T15:49:47,2025-04-27T19:05:37,3.3,motor de tração,preventiva,444.76,nenhuma falha,sem falha,equipe beta,0
+MT000230,RB055,,,2025-04-27T17:44:17,2025-04-27T18:32:17,0.8,bateria,preventiva,393.2,nenhuma falha,sem falha,equipe beta,0
+MT000231,RB025,,,2025-04-28T05:45:51,2025-04-28T08:31:33,2.8,rodas,preventiva,574.8,nenhuma falha,sem falha,equipe gama,0
+MT000232,RB003,,,2025-04-29T01:05:35,2025-04-29T01:55:39,0.8,motor de tração,preventiva,469.2,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000233,RB035,,,2025-04-29T03:56:18,2025-04-29T06:32:16,2.6,bateria,preventiva,230.14,nenhuma falha,sem falha,equipe gama,0
+MT000234,RB017,,,2025-04-29T05:56:24,2025-04-29T09:12:53,3.3,sensores de proximidade,preventiva,599.17,nenhuma falha,sem falha,equipe alfa,0
+MT000235,RB057,,,2025-04-29T08:12:39,2025-04-29T11:19:36,3.1,rodas,preventiva,247.54,nenhuma falha,sem falha,equipe beta,0
+MT000236,RB037,,,2025-04-30T06:53:33,2025-04-30T09:53:51,3,controlador,preventiva,186.31,desgaste dentro do limite,sem falha,equipe gama,0
+MT000237,RB060,,,2025-05-01T07:26:58,2025-05-01T10:14:07,2.8,controlador,preventiva,489.77,nenhuma falha,sem falha,equipe gama,0
+MT000238,RB053,,,2025-05-01T12:19:03,2025-05-01T14:31:34,2.2,rodas,preventiva,489.52,nenhuma falha,sem falha,equipe gama,0
+MT000239,RB049,,,2025-05-01T19:44:03,2025-05-01T21:39:42,1.9,motor de tração,preventiva,401.2,nenhuma falha,sem falha,equipe beta,0
+MT000240,RB027,,,2025-05-02T04:09:52,2025-05-02T06:45:09,2.6,bateria,preventiva,731.61,nenhuma falha,sem falha,equipe beta,0
+MT000241,RB016,,,2025-05-03T09:20:23,2025-05-03T11:09:17,1.8,motor de tração,preventiva,343.49,nenhuma falha,sem falha,equipe gama,0
+MT000242,RB028,MS002244,2025-05-04T00:06:16,2025-05-04T00:37:51,2025-05-04T05:40:29,5,controlador,corretiva,1407.47,efeito de colisão leve,leve,equipe gama,1
+MT000243,RB021,,,2025-05-04T11:54:00,2025-05-04T14:27:16,2.6,rodas,preventiva,1138.03,desgaste dentro do limite,sem falha,equipe beta,0
+MT000244,RB043,,,2025-05-04T13:28:23,2025-05-04T16:14:09,2.8,controlador,preventiva,649.9,nenhuma falha,sem falha,equipe alfa,0
+MT000245,RB007,,,2025-05-04T14:25:49,2025-05-04T16:21:40,1.9,motor de tração,preventiva,589.35,nenhuma falha,sem falha,equipe gama,0
+MT000246,RB053,MS002259,2025-05-05T03:59:12,2025-05-05T04:43:02,2025-05-05T14:42:06,10,módulo de rede,corretiva,3445.57,sensor,moderada,equipe alfa,1
+MT000247,RB056,,,2025-05-05T05:36:19,2025-05-05T08:19:31,2.7,LiDAR,preventiva,287.67,desgaste dentro do limite,sem falha,equipe beta,0
+MT000248,RB023,,,2025-05-05T07:42:09,2025-05-05T09:30:56,1.8,rodas,preventiva,456.26,desgaste dentro do limite,sem falha,equipe beta,0
+MT000249,RB004,MS002273,2025-05-05T16:19:47,2025-05-05T16:41:26,2025-05-06T00:25:01,7.7,freios,corretiva,2536.29,efeito de colisão moderada,moderada,equipe gama,0
+MT000250,RB048,MS002291,2025-05-06T21:08:20,2025-05-06T21:33:07,2025-05-07T05:38:12,8.1,controlador,corretiva,2083.95,efeito de colisão leve,leve,equipe beta,1
+MT000251,RB011,,,2025-05-07T05:43:52,2025-05-07T08:24:26,2.7,bateria,preventiva,493.96,nenhuma falha,sem falha,equipe gama,1
+MT000252,RB016,MS002301,2025-05-07T15:58:28,2025-05-07T16:22:56,2025-05-08T00:28:47,8.1,sensores de proximidade,corretiva,777.7,efeito de colisão leve,leve,equipe beta,0
+MT000253,RB022,,,2025-05-07T20:44:59,2025-05-07T22:41:13,1.9,sensores de proximidade,preventiva,885.04,nenhuma falha,sem falha,equipe alfa,0
+MT000254,RB042,,,2025-05-08T04:41:17,2025-05-08T07:41:01,3,módulo de rede,preventiva,313.9,desgaste dentro do limite,sem falha,equipe gama,0
+MT000255,RB019,,,2025-05-08T10:51:08,2025-05-08T12:56:45,2.1,bateria,preventiva,151.47,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000256,RB028,,,2025-05-09T13:30:24,2025-05-09T17:18:43,3.8,freios,preventiva,493.44,nenhuma falha,sem falha,equipe alfa,0
+MT000257,RB013,MS002351,2025-05-11T09:10:55,2025-05-11T09:44:43,2025-05-11T15:31:09,5.8,bateria,corretiva,2678.76,efeito de colisão moderada,moderada,equipe gama,1
+MT000258,RB004,,,2025-05-11T12:37:47,2025-05-11T15:15:44,2.6,bateria,preventiva,697.77,nenhuma falha,sem falha,equipe alfa,0
+MT000259,RB024,,,2025-05-11T12:55:51,2025-05-11T16:42:02,3.8,sensores de proximidade,preventiva,659.38,nenhuma falha,sem falha,equipe gama,0
+MT000260,RB014,,,2025-05-11T13:13:17,2025-05-11T15:41:11,2.5,rodas,preventiva,120,desgaste dentro do limite,sem falha,equipe gama,0
+MT000261,RB001,,,2025-05-12T18:44:40,2025-05-12T19:32:40,0.8,rodas,preventiva,760.84,nenhuma falha,sem falha,equipe beta,1
+MT000262,RB039,,,2025-05-12T19:10:18,2025-05-12T22:27:56,3.3,bateria,preventiva,450.7,nenhuma falha,sem falha,equipe beta,0
+MT000263,RB009,,,2025-05-12T22:15:49,2025-05-13T01:46:20,3.5,sensores de proximidade,preventiva,323.54,nenhuma falha,sem falha,equipe beta,0
+MT000264,RB031,MS002400,2025-05-13T15:54:13,2025-05-13T16:24:07,2025-05-14T02:00:18,9.6,sensores de proximidade,corretiva,1285.91,efeito de colisão moderada,moderada,equipe beta,1
+MT000265,RB014,MS002404,2025-05-13T18:50:13,2025-05-13T19:01:25,2025-05-14T03:14:17,8.2,LiDAR,corretiva,1870.97,efeito de colisão moderada,moderada,equipe alfa,1
+MT000266,RB015,,,2025-05-15T21:55:09,2025-05-15T23:35:55,1.7,bateria,preventiva,362.71,nenhuma falha,sem falha,equipe beta,0
+MT000267,RB037,MS002461,2025-05-16T17:41:34,2025-05-16T18:24:04,2025-05-17T01:42:56,7.3,controlador,corretiva,1971.54,efeito de colisão moderada,moderada,equipe beta,1
+MT000268,RB006,,,2025-05-17T08:00:25,2025-05-17T10:13:13,2.2,sensores de proximidade,preventiva,519.87,nenhuma falha,sem falha,equipe gama,0
+MT000269,RB002,,,2025-05-19T11:20:35,2025-05-19T12:55:25,1.6,LiDAR,preventiva,491.08,nenhuma falha,sem falha,equipe beta,0
+MT000270,RB007,MS002514,2025-05-19T23:34:28,2025-05-20T00:08:45,2025-05-20T07:02:31,6.9,freios,corretiva,2487.91,efeito de colisão moderada,moderada,equipe alfa,0
+MT000271,RB058,,,2025-05-20T01:45:38,2025-05-20T03:52:00,2.1,módulo de rede,preventiva,143.17,nenhuma falha,sem falha,equipe gama,0
+MT000272,RB048,,,2025-05-20T16:14:40,2025-05-20T19:02:08,2.8,sensores de proximidade,preventiva,340.48,desgaste dentro do limite,sem falha,equipe gama,1
+MT000273,RB032,,,2025-05-21T05:37:42,2025-05-21T08:41:03,3.1,controlador,preventiva,546.63,nenhuma falha,sem falha,equipe gama,0
+MT000274,RB050,,,2025-05-22T13:13:14,2025-05-22T16:14:44,3,motor de tração,preventiva,141.08,nenhuma falha,sem falha,equipe gama,0
+MT000275,RB056,MS002580,2025-05-23T19:37:46,2025-05-23T19:47:19,2025-05-24T03:14:20,7.5,sensores de proximidade,corretiva,2059.29,efeito de colisão leve,leve,equipe gama,1
+MT000276,RB038,,,2025-05-25T00:11:15,2025-05-25T00:59:15,0.8,bateria,preventiva,616,desgaste dentro do limite,sem falha,equipe beta,1
+MT000277,RB033,MS002604,2025-05-25T02:57:32,2025-05-25T03:19:45,2025-05-25T16:43:08,13.4,controlador,corretiva,2944.6,efeito de colisão moderada,moderada,equipe beta,1
+MT000278,RB010,,,2025-05-26T03:56:42,2025-05-26T06:06:30,2.2,sensores de proximidade,preventiva,421.88,desgaste dentro do limite,sem falha,equipe beta,1
+MT000279,RB005,,,2025-05-26T17:25:16,2025-05-26T19:26:32,2,rodas,preventiva,662.98,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000280,RB012,,,2025-05-28T14:04:57,2025-05-28T17:28:11,3.4,controlador,preventiva,319.23,nenhuma falha,sem falha,equipe alfa,0
+MT000281,RB044,,,2025-05-28T14:37:51,2025-05-28T19:13:28,4.6,bateria,preventiva,120,nenhuma falha,sem falha,equipe alfa,0
+MT000282,RB046,,,2025-05-28T16:52:23,2025-05-28T19:55:34,3.1,motor de tração,preventiva,739.6,nenhuma falha,sem falha,equipe beta,0
+MT000283,RB031,,,2025-05-29T20:14:02,2025-05-29T21:19:52,1.1,LiDAR,preventiva,275.34,nenhuma falha,sem falha,equipe alfa,0
+MT000284,RB040,,,2025-05-30T05:25:29,2025-05-30T06:54:05,1.5,LiDAR,preventiva,644.23,nenhuma falha,sem falha,equipe gama,0
+MT000285,RB041,,,2025-05-30T05:28:20,2025-05-30T07:33:19,2.1,rodas,preventiva,122.46,nenhuma falha,sem falha,equipe alfa,0
+MT000286,RB045,,,2025-05-31T05:52:14,2025-05-31T08:17:22,2.4,bateria,preventiva,721.35,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000287,RB051,,,2025-06-02T07:15:58,2025-06-02T09:31:05,2.3,módulo de rede,preventiva,686.94,desgaste dentro do limite,sem falha,equipe beta,0
+MT000288,RB052,,,2025-06-02T14:47:06,2025-06-02T16:51:39,2.1,freios,preventiva,975.44,nenhuma falha,sem falha,equipe beta,0
+MT000289,RB003,,,2025-06-03T00:24:18,2025-06-03T03:02:15,2.6,bateria,preventiva,980.39,nenhuma falha,sem falha,equipe beta,1
+MT000290,RB002,MS002762,2025-06-03T01:17:41,2025-06-03T01:46:12,2025-06-03T05:00:02,3.2,sensores de proximidade,corretiva,2079.7,efeito de colisão moderada,moderada,equipe beta,1
+MT000291,RB020,,,2025-06-04T07:34:49,2025-06-04T10:45:51,3.2,sensores de proximidade,preventiva,360.7,nenhuma falha,sem falha,equipe beta,0
+MT000292,RB026,,,2025-06-04T14:07:00,2025-06-04T15:58:45,1.9,rodas,preventiva,120,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000293,RB054,,,2025-06-04T23:45:40,2025-06-05T04:04:27,4.3,LiDAR,preventiva,220.26,nenhuma falha,sem falha,equipe gama,0
+MT000294,RB034,,,2025-06-05T00:21:15,2025-06-05T02:49:08,2.5,freios,preventiva,298.16,nenhuma falha,sem falha,equipe beta,0
+MT000295,RB003,MS002816,2025-06-05T20:24:44,2025-06-05T20:59:47,2025-06-06T06:24:42,9.4,motor de tração,corretiva,2130.54,efeito de colisão moderada,moderada,equipe beta,0
+MT000296,RB024,MS002832,2025-06-06T13:11:08,2025-06-06T13:29:20,2025-06-07T03:56:17,14.4,bateria,corretiva,2249.09,efeito de colisão moderada,moderada,equipe beta,1
+MT000297,RB047,,,2025-06-07T04:39:55,2025-06-07T07:28:36,2.8,motor de tração,preventiva,586.37,nenhuma falha,sem falha,equipe gama,0
+MT000298,RB025,,,2025-06-07T05:49:06,2025-06-07T07:59:24,2.2,controlador,preventiva,525.83,desgaste dentro do limite,sem falha,equipe beta,0
+MT000299,RB024,MS002848,2025-06-07T10:12:33,2025-06-07T10:30:00,2025-06-07T22:39:10,12.2,rodas,corretiva,1974.14,efeito de colisão moderada,moderada,equipe alfa,1
+MT000300,RB035,,,2025-06-08T00:37:55,2025-06-08T01:31:45,0.9,rodas,preventiva,315.68,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000301,RB036,,,2025-06-08T10:27:29,2025-06-08T12:37:01,2.2,módulo de rede,preventiva,649.05,desgaste dentro do limite,sem falha,equipe beta,0
+MT000302,RB018,,,2025-06-08T13:40:19,2025-06-08T16:40:56,3,motor de tração,preventiva,1036.76,desgaste dentro do limite,sem falha,equipe beta,0
+MT000303,RB029,,,2025-06-08T18:23:16,2025-06-09T00:08:25,5.8,motor de tração,preventiva,638.58,nenhuma falha,sem falha,equipe beta,1
+MT000304,RB033,,,2025-06-10T10:58:14,2025-06-10T13:47:46,2.8,sensores de proximidade,preventiva,537.65,desgaste dentro do limite,sem falha,equipe gama,0
+MT000305,RB013,,,2025-06-10T12:57:21,2025-06-10T15:27:02,2.5,controlador,preventiva,120,nenhuma falha,sem falha,equipe alfa,0
+MT000306,RB030,,,2025-06-10T17:19:38,2025-06-10T19:39:50,2.3,motor de tração,preventiva,464.99,nenhuma falha,sem falha,equipe gama,0
+MT000307,RB016,,,2025-06-11T01:46:05,2025-06-11T03:33:53,1.8,freios,preventiva,249.21,nenhuma falha,sem falha,equipe beta,0
+MT000308,RB027,,,2025-06-11T05:42:49,2025-06-11T09:29:25,3.8,motor de tração,preventiva,375.85,desgaste dentro do limite,sem falha,equipe beta,0
+MT000309,RB037,,,2025-06-11T09:58:10,2025-06-11T13:31:51,3.6,bateria,preventiva,371.26,nenhuma falha,sem falha,equipe gama,0
+MT000310,RB053,,,2025-06-12T03:36:29,2025-06-12T06:43:41,3.1,motor de tração,preventiva,373.94,nenhuma falha,sem falha,equipe alfa,0
+MT000311,RB049,,,2025-06-12T03:47:13,2025-06-12T06:32:47,2.8,sensores de proximidade,preventiva,470.14,nenhuma falha,sem falha,equipe gama,0
+MT000312,RB019,,,2025-06-13T03:10:56,2025-06-13T07:23:21,4.2,bateria,preventiva,964.18,nenhuma falha,sem falha,equipe gama,1
+MT000313,RB059,,,2025-06-14T11:47:25,2025-06-14T16:52:42,5.1,LiDAR,preventiva,304.18,nenhuma falha,sem falha,equipe gama,0
+MT000314,RB060,,,2025-06-14T14:55:02,2025-06-14T17:30:40,2.6,módulo de rede,preventiva,244.79,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000315,RB057,,,2025-06-14T19:25:57,2025-06-14T21:05:13,1.7,bateria,preventiva,268.37,nenhuma falha,sem falha,equipe beta,0
+MT000316,RB023,MS003002,2025-06-15T11:34:59,2025-06-15T12:22:18,2025-06-15T19:11:38,6.8,freios,corretiva,1946.29,motor de tração,moderada,equipe beta,1
+MT000317,RB055,,,2025-06-15T23:14:56,2025-06-16T01:25:32,2.2,bateria,preventiva,421.42,nenhuma falha,sem falha,equipe alfa,1
+MT000318,RB011,,,2025-06-16T02:25:29,2025-06-16T06:17:05,3.9,bateria,preventiva,818.71,nenhuma falha,sem falha,equipe alfa,0
+MT000319,RB008,,,2025-06-16T05:03:02,2025-06-16T06:46:52,1.7,motor de tração,preventiva,305.48,nenhuma falha,sem falha,equipe alfa,0
+MT000320,RB004,,,2025-06-17T20:56:33,2025-06-18T00:00:26,3.1,controlador,preventiva,611.49,nenhuma falha,sem falha,equipe beta,0
+MT000321,RB043,,,2025-06-17T22:04:02,2025-06-17T23:57:17,1.9,LiDAR,preventiva,276.42,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000322,RB042,,,2025-06-17T22:21:03,2025-06-17T23:37:55,1.3,controlador,preventiva,738.61,desgaste dentro do limite,sem falha,equipe gama,1
+MT000323,RB021,,,2025-06-18T16:57:19,2025-06-18T19:41:02,2.7,bateria,preventiva,406,nenhuma falha,sem falha,equipe beta,1
+MT000324,RB023,,,2025-06-18T22:37:48,2025-06-19T02:43:18,4.1,sensores de proximidade,preventiva,651.66,nenhuma falha,sem falha,equipe beta,0
+MT000325,RB007,,,2025-06-19T06:56:41,2025-06-19T09:23:49,2.5,motor de tração,preventiva,273.3,desgaste dentro do limite,sem falha,equipe beta,1
+MT000326,RB017,,,2025-06-19T11:01:26,2025-06-19T12:10:06,1.1,bateria,preventiva,196.28,desgaste dentro do limite,sem falha,equipe beta,0
+MT000327,RB039,,,2025-06-20T14:07:32,2025-06-20T17:08:44,3,rodas,preventiva,572.35,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000328,RB028,,,2025-06-22T13:42:24,2025-06-22T15:58:58,2.3,sensores de proximidade,preventiva,773.41,desgaste dentro do limite,sem falha,equipe gama,0
+MT000329,RB006,,,2025-06-22T17:11:28,2025-06-22T17:59:28,0.8,módulo de rede,preventiva,443.93,nenhuma falha,sem falha,equipe beta,0
+MT000330,RB056,,,2025-06-23T04:39:15,2025-06-23T08:41:39,4,freios,preventiva,233.44,nenhuma falha,sem falha,equipe alfa,0
+MT000331,RB049,MS003183,2025-06-24T06:35:21,2025-06-24T07:16:04,2025-06-24T11:45:53,4.5,sensores de proximidade,corretiva,1936.12,bateria abaixo do limite,moderada,equipe beta,1
+MT000332,RB024,,,2025-06-24T18:58:20,2025-06-24T20:20:46,1.4,bateria,preventiva,150.77,desgaste dentro do limite,sem falha,equipe gama,0
+MT000333,RB022,,,2025-06-25T12:29:23,2025-06-25T15:06:07,2.6,LiDAR,preventiva,334.14,nenhuma falha,sem falha,equipe alfa,0
+MT000334,RB013,MS003237,2025-06-26T18:24:55,2025-06-26T18:43:04,2025-06-27T01:37:09,6.9,freios,corretiva,4773.96,efeito de colisão grave,crítica,equipe alfa,1
+MT000335,RB006,MS003239,2025-06-26T19:45:08,2025-06-26T20:40:11,2025-06-27T06:20:31,9.7,LiDAR,corretiva,1733.51,efeito de colisão moderada,moderada,equipe alfa,1
+MT000336,RB014,,,2025-06-27T18:01:16,2025-06-27T18:49:16,0.8,módulo de rede,preventiva,318.37,nenhuma falha,sem falha,equipe gama,0
+MT000337,RB050,,,2025-06-27T19:19:38,2025-06-28T00:06:31,4.8,controlador,preventiva,631.33,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000338,RB054,MS003263,2025-06-28T02:10:53,2025-06-28T02:47:00,2025-06-28T13:59:26,11.2,módulo de rede,corretiva,2546.1,perda persistente de comunicação,moderada,equipe gama,0
+MT000339,RB002,,,2025-06-28T10:20:28,2025-06-28T11:40:08,1.3,motor de tração,preventiva,308.81,nenhuma falha,sem falha,equipe alfa,0
+MT000340,RB058,,,2025-06-29T21:05:00,2025-06-29T23:22:14,2.3,bateria,preventiva,673.83,nenhuma falha,sem falha,equipe alfa,1
+MT000341,RB048,,,2025-06-30T19:44:53,2025-06-30T21:07:37,1.4,bateria,preventiva,628.95,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000342,RB015,,,2025-07-01T01:24:42,2025-07-01T04:57:32,3.5,LiDAR,preventiva,512.7,nenhuma falha,sem falha,equipe beta,1
+MT000343,RB009,,,2025-07-01T07:57:22,2025-07-01T10:32:01,2.6,motor de tração,preventiva,783.4,nenhuma falha,sem falha,equipe gama,0
+MT000344,RB005,,,2025-07-02T08:47:41,2025-07-02T11:59:40,3.2,rodas,preventiva,465.96,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000345,RB010,,,2025-07-02T15:53:09,2025-07-02T17:47:31,1.9,motor de tração,preventiva,586.98,nenhuma falha,sem falha,equipe gama,0
+MT000346,RB048,MS003372,2025-07-02T18:28:59,2025-07-02T18:58:21,2025-07-03T02:16:47,7.3,rodas,corretiva,1730.29,perda persistente de comunicação,moderada,equipe alfa,0
+MT000347,RB012,,,2025-07-02T23:29:00,2025-07-03T02:06:26,2.6,rodas,preventiva,245.13,nenhuma falha,sem falha,equipe gama,1
+MT000348,RB001,,,2025-07-03T02:14:50,2025-07-03T05:09:08,2.9,LiDAR,preventiva,425.45,nenhuma falha,sem falha,equipe alfa,0
+MT000349,RB044,,,2025-07-03T02:20:19,2025-07-03T03:54:53,1.6,freios,preventiva,771.07,nenhuma falha,sem falha,equipe beta,0
+MT000350,RB032,,,2025-07-04T17:27:04,2025-07-04T20:36:14,3.2,controlador,preventiva,369.15,nenhuma falha,sem falha,equipe beta,0
+MT000351,RB026,,,2025-07-07T06:52:43,2025-07-07T09:24:56,2.5,bateria,preventiva,560.51,nenhuma falha,sem falha,equipe beta,0
+MT000352,RB040,,,2025-07-07T08:42:05,2025-07-07T10:43:18,2,módulo de rede,preventiva,623.57,nenhuma falha,sem falha,equipe beta,0
+MT000353,RB041,,,2025-07-07T10:48:50,2025-07-07T13:07:02,2.3,rodas,preventiva,263.46,nenhuma falha,sem falha,equipe gama,0
+MT000354,RB020,MS003457,2025-07-07T11:49:43,2025-07-07T12:14:46,2025-07-07T23:15:22,11,motor de tração,corretiva,1763.43,efeito de colisão leve,leve,equipe beta,1
+MT000355,RB031,,,2025-07-07T16:47:34,2025-07-07T18:18:51,1.5,rodas,preventiva,835.21,nenhuma falha,sem falha,equipe alfa,0
+MT000356,RB054,,,2025-07-08T14:10:49,2025-07-08T15:16:55,1.1,sensores de proximidade,preventiva,712.72,nenhuma falha,sem falha,equipe gama,0
+MT000357,RB046,MS003477,2025-07-08T20:37:59,2025-07-08T21:07:32,2025-07-09T10:55:14,13.8,motor de tração,corretiva,1848.1,perda persistente de comunicação,moderada,equipe alfa,0
+MT000358,RB051,MS003479,2025-07-08T21:28:54,2025-07-08T21:48:19,2025-07-09T06:27:28,8.7,motor de tração,corretiva,1132.96,efeito de colisão moderada,moderada,equipe gama,0
+MT000359,RB049,MS003489,2025-07-09T09:30:44,2025-07-09T10:06:49,2025-07-09T16:58:09,6.9,sensores de proximidade,corretiva,1988.36,efeito de colisão grave,crítica,equipe beta,1
+MT000360,RB006,MS003497,2025-07-09T17:17:52,2025-07-09T18:04:35,2025-07-10T07:56:14,13.9,bateria,corretiva,2123,bateria abaixo do limite,moderada,equipe alfa,1
+MT000361,RB041,MS003520,2025-07-11T04:36:50,2025-07-11T05:06:00,2025-07-11T12:14:01,7.1,módulo de rede,corretiva,1239.79,motor de tração,moderada,equipe alfa,0
+MT000362,RB028,MS003521,2025-07-11T10:39:44,2025-07-11T11:03:06,2025-07-11T17:03:11,6,LiDAR,corretiva,1787.83,efeito de colisão moderada,moderada,equipe beta,0
+MT000363,RB036,,,2025-07-11T23:27:31,2025-07-12T00:15:31,0.8,módulo de rede,preventiva,579.15,desgaste dentro do limite,sem falha,equipe beta,0
+MT000364,RB035,MS003535,2025-07-11T23:47:19,2025-07-12T00:02:30,2025-07-12T11:56:08,11.9,sensores de proximidade,corretiva,1679.68,motor de tração,moderada,equipe gama,1
+MT000365,RB045,,,2025-07-12T12:30:05,2025-07-12T15:55:39,3.4,rodas,preventiva,249.12,nenhuma falha,sem falha,equipe beta,0
+MT000366,RB030,,,2025-07-12T19:48:19,2025-07-12T21:47:48,2,bateria,preventiva,354.39,nenhuma falha,sem falha,equipe beta,0
+MT000367,RB051,,,2025-07-13T01:17:33,2025-07-13T03:26:30,2.1,bateria,preventiva,534.31,nenhuma falha,sem falha,equipe gama,0
+MT000368,RB046,,,2025-07-13T11:23:04,2025-07-13T17:12:39,5.8,bateria,preventiva,482.23,desgaste dentro do limite,sem falha,equipe beta,0
+MT000369,RB006,MS003570,2025-07-13T21:18:26,2025-07-13T22:07:31,2025-07-14T08:11:13,10.1,bateria,corretiva,2140.46,efeito de colisão moderada,moderada,equipe beta,1
+MT000370,RB018,,,2025-07-15T04:20:36,2025-07-15T06:30:34,2.2,controlador,preventiva,575.97,nenhuma falha,sem falha,equipe gama,0
+MT000371,RB038,,,2025-07-15T05:46:21,2025-07-15T08:33:29,2.8,motor de tração,preventiva,750.58,nenhuma falha,sem falha,equipe alfa,0
+MT000372,RB030,MS003595,2025-07-15T09:54:02,2025-07-15T10:14:05,2025-07-15T23:04:39,12.8,bateria,corretiva,2170.68,efeito de colisão moderada,moderada,equipe alfa,0
+MT000373,RB024,MS003594,2025-07-15T09:37:22,2025-07-15T10:18:38,2025-07-15T11:48:38,1.5,motor de tração,corretiva,3447.83,sensor,moderada,equipe gama,0
+MT000374,RB007,MS003624,2025-07-17T05:09:43,2025-07-17T05:53:01,2025-07-17T14:10:28,8.3,controlador,corretiva,1633.66,motor de tração,moderada,equipe beta,1
+MT000375,RB060,,,2025-07-17T11:33:23,2025-07-17T15:23:06,3.8,freios,preventiva,760.67,desgaste dentro do limite,sem falha,equipe gama,0
+MT000376,RB056,MS003655,2025-07-18T14:14:47,2025-07-18T14:25:51,2025-07-18T18:49:03,4.4,controlador,corretiva,786.39,efeito de colisão leve,leve,equipe alfa,1
+MT000377,RB029,,,2025-07-18T20:50:10,2025-07-18T22:16:11,1.4,sensores de proximidade,preventiva,602.86,desgaste dentro do limite,sem falha,equipe gama,0
+MT000378,RB049,,,2025-07-19T01:10:19,2025-07-19T02:21:07,1.2,módulo de rede,preventiva,264.47,desgaste dentro do limite,sem falha,equipe gama,1
+MT000379,RB013,,,2025-07-19T03:03:56,2025-07-19T05:50:23,2.8,bateria,preventiva,726.92,nenhuma falha,sem falha,equipe alfa,0
+MT000380,RB003,,,2025-07-20T05:32:50,2025-07-20T06:20:50,0.8,controlador,preventiva,917.77,desgaste dentro do limite,sem falha,equipe beta,0
+MT000381,RB057,,,2025-07-20T09:33:05,2025-07-20T13:19:03,3.8,controlador,preventiva,515.09,nenhuma falha,sem falha,equipe gama,0
+MT000382,RB059,,,2025-07-21T01:57:44,2025-07-21T06:19:21,4.4,sensores de proximidade,preventiva,939.59,desgaste dentro do limite,sem falha,equipe beta,0
+MT000383,RB020,,,2025-07-21T08:48:23,2025-07-21T11:31:48,2.7,motor de tração,preventiva,587.98,nenhuma falha,sem falha,equipe beta,0
+MT000384,RB035,,,2025-07-21T15:17:12,2025-07-21T18:07:36,2.8,sensores de proximidade,preventiva,126.23,nenhuma falha,sem falha,equipe beta,0
+MT000385,RB052,,,2025-07-21T19:08:42,2025-07-21T22:33:31,3.4,rodas,preventiva,701.9,nenhuma falha,sem falha,equipe alfa,0
+MT000386,RB017,,,2025-07-22T16:28:13,2025-07-22T18:13:48,1.8,bateria,preventiva,787.1,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000387,RB033,,,2025-07-22T20:05:38,2025-07-22T21:36:04,1.5,freios,preventiva,477.07,desgaste dentro do limite,sem falha,equipe gama,0
+MT000388,RB004,,,2025-07-23T03:03:24,2025-07-23T04:21:51,1.3,sensores de proximidade,preventiva,531.72,nenhuma falha,sem falha,equipe gama,0
+MT000389,RB055,,,2025-07-23T11:16:54,2025-07-23T13:31:49,2.2,motor de tração,preventiva,301.35,nenhuma falha,sem falha,equipe alfa,0
+MT000390,RB027,,,2025-07-23T13:43:36,2025-07-23T17:40:15,3.9,sensores de proximidade,preventiva,669.01,nenhuma falha,sem falha,equipe alfa,0
+MT000391,RB039,,,2025-07-23T13:43:46,2025-07-23T14:32:41,0.8,motor de tração,preventiva,223.24,nenhuma falha,sem falha,equipe beta,0
+MT000392,RB003,MS003758,2025-07-23T19:39:27,2025-07-23T20:02:12,2025-07-24T10:09:59,14.1,bateria,corretiva,1141.6,efeito de colisão moderada,moderada,equipe beta,1
+MT000393,RB023,,,2025-07-24T10:58:41,2025-07-24T14:20:46,3.4,rodas,preventiva,439.66,nenhuma falha,sem falha,equipe alfa,0
+MT000394,RB053,,,2025-07-24T13:39:32,2025-07-24T16:54:32,3.3,motor de tração,preventiva,399,nenhuma falha,sem falha,equipe alfa,0
+MT000395,RB011,,,2025-07-25T20:12:31,2025-07-25T21:53:56,1.7,sensores de proximidade,preventiva,777.72,nenhuma falha,sem falha,equipe alfa,0
+MT000396,RB034,,,2025-07-26T00:09:40,2025-07-26T02:27:19,2.3,motor de tração,preventiva,395.5,nenhuma falha,sem falha,equipe alfa,1
+MT000397,RB004,MS003802,2025-07-26T02:46:00,2025-07-26T03:29:07,2025-07-26T04:59:07,1.5,sensores de proximidade,corretiva,821.8,efeito de colisão leve,leve,equipe beta,1
+MT000398,RB047,,,2025-07-26T04:51:41,2025-07-26T07:39:16,2.8,sensores de proximidade,preventiva,655.65,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000399,RB047,MS003810,2025-07-26T14:40:43,2025-07-26T15:07:34,2025-07-26T21:48:15,6.7,freios,corretiva,2324.9,efeito de colisão moderada,moderada,equipe beta,0
+MT000400,RB025,,,2025-07-27T06:55:31,2025-07-27T10:17:20,3.4,controlador,preventiva,490.67,nenhuma falha,sem falha,equipe gama,0
+MT000401,RB029,MS003817,2025-07-27T06:37:28,2025-07-27T07:21:57,2025-07-27T22:26:53,15.1,rodas,corretiva,2177.54,efeito de colisão moderada,moderada,equipe beta,0
+MT000402,RB019,,,2025-07-28T00:43:58,2025-07-28T02:53:23,2.2,sensores de proximidade,preventiva,520.05,desgaste dentro do limite,sem falha,equipe gama,0
+MT000403,RB008,,,2025-07-29T04:47:56,2025-07-29T08:01:44,3.2,motor de tração,preventiva,673.59,nenhuma falha,sem falha,equipe alfa,0
+MT000404,RB016,,,2025-07-29T08:05:23,2025-07-29T11:47:49,3.7,controlador,preventiva,505.35,nenhuma falha,sem falha,equipe alfa,1
+MT000405,RB014,MS003860,2025-07-29T13:57:12,2025-07-29T14:33:33,2025-07-30T01:29:00,10.9,bateria,corretiva,1439.43,efeito de colisão leve,leve,equipe beta,1
+MT000406,RB043,,,2025-07-29T20:19:26,2025-07-29T23:25:01,3.1,motor de tração,preventiva,411.81,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000407,RB028,,,2025-07-30T04:52:41,2025-07-30T07:58:09,3.1,bateria,preventiva,507.5,nenhuma falha,sem falha,equipe alfa,0
+MT000408,RB037,,,2025-07-30T05:49:08,2025-07-30T07:43:48,1.9,sensores de proximidade,preventiva,324.82,nenhuma falha,sem falha,equipe beta,0
+MT000409,RB036,MS003876,2025-07-30T14:12:54,2025-07-30T14:29:40,2025-07-30T16:29:52,2,módulo de rede,corretiva,1217.95,efeito de colisão moderada,moderada,equipe beta,1
+MT000410,RB024,,,2025-08-01T19:34:24,2025-08-01T21:47:12,2.2,sensores de proximidade,preventiva,383.93,nenhuma falha,sem falha,equipe gama,0
+MT000411,RB006,,,2025-08-02T22:12:34,2025-08-03T01:52:10,3.7,LiDAR,preventiva,900.09,desgaste dentro do limite,sem falha,equipe beta,0
+MT000412,RB046,MS003940,2025-08-03T10:27:47,2025-08-03T10:45:33,2025-08-03T21:46:34,11,motor de tração,corretiva,1647.83,efeito de colisão leve,leve,equipe alfa,1
+MT000413,RB058,,,2025-08-04T05:40:03,2025-08-04T07:19:00,1.6,motor de tração,preventiva,358.83,nenhuma falha,sem falha,equipe gama,0
+MT000414,RB044,,,2025-08-05T00:19:37,2025-08-05T01:50:33,1.5,motor de tração,preventiva,434.34,desgaste dentro do limite,sem falha,equipe beta,0
+MT000415,RB021,,,2025-08-05T15:25:33,2025-08-05T17:10:47,1.8,controlador,preventiva,472.13,desgaste dentro do limite,sem falha,equipe gama,0
+MT000416,RB001,,,2025-08-05T19:11:54,2025-08-05T21:37:02,2.4,controlador,preventiva,577.55,nenhuma falha,sem falha,equipe alfa,0
+MT000417,RB056,,,2025-08-05T21:31:38,2025-08-05T23:17:32,1.8,rodas,preventiva,633.8,nenhuma falha,sem falha,equipe alfa,0
+MT000418,RB016,MS003983,2025-08-06T01:36:53,2025-08-06T02:00:37,2025-08-06T14:18:22,12.3,módulo de rede,corretiva,1597.73,sensor,moderada,equipe gama,1
+MT000419,RB007,,,2025-08-06T06:52:02,2025-08-06T08:06:40,1.2,bateria,preventiva,589.94,nenhuma falha,sem falha,equipe beta,0
+MT000420,RB048,,,2025-08-06T10:26:57,2025-08-06T11:14:57,0.8,sensores de proximidade,preventiva,373.36,nenhuma falha,sem falha,equipe gama,0
+MT000421,RB042,,,2025-08-06T14:57:06,2025-08-06T17:13:30,2.3,rodas,preventiva,371.12,nenhuma falha,sem falha,equipe gama,0
+MT000422,RB012,MS004032,2025-08-08T22:24:10,2025-08-08T22:44:03,2025-08-09T04:25:22,5.7,módulo de rede,corretiva,1353.77,perda persistente de comunicação,moderada,equipe gama,0
+MT000423,RB026,,,2025-08-09T05:12:39,2025-08-09T08:40:18,3.5,controlador,preventiva,869.03,nenhuma falha,sem falha,equipe gama,0
+MT000424,RB014,,,2025-08-10T02:18:35,2025-08-10T05:34:17,3.3,módulo de rede,preventiva,205.76,nenhuma falha,sem falha,equipe gama,0
+MT000425,RB014,MS004077,2025-08-10T22:17:58,2025-08-10T22:47:13,2025-08-11T04:31:43,5.7,rodas,corretiva,2633.74,efeito de colisão leve,leve,equipe alfa,1
+MT000426,RB002,,,2025-08-12T04:56:49,2025-08-12T07:11:19,2.2,sensores de proximidade,preventiva,377.65,nenhuma falha,sem falha,equipe beta,1
+MT000427,RB050,,,2025-08-13T07:02:48,2025-08-13T07:50:48,0.8,motor de tração,preventiva,670.43,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000428,RB025,MS004119,2025-08-13T07:55:54,2025-08-13T08:37:06,2025-08-13T23:36:19,15,controlador,corretiva,3122.05,perda persistente de comunicação,moderada,equipe alfa,1
+MT000429,RB012,,,2025-08-13T16:12:54,2025-08-13T17:16:00,1.1,sensores de proximidade,preventiva,258.48,nenhuma falha,sem falha,equipe alfa,0
+MT000430,RB023,MS004124,2025-08-13T15:51:57,2025-08-13T16:37:27,2025-08-13T22:23:40,5.8,controlador,corretiva,1451.1,efeito de colisão leve,leve,equipe alfa,0
+MT000431,RB022,,,2025-08-15T01:53:18,2025-08-15T06:08:48,4.3,motor de tração,preventiva,163.47,nenhuma falha,sem falha,equipe alfa,0
+MT000432,RB010,,,2025-08-15T18:13:08,2025-08-15T19:01:08,0.8,bateria,preventiva,678.4,nenhuma falha,sem falha,equipe alfa,0
+MT000433,RB031,,,2025-08-16T21:16:17,2025-08-17T00:46:04,3.5,sensores de proximidade,preventiva,372.77,nenhuma falha,sem falha,equipe beta,1
+MT000434,RB036,,,2025-08-17T13:29:13,2025-08-17T16:41:41,3.2,sensores de proximidade,preventiva,828.7,nenhuma falha,sem falha,equipe beta,0
+MT000435,RB009,,,2025-08-18T09:33:20,2025-08-18T14:27:34,4.9,motor de tração,preventiva,376.47,desgaste dentro do limite,sem falha,equipe beta,0
+MT000436,RB025,MS004229,2025-08-18T20:32:22,2025-08-18T21:12:48,2025-08-19T06:35:26,9.4,sensores de proximidade,corretiva,1417.84,motor de tração,moderada,equipe alfa,1
+MT000437,RB005,,,2025-08-19T09:38:04,2025-08-19T10:38:44,1,bateria,preventiva,909.3,nenhuma falha,sem falha,equipe alfa,0
+MT000438,RB051,,,2025-08-19T14:31:00,2025-08-19T16:10:25,1.7,freios,preventiva,255.5,nenhuma falha,sem falha,equipe beta,0
+MT000439,RB008,MS004254,2025-08-20T06:45:08,2025-08-20T07:27:46,2025-08-20T19:09:16,11.7,LiDAR,corretiva,1716.76,sensor,moderada,equipe beta,1
+MT000440,RB029,,,2025-08-20T11:53:03,2025-08-20T13:29:50,1.6,motor de tração,preventiva,398.83,nenhuma falha,sem falha,equipe beta,0
+MT000441,RB032,,,2025-08-20T12:13:36,2025-08-20T15:19:35,3.1,motor de tração,preventiva,455.21,nenhuma falha,sem falha,equipe gama,0
+MT000442,RB044,MS004257,2025-08-20T13:01:50,2025-08-20T13:51:26,2025-08-20T17:50:52,4,motor de tração,corretiva,1725.65,efeito de colisão leve,leve,equipe gama,1
+MT000443,RB015,,,2025-08-21T09:35:27,2025-08-21T12:38:43,3.1,motor de tração,preventiva,653.2,nenhuma falha,sem falha,equipe beta,0
+MT000444,RB013,,,2025-08-21T09:40:09,2025-08-21T11:22:41,1.7,motor de tração,preventiva,395.25,nenhuma falha,sem falha,equipe alfa,0
+MT000445,RB018,,,2025-08-23T10:42:55,2025-08-23T12:56:26,2.2,bateria,preventiva,909.2,nenhuma falha,sem falha,equipe beta,0
+MT000446,RB045,,,2025-08-24T00:21:43,2025-08-24T02:31:33,2.2,freios,preventiva,679.85,nenhuma falha,sem falha,equipe beta,1
+MT000447,RB006,MS004323,2025-08-24T20:07:31,2025-08-24T20:37:33,2025-08-25T05:16:54,8.7,sensores de proximidade,corretiva,1409.58,efeito de colisão leve,leve,equipe alfa,1
+MT000448,RB059,MS004332,2025-08-25T07:18:19,2025-08-25T08:12:56,2025-08-25T12:20:21,4.1,freios,corretiva,2409.73,efeito de colisão moderada,moderada,equipe beta,0
+MT000449,RB049,,,2025-08-25T10:00:11,2025-08-25T12:09:22,2.2,LiDAR,preventiva,336.08,nenhuma falha,sem falha,equipe alfa,1
+MT000450,RB046,,,2025-08-25T11:14:25,2025-08-25T14:01:47,2.8,módulo de rede,preventiva,780.83,nenhuma falha,sem falha,equipe alfa,0
+MT000451,RB030,,,2025-08-25T20:02:26,2025-08-25T22:46:26,2.7,bateria,preventiva,270.09,nenhuma falha,sem falha,equipe alfa,1
+MT000452,RB050,MS004349,2025-08-26T07:16:07,2025-08-26T07:56:41,2025-08-26T18:34:43,10.6,controlador,corretiva,892.49,efeito de colisão leve,leve,equipe alfa,1
+MT000453,RB033,,,2025-08-26T14:20:05,2025-08-26T18:26:59,4.1,sensores de proximidade,preventiva,574.71,nenhuma falha,sem falha,equipe gama,1
+MT000454,RB052,,,2025-08-26T15:39:16,2025-08-26T19:32:04,3.9,motor de tração,preventiva,456.19,nenhuma falha,sem falha,equipe gama,0
+MT000455,RB054,,,2025-08-26T22:00:44,2025-08-27T01:41:52,3.7,sensores de proximidade,preventiva,559.92,desgaste dentro do limite,sem falha,equipe beta,1
+MT000456,RB041,,,2025-08-27T09:34:48,2025-08-27T13:07:37,3.5,módulo de rede,preventiva,672.54,nenhuma falha,sem falha,equipe beta,0
+MT000457,RB040,,,2025-08-27T18:21:24,2025-08-27T21:11:44,2.8,bateria,preventiva,456.8,desgaste dentro do limite,sem falha,equipe beta,0
+MT000458,RB055,,,2025-08-30T06:06:40,2025-08-30T08:28:25,2.4,bateria,preventiva,622.87,nenhuma falha,sem falha,equipe gama,1
+MT000459,RB020,,,2025-08-30T14:22:30,2025-08-30T18:20:47,4,freios,preventiva,120,desgaste dentro do limite,sem falha,equipe gama,0
+MT000460,RB052,MS004424,2025-08-30T16:50:44,2025-08-30T17:30:42,2025-08-31T05:01:59,11.5,rodas,corretiva,1874.19,perda persistente de comunicação,moderada,equipe alfa,0
+MT000461,RB039,,,2025-08-30T19:53:09,2025-08-30T22:09:00,2.3,módulo de rede,preventiva,368.59,nenhuma falha,sem falha,equipe gama,0
+MT000462,RB023,,,2025-08-31T04:55:59,2025-08-31T07:40:56,2.7,bateria,preventiva,434.81,nenhuma falha,sem falha,equipe gama,0
+MT000463,RB017,MS004452,2025-09-01T01:06:27,2025-09-01T01:56:26,2025-09-01T04:23:48,2.5,rodas,corretiva,562.23,efeito de colisão leve,leve,equipe beta,0
+MT000464,RB053,,,2025-09-01T11:43:21,2025-09-01T13:54:49,2.2,controlador,preventiva,538.69,desgaste dentro do limite,sem falha,equipe gama,0
+MT000465,RB016,,,2025-09-01T13:31:01,2025-09-01T15:10:28,1.7,freios,preventiva,284.51,nenhuma falha,sem falha,equipe beta,0
+MT000466,RB047,,,2025-09-02T02:28:06,2025-09-02T04:54:40,2.4,controlador,preventiva,721.05,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000467,RB058,MS004466,2025-09-02T02:11:03,2025-09-02T02:51:58,2025-09-02T14:05:12,11.2,LiDAR,corretiva,2208.85,perda persistente de comunicação,moderada,equipe alfa,1
+MT000468,RB011,,,2025-09-02T04:22:01,2025-09-02T06:44:07,2.4,sensores de proximidade,preventiva,565.42,nenhuma falha,sem falha,equipe beta,0
+MT000469,RB017,,,2025-09-02T11:43:46,2025-09-02T13:48:59,2.1,sensores de proximidade,preventiva,626.7,nenhuma falha,sem falha,equipe beta,0
+MT000470,RB038,,,2025-09-03T08:28:39,2025-09-03T10:43:31,2.2,motor de tração,preventiva,418.33,nenhuma falha,sem falha,equipe alfa,1
+MT000471,RB003,,,2025-09-03T16:45:41,2025-09-03T21:18:56,4.6,rodas,preventiva,578.9,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000472,RB060,,,2025-09-03T18:29:26,2025-09-03T20:44:57,2.3,motor de tração,preventiva,807.98,nenhuma falha,sem falha,equipe beta,0
+MT000473,RB034,,,2025-09-03T21:31:59,2025-09-03T23:00:40,1.5,sensores de proximidade,preventiva,534.31,nenhuma falha,sem falha,equipe gama,0
+MT000474,RB056,MS004506,2025-09-04T08:00:33,2025-09-04T08:24:51,2025-09-04T11:51:53,3.5,módulo de rede,corretiva,2883.05,efeito de colisão moderada,moderada,equipe gama,1
+MT000475,RB043,,,2025-09-04T17:41:17,2025-09-04T19:08:01,1.4,módulo de rede,preventiva,425.67,desgaste dentro do limite,sem falha,equipe beta,0
+MT000476,RB008,,,2025-09-05T13:59:07,2025-09-05T15:45:14,1.8,controlador,preventiva,191.5,desgaste dentro do limite,sem falha,equipe beta,1
+MT000477,RB053,MS004537,2025-09-05T16:53:14,2025-09-05T17:41:44,2025-09-06T02:03:56,8.4,motor de tração,corretiva,1224.81,efeito de colisão leve,leve,equipe beta,1
+MT000478,RB050,MS004560,2025-09-06T20:44:32,2025-09-06T21:08:42,2025-09-07T13:10:54,16,motor de tração,corretiva,1322.06,efeito de colisão grave,crítica,equipe alfa,0
+MT000479,RB025,,,2025-09-07T05:29:57,2025-09-07T07:30:13,2,rodas,preventiva,424.7,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000480,RB057,,,2025-09-07T06:05:02,2025-09-07T07:50:31,1.8,motor de tração,preventiva,532.18,nenhuma falha,sem falha,equipe gama,0
+MT000481,RB058,,,2025-09-07T06:10:35,2025-09-07T08:51:22,2.7,módulo de rede,preventiva,562.61,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000482,RB027,,,2025-09-07T09:39:54,2025-09-07T11:02:19,1.4,sensores de proximidade,preventiva,772.95,nenhuma falha,sem falha,equipe beta,1
+MT000483,RB019,,,2025-09-07T16:43:42,2025-09-07T18:49:04,2.1,freios,preventiva,327.52,nenhuma falha,sem falha,equipe gama,0
+MT000484,RB039,MS004577,2025-09-07T19:44:23,2025-09-07T20:29:36,2025-09-08T03:26:33,6.9,rodas,corretiva,551.62,efeito de colisão moderada,moderada,equipe gama,1
+MT000485,RB056,,,2025-09-08T07:42:33,2025-09-08T10:04:05,2.4,rodas,preventiva,374.15,desgaste dentro do limite,sem falha,equipe beta,1
+MT000486,RB007,MS004599,2025-09-08T15:59:26,2025-09-08T16:35:07,2025-09-08T23:20:33,6.8,sensores de proximidade,corretiva,1514.6,efeito de colisão leve,leve,equipe beta,1
+MT000487,RB042,,,2025-09-09T12:30:46,2025-09-09T17:17:10,4.8,freios,preventiva,835.02,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000488,RB006,,,2025-09-09T15:44:59,2025-09-09T19:32:32,3.8,rodas,preventiva,528.34,nenhuma falha,sem falha,equipe alfa,0
+MT000489,RB035,,,2025-09-10T00:21:32,2025-09-10T02:38:01,2.3,freios,preventiva,384.22,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000490,RB056,MS004642,2025-09-10T20:44:50,2025-09-10T21:10:16,2025-09-11T08:16:15,11.1,LiDAR,corretiva,1337.76,efeito de colisão moderada,moderada,equipe alfa,1
+MT000491,RB059,,,2025-09-10T22:20:58,2025-09-11T01:25:23,3.1,sensores de proximidade,preventiva,779.6,desgaste dentro do limite,sem falha,equipe beta,0
+MT000492,RB060,MS004653,2025-09-11T13:40:02,2025-09-11T14:02:17,2025-09-12T02:57:15,12.9,módulo de rede,corretiva,2821.29,efeito de colisão grave,crítica,equipe beta,0
+MT000493,RB004,,,2025-09-12T01:35:55,2025-09-12T04:30:44,2.9,freios,preventiva,421.48,desgaste dentro do limite,sem falha,equipe alfa,1
+MT000494,RB017,MS004712,2025-09-14T05:29:51,2025-09-14T05:43:05,2025-09-14T12:12:30,6.5,módulo de rede,corretiva,3929,motor de tração,moderada,equipe gama,0
+MT000495,RB014,,,2025-09-15T00:26:24,2025-09-15T04:46:04,4.3,bateria,preventiva,427.82,nenhuma falha,sem falha,equipe alfa,0
+MT000496,RB001,,,2025-09-15T01:45:29,2025-09-15T03:50:53,2.1,bateria,preventiva,565.1,desgaste dentro do limite,sem falha,equipe gama,1
+MT000497,RB024,,,2025-09-16T12:18:12,2025-09-16T13:51:59,1.6,controlador,preventiva,394.38,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000498,RB046,MS004771,2025-09-17T12:12:21,2025-09-17T12:36:27,2025-09-18T07:41:14,19.1,rodas,corretiva,1358.04,efeito de colisão grave,crítica,equipe alfa,1
+MT000499,RB028,,,2025-09-17T23:15:39,2025-09-18T01:49:47,2.6,motor de tração,preventiva,515.71,nenhuma falha,sem falha,equipe gama,0
+MT000500,RB044,,,2025-09-18T09:02:02,2025-09-18T10:12:33,1.2,controlador,preventiva,121.22,nenhuma falha,sem falha,equipe beta,0
+MT000501,RB027,MS004786,2025-09-18T09:07:51,2025-09-18T09:52:01,2025-09-18T23:50:53,14,motor de tração,corretiva,4023.97,perda persistente de comunicação,moderada,equipe alfa,1
+MT000502,RB037,,,2025-09-19T08:30:53,2025-09-19T13:12:27,4.7,freios,preventiva,429.3,nenhuma falha,sem falha,equipe gama,0
+MT000503,RB016,MS004805,2025-09-19T12:31:34,2025-09-19T13:16:20,2025-09-19T21:12:45,7.9,bateria,corretiva,2096.61,sensor,moderada,equipe beta,1
+MT000504,RB007,,,2025-09-19T21:30:05,2025-09-19T23:42:37,2.2,motor de tração,preventiva,530.76,nenhuma falha,sem falha,equipe beta,0
+MT000505,RB013,,,2025-09-22T22:44:55,2025-09-23T00:10:06,1.4,sensores de proximidade,preventiva,598.72,desgaste dentro do limite,sem falha,equipe beta,0
+MT000506,RB032,,,2025-09-23T00:33:30,2025-09-23T04:07:59,3.6,rodas,preventiva,378.03,desgaste dentro do limite,sem falha,equipe gama,0
+MT000507,RB031,,,2025-09-23T19:27:29,2025-09-23T23:01:51,3.6,motor de tração,preventiva,356.57,desgaste dentro do limite,sem falha,equipe gama,1
+MT000508,RB002,,,2025-09-24T19:10:10,2025-09-24T20:47:50,1.6,controlador,preventiva,378.71,nenhuma falha,sem falha,equipe alfa,0
+MT000509,RB022,,,2025-09-25T02:16:31,2025-09-25T05:47:19,3.5,LiDAR,preventiva,475.19,nenhuma falha,sem falha,equipe beta,0
+MT000510,RB021,,,2025-09-25T17:42:33,2025-09-25T20:12:24,2.5,motor de tração,preventiva,637.76,nenhuma falha,sem falha,equipe beta,0
+MT000511,RB050,,,2025-09-25T18:54:38,2025-09-25T22:47:37,3.9,sensores de proximidade,preventiva,237.16,nenhuma falha,sem falha,equipe beta,1
+MT000512,RB010,,,2025-09-26T00:18:36,2025-09-26T01:13:50,0.9,rodas,preventiva,536.2,nenhuma falha,sem falha,equipe gama,0
+MT000513,RB048,,,2025-09-26T00:19:41,2025-09-26T02:54:53,2.6,controlador,preventiva,1025.27,desgaste dentro do limite,sem falha,equipe beta,0
+MT000514,RB045,,,2025-09-26T11:23:41,2025-09-26T13:47:56,2.4,LiDAR,preventiva,516.28,nenhuma falha,sem falha,equipe beta,0
+MT000515,RB051,,,2025-09-27T01:49:25,2025-09-27T03:28:19,1.6,LiDAR,preventiva,626.05,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000516,RB012,,,2025-09-27T01:56:18,2025-09-27T04:15:38,2.3,freios,preventiva,572.47,desgaste dentro do limite,sem falha,equipe gama,1
+MT000517,RB026,,,2025-09-28T09:20:58,2025-09-28T10:14:05,0.9,rodas,preventiva,296.48,nenhuma falha,sem falha,equipe gama,0
+MT000518,RB054,,,2025-09-28T17:15:29,2025-09-28T20:41:09,3.4,sensores de proximidade,preventiva,547.24,nenhuma falha,sem falha,equipe gama,0
+MT000519,RB009,,,2025-09-29T05:11:17,2025-09-29T07:54:12,2.7,bateria,preventiva,576.45,nenhuma falha,sem falha,equipe alfa,0
+MT000520,RB033,,,2025-09-29T11:54:58,2025-09-29T13:10:07,1.3,motor de tração,preventiva,724.45,desgaste dentro do limite,sem falha,equipe beta,0
+MT000521,RB052,,,2025-09-29T15:20:06,2025-09-29T17:25:28,2.1,bateria,preventiva,535.18,nenhuma falha,sem falha,equipe beta,0
+MT000522,RB024,MS004995,2025-09-30T09:58:59,2025-09-30T10:37:37,2025-09-30T19:34:03,8.9,rodas,corretiva,1654.32,efeito de colisão moderada,moderada,equipe beta,1
+MT000523,RB057,MS005036,2025-10-02T10:28:13,2025-10-02T10:55:55,2025-10-02T15:34:14,4.6,freios,corretiva,350,efeito de colisão leve,leve,equipe alfa,1
+MT000524,RB018,,,2025-10-02T13:44:14,2025-10-02T16:06:42,2.4,bateria,preventiva,345.61,nenhuma falha,sem falha,equipe alfa,0
+MT000525,RB005,,,2025-10-03T02:26:16,2025-10-03T04:21:43,1.9,módulo de rede,preventiva,745.2,desgaste dentro do limite,sem falha,equipe alfa,1
+MT000526,RB039,,,2025-10-03T03:00:38,2025-10-03T05:55:54,2.9,sensores de proximidade,preventiva,413.13,nenhuma falha,sem falha,equipe alfa,0
+MT000527,RB041,,,2025-10-04T10:07:38,2025-10-04T12:17:49,2.2,sensores de proximidade,preventiva,506.52,desgaste dentro do limite,sem falha,equipe gama,0
+MT000528,RB023,,,2025-10-04T21:07:53,2025-10-04T23:23:45,2.3,rodas,preventiva,660.36,nenhuma falha,sem falha,equipe alfa,0
+MT000529,RB046,,,2025-10-05T06:26:44,2025-10-05T09:41:39,3.2,bateria,preventiva,383.86,nenhuma falha,sem falha,equipe alfa,0
+MT000530,RB016,,,2025-10-05T17:04:06,2025-10-05T18:44:49,1.7,motor de tração,preventiva,351.22,desgaste dentro do limite,sem falha,equipe alfa,1
+MT000531,RB058,MS005099,2025-10-05T23:33:32,2025-10-05T23:57:41,2025-10-06T03:34:25,3.6,sensores de proximidade,corretiva,2091.79,bateria abaixo do limite,moderada,equipe gama,0
+MT000532,RB053,,,2025-10-06T00:54:29,2025-10-06T01:42:29,0.8,sensores de proximidade,preventiva,755.37,nenhuma falha,sem falha,equipe alfa,0
+MT000533,RB029,MS005101,2025-10-06T06:27:17,2025-10-06T06:36:15,2025-10-06T15:18:25,8.7,módulo de rede,corretiva,2308.21,efeito de colisão moderada,moderada,equipe gama,1
+MT000534,RB049,,,2025-10-06T12:33:33,2025-10-06T14:05:06,1.5,controlador,preventiva,629.72,nenhuma falha,sem falha,equipe beta,1
+MT000535,RB036,,,2025-10-06T17:57:49,2025-10-06T20:16:35,2.3,rodas,preventiva,332.26,desgaste dentro do limite,sem falha,equipe beta,0
+MT000536,RB015,,,2025-10-07T20:14:02,2025-10-07T22:49:51,2.6,controlador,preventiva,120,nenhuma falha,sem falha,equipe beta,0
+MT000537,RB037,MS005140,2025-10-08T07:17:38,2025-10-08T07:37:58,2025-10-08T17:25:52,9.8,freios,corretiva,2218.85,perda persistente de comunicação,moderada,equipe alfa,1
+MT000538,RB060,,,2025-10-09T01:42:29,2025-10-09T03:09:52,1.5,módulo de rede,preventiva,212.31,nenhuma falha,sem falha,equipe beta,1
+MT000539,RB029,,,2025-10-09T06:50:05,2025-10-09T08:42:26,1.9,rodas,preventiva,361.23,nenhuma falha,sem falha,equipe alfa,0
+MT000540,RB030,,,2025-10-09T12:27:12,2025-10-09T15:36:05,3.1,LiDAR,preventiva,421.69,nenhuma falha,sem falha,equipe alfa,0
+MT000541,RB025,MS005176,2025-10-09T19:51:11,2025-10-09T20:30:21,2025-10-10T06:58:30,10.5,freios,corretiva,2345.51,efeito de colisão moderada,moderada,equipe gama,0
+MT000542,RB040,,,2025-10-10T02:48:20,2025-10-10T04:23:20,1.6,bateria,preventiva,885.51,nenhuma falha,sem falha,equipe beta,0
+MT000543,RB025,,,2025-10-10T14:29:18,2025-10-10T16:45:59,2.3,bateria,preventiva,911.29,desgaste dentro do limite,sem falha,equipe beta,0
+MT000544,RB047,,,2025-10-11T00:00:59,2025-10-11T02:29:46,2.5,bateria,preventiva,534.54,nenhuma falha,sem falha,equipe alfa,0
+MT000545,RB056,MS005213,2025-10-11T15:06:31,2025-10-11T15:19:52,2025-10-11T18:06:23,2.8,motor de tração,corretiva,1368.8,efeito de colisão leve,leve,equipe gama,1
+MT000546,RB005,MS005221,2025-10-11T18:42:39,2025-10-11T19:37:34,2025-10-12T04:24:56,8.8,bateria,corretiva,1474.04,perda persistente de comunicação,moderada,equipe beta,0
+MT000547,RB017,,,2025-10-11T23:37:17,2025-10-12T00:25:17,0.8,rodas,preventiva,768.3,nenhuma falha,sem falha,equipe gama,1
+MT000548,RB020,,,2025-10-12T10:12:03,2025-10-12T12:26:45,2.2,sensores de proximidade,preventiva,749.47,nenhuma falha,sem falha,equipe alfa,0
+MT000549,RB048,MS005246,2025-10-13T06:07:56,2025-10-13T07:02:10,2025-10-13T22:47:43,15.8,LiDAR,corretiva,2434.77,efeito de colisão moderada,moderada,equipe alfa,1
+MT000550,RB006,,,2025-10-13T15:29:49,2025-10-13T17:36:09,2.1,rodas,preventiva,120,nenhuma falha,sem falha,equipe gama,1
+MT000551,RB042,,,2025-10-13T22:29:35,2025-10-14T01:49:04,3.3,bateria,preventiva,640.26,nenhuma falha,sem falha,equipe gama,0
+MT000552,RB003,,,2025-10-14T15:47:45,2025-10-14T17:13:17,1.4,sensores de proximidade,preventiva,548.93,desgaste dentro do limite,sem falha,equipe beta,1
+MT000553,RB055,,,2025-10-15T08:29:25,2025-10-15T12:34:13,4.1,motor de tração,preventiva,490.59,nenhuma falha,sem falha,equipe gama,0
+MT000554,RB059,,,2025-10-15T19:55:40,2025-10-15T22:54:45,3,módulo de rede,preventiva,255.2,nenhuma falha,sem falha,equipe beta,0
+MT000555,RB035,,,2025-10-16T13:23:25,2025-10-16T15:38:09,2.2,rodas,preventiva,692.95,nenhuma falha,sem falha,equipe gama,0
+MT000556,RB027,,,2025-10-16T13:40:44,2025-10-16T16:06:09,2.4,controlador,preventiva,721.5,nenhuma falha,sem falha,equipe alfa,0
+MT000557,RB056,,,2025-10-16T19:55:15,2025-10-16T23:41:12,3.8,LiDAR,preventiva,453.48,nenhuma falha,sem falha,equipe gama,0
+MT000558,RB001,,,2025-10-17T06:58:46,2025-10-17T07:59:12,1,sensores de proximidade,preventiva,622.33,nenhuma falha,sem falha,equipe beta,1
+MT000559,RB011,MS005323,2025-10-17T09:01:22,2025-10-17T09:47:46,2025-10-17T17:33:26,7.8,módulo de rede,corretiva,2908.65,bateria abaixo do limite,moderada,equipe alfa,1
+MT000560,RB019,,,2025-10-17T18:18:35,2025-10-17T21:47:56,3.5,controlador,preventiva,278.7,nenhuma falha,sem falha,equipe gama,0
+MT000561,RB011,,,2025-10-17T22:10:48,2025-10-18T00:25:54,2.3,freios,preventiva,438.24,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000562,RB053,MS005345,2025-10-18T08:11:23,2025-10-18T08:51:54,2025-10-18T14:53:18,6,rodas,corretiva,2552.26,efeito de colisão leve,leve,equipe beta,1
+MT000563,RB024,MS005354,2025-10-18T13:15:39,2025-10-18T13:38:29,2025-10-19T00:32:29,10.9,LiDAR,corretiva,1992.6,bateria abaixo do limite,moderada,equipe gama,1
+MT000564,RB032,MS005377,2025-10-19T16:42:48,2025-10-19T17:07:01,2025-10-19T21:59:08,4.9,LiDAR,corretiva,1113.01,bateria abaixo do limite,moderada,equipe alfa,1
+MT000565,RB043,,,2025-10-20T06:20:12,2025-10-20T09:35:29,3.3,bateria,preventiva,726.76,nenhuma falha,sem falha,equipe gama,0
+MT000566,RB045,MS005398,2025-10-20T12:35:32,2025-10-20T13:13:33,2025-10-20T22:36:33,9.4,sensores de proximidade,corretiva,1578.32,efeito de colisão leve,leve,equipe gama,1
+MT000567,RB008,MS005438,2025-10-21T23:23:53,2025-10-22T00:02:37,2025-10-22T09:32:43,9.5,controlador,corretiva,1150.43,bateria abaixo do limite,moderada,equipe gama,1
+MT000568,RB058,,,2025-10-22T14:25:25,2025-10-22T17:34:21,3.1,rodas,preventiva,445.62,desgaste dentro do limite,sem falha,equipe beta,0
+MT000569,RB055,MS005452,2025-10-23T01:16:18,2025-10-23T01:55:04,2025-10-23T10:29:29,8.6,controlador,corretiva,1094.79,efeito de colisão leve,leve,equipe beta,1
+MT000570,RB008,,,2025-10-23T16:44:07,2025-10-23T17:32:07,0.8,sensores de proximidade,preventiva,555.18,desgaste dentro do limite,sem falha,equipe beta,1
+MT000571,RB028,,,2025-10-24T07:29:54,2025-10-24T08:55:50,1.4,controlador,preventiva,513.99,nenhuma falha,sem falha,equipe alfa,0
+MT000572,RB034,,,2025-10-24T09:18:33,2025-10-24T10:26:12,1.1,rodas,preventiva,561.47,nenhuma falha,sem falha,equipe gama,0
+MT000573,RB038,,,2025-10-24T09:56:02,2025-10-24T12:07:17,2.2,sensores de proximidade,preventiva,720.06,nenhuma falha,sem falha,equipe alfa,0
+MT000574,RB014,,,2025-10-24T20:29:27,2025-10-24T21:43:44,1.2,sensores de proximidade,preventiva,618.25,nenhuma falha,sem falha,equipe beta,0
+MT000575,RB044,MS005497,2025-10-25T16:09:53,2025-10-25T16:51:33,2025-10-25T23:25:33,6.6,motor de tração,corretiva,1960.51,perda persistente de comunicação,moderada,equipe gama,1
+MT000576,RB057,,,2025-10-25T19:48:32,2025-10-25T21:35:51,1.8,controlador,preventiva,697,nenhuma falha,sem falha,equipe gama,0
+MT000577,RB002,MS005534,2025-10-27T20:28:05,2025-10-27T21:01:21,2025-10-28T02:31:39,5.5,LiDAR,corretiva,3142.36,efeito de colisão moderada,moderada,equipe beta,0
+MT000578,RB025,MS005542,2025-10-28T09:44:13,2025-10-28T10:22:13,2025-10-28T23:24:26,13,rodas,corretiva,4206.69,efeito de colisão grave,crítica,equipe beta,1
+MT000579,RB020,MS005545,2025-10-28T12:03:31,2025-10-28T12:29:38,2025-10-29T06:39:19,18.2,motor de tração,corretiva,1166.3,sensor,moderada,equipe beta,1
+MT000580,RB053,MS005557,2025-10-28T19:30:43,2025-10-28T19:57:54,2025-10-28T21:27:54,1.5,sensores de proximidade,corretiva,1156.86,efeito de colisão leve,leve,equipe beta,1
+MT000581,RB010,,,2025-10-28T23:20:02,2025-10-29T02:24:36,3.1,módulo de rede,preventiva,238.86,nenhuma falha,sem falha,equipe beta,0
+MT000582,RB019,MS005568,2025-10-29T08:08:31,2025-10-29T08:54:23,2025-10-29T10:41:18,1.8,rodas,corretiva,1509.81,efeito de colisão leve,leve,equipe alfa,1
+MT000583,RB044,MS005585,2025-10-30T04:40:31,2025-10-30T05:07:20,2025-10-30T18:51:51,13.7,rodas,corretiva,1643.97,efeito de colisão moderada,moderada,equipe beta,1
+MT000584,RB026,,,2025-10-30T17:33:19,2025-10-30T20:25:04,2.9,rodas,preventiva,617.82,nenhuma falha,sem falha,equipe alfa,0
+MT000585,RB007,,,2025-10-31T02:26:42,2025-10-31T03:14:42,0.8,motor de tração,preventiva,415.51,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000586,RB004,,,2025-10-31T17:49:06,2025-10-31T21:14:27,3.4,rodas,preventiva,540.55,nenhuma falha,sem falha,equipe beta,0
+MT000587,RB057,MS005617,2025-11-01T12:39:05,2025-11-01T13:01:37,2025-11-02T02:35:13,13.6,bateria,corretiva,1631.1,sensor,moderada,equipe gama,0
+MT000588,RB040,MS005636,2025-11-02T17:39:31,2025-11-02T18:14:32,2025-11-02T22:01:43,3.8,sensores de proximidade,corretiva,3661.67,bateria abaixo do limite,moderada,equipe alfa,1
+MT000589,RB052,MS005638,2025-11-02T17:45:47,2025-11-02T18:35:13,2025-11-03T00:42:59,6.1,controlador,corretiva,1463.29,efeito de colisão leve,leve,equipe gama,1
+MT000590,RB012,,,2025-11-03T01:04:15,2025-11-03T03:40:36,2.6,rodas,preventiva,360.12,nenhuma falha,sem falha,equipe beta,0
+MT000591,RB022,,,2025-11-03T01:50:19,2025-11-03T04:50:19,3,bateria,preventiva,586.78,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000592,RB018,,,2025-11-03T16:15:45,2025-11-03T19:10:35,2.9,sensores de proximidade,preventiva,559.42,nenhuma falha,sem falha,equipe alfa,1
+MT000593,RB054,,,2025-11-04T10:46:39,2025-11-04T13:46:50,3,motor de tração,preventiva,260.96,nenhuma falha,sem falha,equipe gama,0
+MT000594,RB060,MS005666,2025-11-04T12:39:14,2025-11-04T13:32:36,2025-11-04T21:19:28,7.8,sensores de proximidade,corretiva,1571.18,perda persistente de comunicação,moderada,equipe beta,1
+MT000595,RB034,MS005675,2025-11-04T21:10:38,2025-11-04T21:47:05,2025-11-05T06:51:51,9.1,motor de tração,corretiva,2955.47,efeito de colisão moderada,moderada,equipe beta,1
+MT000596,RB035,MS005693,2025-11-05T17:56:57,2025-11-05T18:23:38,2025-11-06T01:03:09,6.7,LiDAR,corretiva,3269.28,efeito de colisão moderada,moderada,equipe beta,1
+MT000597,RB024,,,2025-11-06T01:52:24,2025-11-06T04:58:46,3.1,motor de tração,preventiva,938.76,desgaste dentro do limite,sem falha,equipe beta,0
+MT000598,RB035,MS005702,2025-11-06T01:23:01,2025-11-06T02:09:23,2025-11-06T07:24:08,5.2,controlador,corretiva,1948.08,efeito de colisão moderada,moderada,equipe alfa,1
+MT000599,RB044,,,2025-11-06T23:38:36,2025-11-07T02:39:33,3,motor de tração,preventiva,412.71,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000600,RB032,,,2025-11-07T07:26:45,2025-11-07T11:49:19,4.4,controlador,preventiva,274.38,nenhuma falha,sem falha,equipe beta,0
+MT000601,RB037,,,2025-11-07T07:32:23,2025-11-07T11:35:32,4.1,motor de tração,preventiva,545.14,nenhuma falha,sem falha,equipe gama,0
+MT000602,RB021,,,2025-11-07T12:08:13,2025-11-07T15:22:55,3.2,bateria,preventiva,141.29,nenhuma falha,sem falha,equipe beta,0
+MT000603,RB046,,,2025-11-07T22:12:46,2025-11-08T00:01:17,1.8,controlador,preventiva,663.82,nenhuma falha,sem falha,equipe alfa,0
+MT000604,RB045,,,2025-11-09T15:08:10,2025-11-09T18:16:05,3.1,sensores de proximidade,preventiva,479.92,desgaste dentro do limite,sem falha,equipe beta,1
+MT000605,RB048,MS005773,2025-11-09T18:04:57,2025-11-09T18:28:53,2025-11-10T12:53:58,18.4,LiDAR,corretiva,3835.93,efeito de colisão grave,crítica,equipe alfa,1
+MT000606,RB041,,,2025-11-09T19:39:27,2025-11-09T23:09:57,3.5,motor de tração,preventiva,963.09,nenhuma falha,sem falha,equipe beta,0
+MT000607,RB031,,,2025-11-09T22:46:39,2025-11-10T01:43:00,2.9,rodas,preventiva,1003.01,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000608,RB016,,,2025-11-10T08:56:11,2025-11-10T09:44:11,0.8,motor de tração,preventiva,549.82,nenhuma falha,sem falha,equipe beta,0
+MT000609,RB039,,,2025-11-10T12:01:32,2025-11-10T14:58:54,3,LiDAR,preventiva,450.1,nenhuma falha,sem falha,equipe alfa,0
+MT000610,RB009,,,2025-11-11T01:47:15,2025-11-11T03:30:02,1.7,bateria,preventiva,228.56,nenhuma falha,sem falha,equipe alfa,1
+MT000611,RB023,,,2025-11-11T20:17:42,2025-11-12T00:36:51,4.3,módulo de rede,preventiva,296.11,nenhuma falha,sem falha,equipe beta,0
+MT000612,RB013,,,2025-11-12T02:46:58,2025-11-12T05:00:08,2.2,módulo de rede,preventiva,377.71,nenhuma falha,sem falha,equipe alfa,0
+MT000613,RB052,,,2025-11-12T20:01:50,2025-11-12T22:17:34,2.3,motor de tração,preventiva,696.25,desgaste dentro do limite,sem falha,equipe gama,0
+MT000614,RB051,,,2025-11-14T05:21:18,2025-11-14T08:40:18,3.3,controlador,preventiva,460.6,nenhuma falha,sem falha,equipe alfa,1
+MT000615,RB002,,,2025-11-14T05:45:47,2025-11-14T09:50:58,4.1,sensores de proximidade,preventiva,546.06,nenhuma falha,sem falha,equipe alfa,0
+MT000616,RB025,,,2025-11-14T06:50:22,2025-11-14T07:38:22,0.8,módulo de rede,preventiva,792.82,nenhuma falha,sem falha,equipe gama,1
+MT000617,RB048,,,2025-11-14T07:04:12,2025-11-14T08:43:31,1.7,LiDAR,preventiva,437.8,nenhuma falha,sem falha,equipe beta,0
+MT000618,RB021,MS005885,2025-11-14T12:31:19,2025-11-14T13:16:26,2025-11-15T01:21:49,12.1,LiDAR,corretiva,2045.22,efeito de colisão moderada,moderada,equipe alfa,1
+MT000619,RB033,MS005889,2025-11-14T20:38:17,2025-11-14T21:09:39,2025-11-15T02:13:05,5.1,motor de tração,corretiva,1504.26,efeito de colisão leve,leve,equipe alfa,1
+MT000620,RB013,MS005896,2025-11-15T08:15:41,2025-11-15T08:48:12,2025-11-15T13:31:46,4.7,módulo de rede,corretiva,3029.23,efeito de colisão grave,crítica,equipe beta,0
+MT000621,RB040,,,2025-11-15T20:29:54,2025-11-15T23:36:11,3.1,controlador,preventiva,675.6,desgaste dentro do limite,sem falha,equipe alfa,1
+MT000622,RB050,,,2025-11-16T01:43:33,2025-11-16T04:06:37,2.4,bateria,preventiva,622.01,desgaste dentro do limite,sem falha,equipe gama,0
+MT000623,RB005,,,2025-11-17T10:12:04,2025-11-17T11:49:22,1.6,rodas,preventiva,558.2,nenhuma falha,sem falha,equipe beta,0
+MT000624,RB033,,,2025-11-18T12:59:05,2025-11-18T16:33:00,3.6,controlador,preventiva,518.33,nenhuma falha,sem falha,equipe gama,0
+MT000625,RB042,,,2025-11-18T13:08:34,2025-11-18T16:15:48,3.1,motor de tração,preventiva,369.26,nenhuma falha,sem falha,equipe gama,1
+MT000626,RB006,,,2025-11-18T20:36:49,2025-11-18T23:11:42,2.6,módulo de rede,preventiva,616.54,nenhuma falha,sem falha,equipe alfa,0
+MT000627,RB060,,,2025-11-21T16:09:19,2025-11-21T18:42:23,2.6,módulo de rede,preventiva,318.67,nenhuma falha,sem falha,equipe alfa,0
+MT000628,RB027,MS006014,2025-11-21T16:57:33,2025-11-21T17:38:33,2025-11-21T21:21:48,3.7,freios,corretiva,2446.77,efeito de colisão moderada,moderada,equipe beta,0
+MT000629,RB049,MS006024,2025-11-21T21:59:06,2025-11-21T22:21:28,2025-11-22T06:51:53,8.5,rodas,corretiva,1743.58,sensor,moderada,equipe gama,1
+MT000630,RB044,MS006026,2025-11-21T22:50:21,2025-11-21T23:02:57,2025-11-22T11:35:39,12.5,motor de tração,corretiva,2314.25,perda persistente de comunicação,moderada,equipe alfa,1
+MT000631,RB029,,,2025-11-22T08:38:16,2025-11-22T11:25:08,2.8,bateria,preventiva,391.39,desgaste dentro do limite,sem falha,equipe beta,0
+MT000632,RB043,,,2025-11-22T17:26:22,2025-11-22T20:58:48,3.5,sensores de proximidade,preventiva,385.04,nenhuma falha,sem falha,equipe beta,0
+MT000633,RB056,,,2025-11-23T09:12:11,2025-11-23T12:28:58,3.3,freios,preventiva,507.03,nenhuma falha,sem falha,equipe alfa,0
+MT000634,RB059,,,2025-11-23T09:48:52,2025-11-23T10:55:23,1.1,módulo de rede,preventiva,474.96,nenhuma falha,sem falha,equipe beta,0
+MT000635,RB035,,,2025-11-24T01:58:15,2025-11-24T03:22:14,1.4,rodas,preventiva,412.3,nenhuma falha,sem falha,equipe beta,0
+MT000636,RB030,,,2025-11-24T02:10:09,2025-11-24T05:59:11,3.8,sensores de proximidade,preventiva,716.17,nenhuma falha,sem falha,equipe beta,0
+MT000637,RB020,,,2025-11-24T16:34:31,2025-11-24T19:17:54,2.7,sensores de proximidade,preventiva,410.32,nenhuma falha,sem falha,equipe alfa,0
+MT000638,RB015,,,2025-11-24T19:16:15,2025-11-24T21:36:12,2.3,rodas,preventiva,597.48,nenhuma falha,sem falha,equipe alfa,0
+MT000639,RB049,,,2025-11-25T15:57:12,2025-11-25T17:41:40,1.7,motor de tração,preventiva,715.16,nenhuma falha,sem falha,equipe beta,1
+MT000640,RB055,,,2025-11-25T19:22:01,2025-11-25T22:22:31,3,bateria,preventiva,248.26,nenhuma falha,sem falha,equipe alfa,0
+MT000641,RB003,,,2025-11-25T21:31:28,2025-11-26T00:14:57,2.7,sensores de proximidade,preventiva,534.87,desgaste dentro do limite,sem falha,equipe gama,0
+MT000642,RB036,,,2025-11-26T07:11:59,2025-11-26T10:59:50,3.8,motor de tração,preventiva,443.56,nenhuma falha,sem falha,equipe alfa,0
+MT000643,RB047,,,2025-11-26T07:52:21,2025-11-26T09:17:39,1.4,sensores de proximidade,preventiva,608.77,desgaste dentro do limite,sem falha,equipe beta,0
+MT000644,RB053,,,2025-11-26T23:17:46,2025-11-27T00:59:07,1.7,freios,preventiva,514.08,nenhuma falha,sem falha,equipe alfa,0
+MT000645,RB001,,,2025-11-27T08:39:00,2025-11-27T10:58:00,2.3,bateria,preventiva,771.4,nenhuma falha,sem falha,equipe beta,0
+MT000646,RB017,,,2025-11-28T06:15:42,2025-11-28T09:38:51,3.4,motor de tração,preventiva,402.64,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000647,RB047,MS006134,2025-11-28T14:45:28,2025-11-28T15:09:20,2025-11-29T02:12:40,11.1,bateria,corretiva,2031.11,efeito de colisão moderada,moderada,equipe alfa,1
+MT000648,RB058,,,2025-11-28T16:39:51,2025-11-28T18:32:28,1.9,controlador,preventiva,654.83,nenhuma falha,sem falha,equipe beta,1
+MT000649,RB038,,,2025-11-28T17:31:44,2025-11-28T19:56:30,2.4,controlador,preventiva,513.28,nenhuma falha,sem falha,equipe alfa,0
+MT000650,RB034,,,2025-11-29T07:05:39,2025-11-29T11:20:49,4.3,rodas,preventiva,542.74,nenhuma falha,sem falha,equipe alfa,0
+MT000651,RB027,,,2025-11-30T07:01:56,2025-11-30T09:58:21,2.9,motor de tração,preventiva,689.28,nenhuma falha,sem falha,equipe beta,0
+MT000652,RB059,MS006164,2025-11-30T19:19:39,2025-11-30T19:46:26,2025-12-01T01:12:43,5.4,motor de tração,corretiva,2750.77,efeito de colisão moderada,moderada,equipe alfa,1
+MT000653,RB028,,,2025-12-01T17:52:03,2025-12-01T20:26:40,2.6,controlador,preventiva,392.48,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000654,RB019,,,2025-12-02T11:06:46,2025-12-02T14:08:12,3,controlador,preventiva,537.07,nenhuma falha,sem falha,equipe beta,0
+MT000655,RB054,MS006215,2025-12-03T12:57:20,2025-12-03T13:50:45,2025-12-03T22:05:18,8.2,bateria,corretiva,2327.97,perda persistente de comunicação,moderada,equipe gama,1
+MT000656,RB008,,,2025-12-06T01:48:56,2025-12-06T04:13:40,2.4,rodas,preventiva,935.3,nenhuma falha,sem falha,equipe gama,0
+MT000657,RB011,,,2025-12-06T07:59:44,2025-12-06T11:19:56,3.3,controlador,preventiva,985,nenhuma falha,sem falha,equipe alfa,0
+MT000658,RB007,,,2025-12-07T08:11:23,2025-12-07T09:22:53,1.2,motor de tração,preventiva,639.98,nenhuma falha,sem falha,equipe beta,0
+MT000659,RB004,,,2025-12-07T08:19:40,2025-12-07T10:16:55,2,LiDAR,preventiva,822.4,desgaste dentro do limite,sem falha,equipe gama,0
+MT000660,RB010,,,2025-12-07T20:44:55,2025-12-07T22:42:59,2,módulo de rede,preventiva,399.51,nenhuma falha,sem falha,equipe gama,0
+MT000661,RB014,,,2025-12-07T22:33:39,2025-12-08T02:25:18,3.9,freios,preventiva,571.26,nenhuma falha,sem falha,equipe alfa,0
+MT000662,RB058,MS006352,2025-12-10T17:18:46,2025-12-10T18:08:30,2025-12-11T06:23:29,12.2,bateria,corretiva,3026.79,perda persistente de comunicação,moderada,equipe alfa,1
+MT000663,RB057,,,2025-12-10T18:17:49,2025-12-10T22:34:52,4.3,bateria,preventiva,567.56,desgaste dentro do limite,sem falha,equipe gama,0
+MT000664,RB026,,,2025-12-11T11:43:09,2025-12-11T16:39:24,4.9,módulo de rede,preventiva,359.8,desgaste dentro do limite,sem falha,equipe beta,0
+MT000665,RB032,,,2025-12-15T00:49:00,2025-12-15T03:48:57,3,módulo de rede,preventiva,840.63,nenhuma falha,sem falha,equipe beta,1
+MT000666,RB054,,,2025-12-16T01:24:56,2025-12-16T04:07:52,2.7,rodas,preventiva,552.89,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000667,RB045,,,2025-12-16T16:07:00,2025-12-16T17:18:46,1.2,LiDAR,preventiva,387.56,nenhuma falha,sem falha,equipe beta,0
+MT000668,RB046,,,2025-12-17T17:55:10,2025-12-17T21:26:03,3.5,rodas,preventiva,432.91,nenhuma falha,sem falha,equipe gama,0
+MT000669,RB039,,,2025-12-17T19:20:56,2025-12-17T23:47:05,4.4,sensores de proximidade,preventiva,466.95,nenhuma falha,sem falha,equipe beta,0
+MT000670,RB003,MS006473,2025-12-18T16:15:21,2025-12-18T16:33:33,2025-12-19T00:03:23,7.5,bateria,corretiva,577.62,sensor,moderada,equipe alfa,0
+MT000671,RB046,MS006475,2025-12-18T19:05:14,2025-12-18T19:31:16,2025-12-19T03:27:31,7.9,bateria,corretiva,1059.36,efeito de colisão leve,leve,equipe alfa,1
+MT000672,RB016,,,2025-12-19T08:36:26,2025-12-19T11:26:57,2.8,LiDAR,preventiva,548.56,nenhuma falha,sem falha,equipe beta,0
+MT000673,RB002,,,2025-12-20T17:21:24,2025-12-20T20:27:46,3.1,freios,preventiva,793.09,desgaste dentro do limite,sem falha,equipe gama,0
+MT000674,RB022,,,2025-12-20T20:22:30,2025-12-20T21:54:50,1.5,sensores de proximidade,preventiva,784.58,nenhuma falha,sem falha,equipe beta,0
+MT000675,RB037,,,2025-12-21T23:32:40,2025-12-22T01:32:18,2,bateria,preventiva,590.44,nenhuma falha,sem falha,equipe beta,0
+MT000676,RB018,,,2025-12-22T02:27:00,2025-12-22T05:13:16,2.8,controlador,preventiva,771.37,nenhuma falha,sem falha,equipe gama,0
+MT000677,RB012,,,2025-12-22T05:05:33,2025-12-22T07:48:12,2.7,sensores de proximidade,preventiva,510.75,nenhuma falha,sem falha,equipe alfa,0
+MT000678,RB052,,,2025-12-23T05:09:12,2025-12-23T07:37:00,2.5,sensores de proximidade,preventiva,350.32,desgaste dentro do limite,sem falha,equipe gama,0
+MT000679,RB021,,,2025-12-23T14:41:22,2025-12-23T15:44:11,1,sensores de proximidade,preventiva,228.61,nenhuma falha,sem falha,equipe alfa,0
+MT000680,RB024,,,2025-12-23T15:50:17,2025-12-23T18:33:30,2.7,motor de tração,preventiva,705.19,nenhuma falha,sem falha,equipe alfa,0
+MT000681,RB044,,,2025-12-24T20:07:57,2025-12-24T23:50:39,3.7,módulo de rede,preventiva,646.02,nenhuma falha,sem falha,equipe gama,0
+MT000682,RB037,MS006612,2025-12-25T21:20:57,2025-12-25T22:11:24,2025-12-26T05:42:35,7.5,sensores de proximidade,corretiva,2224.3,efeito de colisão moderada,moderada,equipe beta,1
+MT000683,RB006,,,2025-12-27T09:11:40,2025-12-27T11:37:50,2.4,motor de tração,preventiva,401.46,nenhuma falha,sem falha,equipe gama,0
+MT000684,RB023,,,2025-12-27T18:11:17,2025-12-27T20:11:02,2,freios,preventiva,814.67,nenhuma falha,sem falha,equipe gama,0
+MT000685,RB051,,,2025-12-28T12:55:33,2025-12-28T15:12:47,2.3,bateria,preventiva,550.11,nenhuma falha,sem falha,equipe beta,0
+MT000686,RB029,,,2025-12-28T23:05:21,2025-12-29T01:22:22,2.3,sensores de proximidade,preventiva,567.68,nenhuma falha,sem falha,equipe beta,0
+MT000687,RB053,,,2025-12-29T04:37:08,2025-12-29T06:24:35,1.8,sensores de proximidade,preventiva,680.15,nenhuma falha,sem falha,equipe gama,0
+MT000688,RB058,MS006666,2025-12-29T06:46:22,2025-12-29T07:08:25,2025-12-29T17:51:54,10.7,LiDAR,corretiva,2343.94,bateria abaixo do limite,moderada,equipe beta,1
+MT000689,RB024,MS006673,2025-12-29T11:00:50,2025-12-29T11:17:04,2025-12-29T19:35:59,8.3,motor de tração,corretiva,2204.35,efeito de colisão moderada,moderada,equipe beta,0
+MT000690,RB023,MS006678,2025-12-29T13:45:10,2025-12-29T14:39:33,2025-12-30T05:04:14,14.4,sensores de proximidade,corretiva,1397.81,motor de tração,moderada,equipe beta,1
+MT000691,RB005,,,2025-12-29T23:21:34,2025-12-30T02:11:01,2.8,módulo de rede,preventiva,309.95,nenhuma falha,sem falha,equipe gama,0
+MT000692,RB041,,,2025-12-29T23:39:44,2025-12-30T02:23:22,2.7,freios,preventiva,168.35,nenhuma falha,sem falha,equipe alfa,0
+MT000693,RB015,,,2025-12-30T03:11:52,2025-12-30T07:27:09,4.3,rodas,preventiva,527.87,nenhuma falha,sem falha,equipe gama,0
+MT000694,RB043,,,2025-12-30T04:55:42,2025-12-30T08:35:36,3.7,rodas,preventiva,399.14,nenhuma falha,sem falha,equipe gama,0
+MT000695,RB048,,,2025-12-30T13:16:00,2025-12-30T15:23:07,2.1,motor de tração,preventiva,611.52,nenhuma falha,sem falha,equipe beta,0
+MT000696,RB013,MS006708,2025-12-30T16:21:35,2025-12-30T16:52:51,2025-12-30T19:17:23,2.4,rodas,corretiva,1454.39,efeito de colisão leve,leve,equipe beta,1
+MT000697,RB031,,,2025-12-30T19:07:00,2025-12-30T21:46:11,2.7,rodas,preventiva,694.64,nenhuma falha,sem falha,equipe beta,1
+MT000698,RB040,,,2025-12-30T21:47:53,2025-12-31T00:23:51,2.6,freios,preventiva,516.87,nenhuma falha,sem falha,equipe alfa,0
+MT000699,RB003,,,2025-12-31T11:51:08,2025-12-31T13:56:55,2.1,sensores de proximidade,preventiva,737.24,nenhuma falha,sem falha,equipe beta,1
+MT000700,RB055,MS006724,2025-12-31T13:30:55,2025-12-31T13:49:27,2025-12-31T22:41:18,8.9,LiDAR,corretiva,1387.59,motor de tração,moderada,equipe beta,1
+MT000701,RB009,,,2025-12-31T16:21:24,2025-12-31T18:21:23,2,freios,preventiva,144.57,nenhuma falha,sem falha,equipe alfa,0
+MT000702,RB013,,,2025-12-31T18:21:31,2025-12-31T20:39:04,2.3,rodas,preventiva,625.34,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000703,RB042,,,2026-01-01T10:54:19,2026-01-01T13:28:14,2.6,sensores de proximidade,preventiva,258.75,nenhuma falha,sem falha,equipe beta,0
+MT000704,RB030,,,2026-01-01T18:36:55,2026-01-01T20:03:42,1.4,freios,preventiva,731.39,desgaste dentro do limite,sem falha,equipe beta,0
+MT000705,RB050,,,2026-01-02T17:49:13,2026-01-02T21:17:47,3.5,motor de tração,preventiva,658.81,nenhuma falha,sem falha,equipe alfa,0
+MT000706,RB020,,,2026-01-02T17:50:53,2026-01-02T20:07:35,2.3,módulo de rede,preventiva,557.33,nenhuma falha,sem falha,equipe gama,0
+MT000707,RB059,,,2026-01-03T16:30:48,2026-01-03T19:29:53,3,LiDAR,preventiva,450.1,nenhuma falha,sem falha,equipe gama,0
+MT000708,RB025,,,2026-01-04T04:11:04,2026-01-04T07:44:19,3.6,freios,preventiva,367.14,nenhuma falha,sem falha,equipe alfa,0
+MT000709,RB060,,,2026-01-05T11:09:13,2026-01-05T15:01:38,3.9,módulo de rede,preventiva,218.75,nenhuma falha,sem falha,equipe gama,0
+MT000710,RB034,,,2026-01-05T13:32:16,2026-01-05T16:12:41,2.7,motor de tração,preventiva,312.81,nenhuma falha,sem falha,equipe alfa,1
+MT000711,RB017,,,2026-01-06T13:12:56,2026-01-06T15:14:45,2,bateria,preventiva,450.72,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000712,RB022,MS006842,2026-01-06T18:55:58,2026-01-06T19:12:15,2026-01-07T14:23:28,19.2,controlador,corretiva,3783.13,efeito de colisão grave,crítica,equipe beta,1
+MT000713,RB056,,,2026-01-07T13:10:23,2026-01-07T15:48:56,2.6,módulo de rede,preventiva,343.62,nenhuma falha,sem falha,equipe gama,1
+MT000714,RB036,MS006865,2026-01-07T23:26:24,2026-01-07T23:45:09,2026-01-08T04:07:02,4.4,rodas,corretiva,2112.33,efeito de colisão moderada,moderada,equipe beta,0
+MT000715,RB055,,,2026-01-08T01:12:56,2026-01-08T02:33:05,1.3,motor de tração,preventiva,458.9,desgaste dentro do limite,sem falha,equipe gama,0
+MT000716,RB033,,,2026-01-08T03:18:45,2026-01-08T04:33:32,1.2,sensores de proximidade,preventiva,634.07,desgaste dentro do limite,sem falha,equipe gama,0
+MT000717,RB018,MS006867,2026-01-08T05:16:56,2026-01-08T05:58:04,2026-01-08T10:58:07,5,controlador,corretiva,663.09,efeito de colisão leve,leve,equipe gama,1
+MT000718,RB007,MS006868,2026-01-08T06:46:25,2026-01-08T07:40:31,2026-01-08T16:56:32,9.3,controlador,corretiva,1194.51,efeito de colisão leve,leve,equipe gama,0
+MT000719,RB049,MS006870,2026-01-08T08:31:36,2026-01-08T09:25:00,2026-01-08T23:38:45,14.2,controlador,corretiva,2335.95,efeito de colisão moderada,moderada,equipe beta,0
+MT000720,RB036,MS006886,2026-01-08T22:27:27,2026-01-08T22:44:47,2026-01-09T08:22:16,9.6,controlador,corretiva,1214.84,efeito de colisão moderada,moderada,equipe alfa,1
+MT000721,RB027,,,2026-01-09T01:09:24,2026-01-09T02:11:14,1,motor de tração,preventiva,510.8,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000722,RB037,MS006891,2026-01-09T06:50:50,2026-01-09T07:26:55,2026-01-09T22:21:15,14.9,módulo de rede,corretiva,4518.54,efeito de colisão grave,crítica,equipe beta,0
+MT000723,RB011,,,2026-01-09T12:31:17,2026-01-09T14:05:56,1.6,bateria,preventiva,464.59,desgaste dentro do limite,sem falha,equipe beta,0
+MT000724,RB047,,,2026-01-10T13:33:16,2026-01-10T17:58:52,4.4,controlador,preventiva,465.67,desgaste dentro do limite,sem falha,equipe beta,1
+MT000725,RB007,MS006918,2026-01-10T19:43:45,2026-01-10T20:04:51,2026-01-11T08:52:08,12.8,rodas,corretiva,1964.93,efeito de colisão moderada,moderada,equipe alfa,1
+MT000726,RB009,MS006926,2026-01-11T12:37:45,2026-01-11T12:57:56,2026-01-11T21:08:14,8.2,LiDAR,corretiva,655.87,efeito de colisão leve,leve,equipe alfa,1
+MT000727,RB035,,,2026-01-13T00:37:28,2026-01-13T04:11:19,3.6,controlador,preventiva,503.91,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000728,RB028,,,2026-01-13T15:09:46,2026-01-13T17:35:31,2.4,controlador,preventiva,315.05,nenhuma falha,sem falha,equipe gama,0
+MT000729,RB015,MS006977,2026-01-13T21:05:15,2026-01-13T21:29:06,2026-01-14T05:02:30,7.6,LiDAR,corretiva,1839.71,efeito de colisão moderada,moderada,equipe alfa,1
+MT000730,RB036,,,2026-01-14T17:32:12,2026-01-14T21:14:17,3.7,rodas,preventiva,528.15,nenhuma falha,sem falha,equipe beta,0
+MT000731,RB007,,,2026-01-14T23:50:31,2026-01-15T04:10:57,4.3,bateria,preventiva,624.41,nenhuma falha,sem falha,equipe alfa,1
+MT000732,RB003,MS006992,2026-01-15T09:08:23,2026-01-15T09:30:09,2026-01-15T15:07:36,5.6,LiDAR,corretiva,1435.62,motor de tração,moderada,equipe beta,1
+MT000733,RB020,MS006998,2026-01-15T13:27:21,2026-01-15T14:08:47,2026-01-15T18:29:32,4.3,LiDAR,corretiva,1733.04,efeito de colisão leve,leve,equipe beta,1
+MT000734,RB049,,,2026-01-15T21:50:55,2026-01-16T01:49:24,4,sensores de proximidade,preventiva,394.02,nenhuma falha,sem falha,equipe gama,0
+MT000735,RB019,,,2026-01-16T01:05:52,2026-01-16T04:24:22,3.3,motor de tração,preventiva,527.48,desgaste dentro do limite,sem falha,equipe beta,1
+MT000736,RB001,,,2026-01-16T07:43:17,2026-01-16T10:12:59,2.5,freios,preventiva,647.28,nenhuma falha,sem falha,equipe gama,1
+MT000737,RB021,MS007029,2026-01-17T06:13:32,2026-01-17T06:30:43,2026-01-17T17:06:30,10.6,rodas,corretiva,1844.12,efeito de colisão leve,leve,equipe gama,1
+MT000738,RB032,,,2026-01-17T13:47:18,2026-01-17T16:33:16,2.8,LiDAR,preventiva,525.94,nenhuma falha,sem falha,equipe gama,0
+MT000739,RB058,,,2026-01-18T07:22:32,2026-01-18T09:06:37,1.7,controlador,preventiva,258.15,nenhuma falha,sem falha,equipe gama,0
+MT000740,RB008,,,2026-01-18T08:55:06,2026-01-18T11:14:08,2.3,rodas,preventiva,433.21,nenhuma falha,sem falha,equipe beta,0
+MT000741,RB038,,,2026-01-19T08:45:26,2026-01-19T10:34:22,1.8,rodas,preventiva,962.86,desgaste dentro do limite,sem falha,equipe beta,0
+MT000742,RB027,MS007064,2026-01-19T15:30:30,2026-01-19T15:43:14,2026-01-20T08:51:27,17.1,controlador,corretiva,581.58,motor de tração,moderada,equipe gama,1
+MT000743,RB010,,,2026-01-20T03:55:18,2026-01-20T04:59:08,1.1,bateria,preventiva,479.26,nenhuma falha,sem falha,equipe beta,0
+MT000744,RB026,MS007076,2026-01-20T10:32:43,2026-01-20T11:24:32,2026-01-21T10:52:31,23.5,sensores de proximidade,corretiva,2433.04,efeito de colisão grave,crítica,equipe beta,1
+MT000745,RB046,,,2026-01-21T05:11:58,2026-01-21T07:44:27,2.5,motor de tração,preventiva,225.14,nenhuma falha,sem falha,equipe gama,0
+MT000746,RB045,MS007092,2026-01-21T09:49:45,2026-01-21T10:16:02,2026-01-21T23:52:37,13.6,motor de tração,corretiva,959.94,efeito de colisão grave,crítica,equipe beta,1
+MT000747,RB026,MS007109,2026-01-21T19:33:52,2026-01-21T20:03:02,2026-01-22T01:32:08,5.5,sensores de proximidade,corretiva,1799.67,efeito de colisão leve,leve,equipe alfa,1
+MT000748,RB014,,,2026-01-21T21:58:17,2026-01-22T00:26:48,2.5,módulo de rede,preventiva,317.27,desgaste dentro do limite,sem falha,equipe alfa,1
+MT000749,RB020,MS007114,2026-01-22T00:07:31,2026-01-22T00:35:53,2026-01-22T10:33:49,10,controlador,corretiva,2957.32,bateria abaixo do limite,moderada,equipe alfa,0
+MT000750,RB045,,,2026-01-23T05:57:16,2026-01-23T10:25:12,4.5,controlador,preventiva,465.36,desgaste dentro do limite,sem falha,equipe gama,1
+MT000751,RB022,,,2026-01-23T08:05:59,2026-01-23T10:23:21,2.3,LiDAR,preventiva,491.38,desgaste dentro do limite,sem falha,equipe alfa,1
+MT000752,RB054,,,2026-01-24T07:23:07,2026-01-24T09:43:14,2.3,controlador,preventiva,312.07,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000753,RB002,,,2026-01-24T13:48:55,2026-01-24T14:50:54,1,motor de tração,preventiva,549.83,nenhuma falha,sem falha,equipe gama,1
+MT000754,RB004,,,2026-01-24T14:34:34,2026-01-24T17:18:31,2.7,bateria,preventiva,331.86,nenhuma falha,sem falha,equipe gama,0
+MT000755,RB047,MS007165,2026-01-25T14:31:03,2026-01-25T14:52:56,2026-01-26T00:09:15,9.3,freios,corretiva,1384.46,efeito de colisão moderada,moderada,equipe alfa,1
+MT000756,RB039,MS007173,2026-01-25T20:30:03,2026-01-25T21:23:55,2026-01-26T13:49:37,16.4,sensores de proximidade,corretiva,1800.91,efeito de colisão moderada,moderada,equipe alfa,1
+MT000757,RB003,MS007206,2026-01-27T15:01:55,2026-01-27T15:20:20,2026-01-27T23:41:29,8.4,sensores de proximidade,corretiva,1689.49,efeito de colisão moderada,moderada,equipe gama,1
+MT000758,RB057,,,2026-01-27T23:12:18,2026-01-28T01:04:40,1.9,sensores de proximidade,preventiva,633.79,desgaste dentro do limite,sem falha,equipe beta,0
+MT000759,RB039,,,2026-01-29T07:35:43,2026-01-29T11:18:18,3.7,motor de tração,preventiva,213.29,nenhuma falha,sem falha,equipe alfa,0
+MT000760,RB044,,,2026-01-29T13:27:08,2026-01-29T15:29:46,2,sensores de proximidade,preventiva,442.74,nenhuma falha,sem falha,equipe alfa,1
+MT000761,RB011,MS007247,2026-01-29T16:18:47,2026-01-29T17:10:55,2026-01-29T20:17:57,3.1,bateria,corretiva,2374.55,efeito de colisão leve,leve,equipe alfa,1
+MT000762,RB022,MS007253,2026-01-29T21:10:29,2026-01-29T21:51:31,2026-01-30T02:35:52,4.7,rodas,corretiva,1272.54,efeito de colisão moderada,moderada,equipe alfa,1
+MT000763,RB026,,,2026-01-29T22:24:57,2026-01-30T00:25:23,2,módulo de rede,preventiva,379.14,nenhuma falha,sem falha,equipe gama,0
+MT000764,RB012,,,2026-01-31T04:53:46,2026-01-31T07:37:51,2.7,motor de tração,preventiva,679.35,desgaste dentro do limite,sem falha,equipe gama,0
+MT000765,RB003,MS007272,2026-01-31T08:57:27,2026-01-31T09:50:14,2026-01-31T15:44:49,5.9,LiDAR,corretiva,2041.61,efeito de colisão leve,leve,equipe alfa,1
+MT000766,RB003,MS007284,2026-01-31T18:28:58,2026-01-31T19:05:10,2026-02-01T00:15:15,5.2,sensores de proximidade,corretiva,1256.31,efeito de colisão moderada,moderada,equipe gama,1
+MT000767,RB053,,,2026-02-01T13:49:06,2026-02-01T17:52:57,4.1,motor de tração,preventiva,503.64,nenhuma falha,sem falha,equipe alfa,0
+MT000768,RB043,,,2026-02-01T15:15:11,2026-02-01T17:18:22,2.1,freios,preventiva,761.22,desgaste dentro do limite,sem falha,equipe gama,0
+MT000769,RB006,,,2026-02-01T16:08:49,2026-02-01T16:56:49,0.8,sensores de proximidade,preventiva,505.82,nenhuma falha,sem falha,equipe beta,0
+MT000770,RB009,,,2026-02-01T18:40:48,2026-02-01T21:15:26,2.6,controlador,preventiva,728.75,nenhuma falha,sem falha,equipe alfa,0
+MT000771,RB016,,,2026-02-01T22:42:55,2026-02-02T02:06:26,3.4,módulo de rede,preventiva,407.09,nenhuma falha,sem falha,equipe gama,0
+MT000772,RB003,,,2026-02-01T23:44:58,2026-02-02T02:56:04,3.2,módulo de rede,preventiva,689.45,nenhuma falha,sem falha,equipe alfa,0
+MT000773,RB018,,,2026-02-02T02:20:21,2026-02-02T04:24:00,2.1,sensores de proximidade,preventiva,797.93,desgaste dentro do limite,sem falha,equipe beta,0
+MT000774,RB021,,,2026-02-02T18:20:02,2026-02-02T19:42:37,1.4,sensores de proximidade,preventiva,363.42,nenhuma falha,sem falha,equipe beta,1
+MT000775,RB024,,,2026-02-02T22:08:00,2026-02-03T01:46:21,3.6,rodas,preventiva,663.17,nenhuma falha,sem falha,equipe alfa,0
+MT000776,RB015,,,2026-02-03T03:01:03,2026-02-03T07:34:18,4.6,módulo de rede,preventiva,614.18,nenhuma falha,sem falha,equipe gama,1
+MT000777,RB039,MS007325,2026-02-03T14:38:23,2026-02-03T15:10:01,2026-02-03T23:56:39,8.8,rodas,corretiva,1074.51,perda persistente de comunicação,moderada,equipe beta,1
+MT000778,RB029,MS007384,2026-02-06T15:52:55,2026-02-06T16:12:23,2026-02-06T22:56:45,6.7,motor de tração,corretiva,530.51,efeito de colisão leve,leve,equipe alfa,0
+MT000779,RB051,,,2026-02-07T16:12:36,2026-02-07T18:47:18,2.6,motor de tração,preventiva,144.39,desgaste dentro do limite,sem falha,equipe beta,0
+MT000780,RB048,,,2026-02-08T07:09:06,2026-02-08T10:00:58,2.9,motor de tração,preventiva,327.23,nenhuma falha,sem falha,equipe beta,0
+MT000781,RB037,,,2026-02-08T07:54:32,2026-02-08T10:00:44,2.1,bateria,preventiva,696.33,nenhuma falha,sem falha,equipe alfa,0
+MT000782,RB052,,,2026-02-08T10:15:35,2026-02-08T11:03:35,0.8,motor de tração,preventiva,471.02,nenhuma falha,sem falha,equipe gama,1
+MT000783,RB042,MS007413,2026-02-08T11:44:52,2026-02-08T12:01:59,2026-02-08T20:43:24,8.7,bateria,corretiva,1775.07,efeito de colisão moderada,moderada,equipe alfa,1
+MT000784,RB033,MS007449,2026-02-10T16:38:23,2026-02-10T16:52:43,2026-02-11T06:07:08,13.2,sensores de proximidade,corretiva,2016.45,efeito de colisão leve,leve,equipe gama,1
+MT000785,RB005,,,2026-02-11T00:56:15,2026-02-11T03:41:24,2.8,rodas,preventiva,451.13,nenhuma falha,sem falha,equipe gama,1
+MT000786,RB023,,,2026-02-11T03:07:27,2026-02-11T03:56:02,0.8,rodas,preventiva,719.56,nenhuma falha,sem falha,equipe beta,1
+MT000787,RB027,,,2026-02-11T04:56:28,2026-02-11T06:18:13,1.4,controlador,preventiva,404.28,desgaste dentro do limite,sem falha,equipe gama,0
+MT000788,RB029,,,2026-02-11T10:13:31,2026-02-11T13:12:17,3,bateria,preventiva,384.1,nenhuma falha,sem falha,equipe gama,1
+MT000789,RB034,,,2026-02-11T16:01:23,2026-02-11T16:49:23,0.8,freios,preventiva,744.68,nenhuma falha,sem falha,equipe alfa,0
+MT000790,RB018,MS007466,2026-02-11T18:20:28,2026-02-11T19:10:00,2026-02-12T04:34:34,9.4,controlador,corretiva,1927.2,sensor,moderada,equipe alfa,1
+MT000791,RB041,,,2026-02-12T12:33:46,2026-02-12T15:54:54,3.4,módulo de rede,preventiva,753.6,nenhuma falha,sem falha,equipe beta,0
+MT000792,RB030,,,2026-02-12T23:54:20,2026-02-13T02:29:07,2.6,motor de tração,preventiva,391.9,nenhuma falha,sem falha,equipe gama,0
+MT000793,RB017,,,2026-02-13T12:30:51,2026-02-13T14:23:01,1.9,motor de tração,preventiva,610.95,nenhuma falha,sem falha,equipe beta,0
+MT000794,RB053,MS007501,2026-02-13T15:17:08,2026-02-13T15:37:35,2026-02-13T19:49:59,4.2,motor de tração,corretiva,3379.52,sensor,moderada,equipe alfa,0
+MT000795,RB060,,,2026-02-14T08:34:56,2026-02-14T11:22:44,2.8,controlador,preventiva,557.38,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000796,RB050,,,2026-02-14T11:45:47,2026-02-14T14:07:51,2.4,motor de tração,preventiva,736.11,nenhuma falha,sem falha,equipe gama,1
+MT000797,RB036,MS007533,2026-02-15T08:43:48,2026-02-15T09:08:03,2026-02-15T14:05:53,5,sensores de proximidade,corretiva,1761.91,efeito de colisão leve,leve,equipe alfa,1
+MT000798,RB031,,,2026-02-15T12:20:45,2026-02-15T14:51:52,2.5,rodas,preventiva,550.1,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000799,RB042,,,2026-02-16T16:37:22,2026-02-16T19:34:00,2.9,bateria,preventiva,925.08,nenhuma falha,sem falha,equipe beta,0
+MT000800,RB013,,,2026-02-16T20:14:56,2026-02-16T23:35:22,3.3,motor de tração,preventiva,520.72,nenhuma falha,sem falha,equipe beta,0
+MT000801,RB055,,,2026-02-17T05:56:03,2026-02-17T06:44:03,0.8,rodas,preventiva,428.55,desgaste dentro do limite,sem falha,equipe gama,0
+MT000802,RB020,,,2026-02-17T10:44:59,2026-02-17T11:33:05,0.8,bateria,preventiva,348.09,nenhuma falha,sem falha,equipe alfa,0
+MT000803,RB040,,,2026-02-17T11:45:40,2026-02-17T13:30:57,1.8,motor de tração,preventiva,645.6,nenhuma falha,sem falha,equipe gama,0
+MT000804,RB011,,,2026-02-18T05:06:23,2026-02-18T07:59:38,2.9,sensores de proximidade,preventiva,839.66,nenhuma falha,sem falha,equipe alfa,1
+MT000805,RB035,MS007587,2026-02-18T04:39:15,2026-02-18T05:34:21,2026-02-18T14:50:04,9.3,LiDAR,corretiva,2258.02,efeito de colisão moderada,moderada,equipe beta,0
+MT000806,RB025,,,2026-02-18T06:57:19,2026-02-18T09:18:40,2.4,controlador,preventiva,557.66,desgaste dentro do limite,sem falha,equipe beta,0
+MT000807,RB059,,,2026-02-20T11:55:52,2026-02-20T15:00:56,3.1,módulo de rede,preventiva,529.47,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000808,RB033,,,2026-02-20T22:19:29,2026-02-21T00:40:52,2.4,motor de tração,preventiva,652.69,desgaste dentro do limite,sem falha,equipe alfa,1
+MT000809,RB058,,,2026-02-21T01:44:29,2026-02-21T03:25:11,1.7,LiDAR,preventiva,737.81,nenhuma falha,sem falha,equipe alfa,0
+MT000810,RB035,MS007645,2026-02-21T21:43:57,2026-02-21T22:29:48,2026-02-22T07:35:30,9.1,controlador,corretiva,1691.74,perda persistente de comunicação,moderada,equipe gama,0
+MT000811,RB056,,,2026-02-21T23:52:15,2026-02-22T03:51:02,4,bateria,preventiva,526.72,nenhuma falha,sem falha,equipe gama,0
+MT000812,RB060,MS007646,2026-02-22T00:28:26,2026-02-22T01:06:40,2026-02-22T12:18:48,11.2,sensores de proximidade,corretiva,1866.87,efeito de colisão leve,leve,equipe beta,1
+MT000813,RB007,MS007659,2026-02-22T19:15:34,2026-02-22T19:51:17,2026-02-23T09:15:52,13.4,controlador,corretiva,2496.08,sensor,moderada,equipe beta,1
+MT000814,RB047,,,2026-02-24T22:08:39,2026-02-25T02:23:42,4.3,controlador,preventiva,726.3,nenhuma falha,sem falha,equipe gama,0
+MT000815,RB045,,,2026-02-27T13:08:25,2026-02-27T14:53:45,1.8,sensores de proximidade,preventiva,543.73,nenhuma falha,sem falha,equipe alfa,0
+MT000816,RB001,,,2026-02-27T19:23:57,2026-02-27T22:49:52,3.4,LiDAR,preventiva,668.24,nenhuma falha,sem falha,equipe beta,0
+MT000817,RB028,,,2026-02-27T20:08:39,2026-02-27T23:29:03,3.3,sensores de proximidade,preventiva,378.11,nenhuma falha,sem falha,equipe gama,0
+MT000818,RB004,,,2026-02-28T16:51:16,2026-02-28T19:28:11,2.6,rodas,preventiva,512.65,nenhuma falha,sem falha,equipe alfa,0
+MT000819,RB019,,,2026-03-01T01:52:32,2026-03-01T04:11:10,2.3,motor de tração,preventiva,397.41,nenhuma falha,sem falha,equipe beta,0
+MT000820,RB021,MS007789,2026-03-02T08:10:28,2026-03-02T08:50:51,2026-03-03T00:34:31,15.7,módulo de rede,corretiva,2382.69,efeito de colisão moderada,moderada,equipe alfa,1
+MT000821,RB007,,,2026-03-02T18:40:20,2026-03-02T19:57:20,1.3,controlador,preventiva,888.89,nenhuma falha,sem falha,equipe alfa,1
+MT000822,RB036,,,2026-03-02T22:26:35,2026-03-03T01:24:20,3,motor de tração,preventiva,386.32,nenhuma falha,sem falha,equipe beta,1
+MT000823,RB029,MS007812,2026-03-03T08:29:01,2026-03-03T08:52:00,2026-03-03T15:33:02,6.7,LiDAR,corretiva,4988.95,efeito de colisão grave,crítica,equipe gama,1
+MT000824,RB014,,,2026-03-03T11:22:44,2026-03-03T13:15:08,1.9,sensores de proximidade,preventiva,563.19,nenhuma falha,sem falha,equipe alfa,1
+MT000825,RB035,,,2026-03-03T11:48:18,2026-03-03T15:27:50,3.7,rodas,preventiva,204.15,nenhuma falha,sem falha,equipe beta,0
+MT000826,RB010,,,2026-03-05T06:12:16,2026-03-05T08:19:55,2.1,sensores de proximidade,preventiva,327.88,desgaste dentro do limite,sem falha,equipe beta,0
+MT000827,RB044,,,2026-03-05T21:03:11,2026-03-05T22:24:35,1.4,módulo de rede,preventiva,677.59,nenhuma falha,sem falha,equipe gama,0
+MT000828,RB008,,,2026-03-06T19:42:39,2026-03-06T23:34:04,3.9,sensores de proximidade,preventiva,177.79,nenhuma falha,sem falha,equipe alfa,0
+MT000829,RB049,,,2026-03-06T20:58:13,2026-03-06T23:47:43,2.8,controlador,preventiva,653.9,nenhuma falha,sem falha,equipe beta,0
+MT000830,RB009,,,2026-03-07T00:12:26,2026-03-07T04:12:46,4,controlador,preventiva,120,nenhuma falha,sem falha,equipe gama,0
+MT000831,RB018,,,2026-03-07T08:43:46,2026-03-07T11:04:44,2.3,bateria,preventiva,562,nenhuma falha,sem falha,equipe alfa,1
+MT000832,RB032,,,2026-03-08T11:00:02,2026-03-08T12:57:28,2,freios,preventiva,562.34,nenhuma falha,sem falha,equipe beta,0
+MT000833,RB054,MS007906,2026-03-08T14:46:54,2026-03-08T15:21:14,2026-03-09T14:07:05,22.8,bateria,corretiva,2361.68,sensor,moderada,equipe alfa,1
+MT000834,RB038,,,2026-03-09T10:01:23,2026-03-09T11:32:06,1.5,módulo de rede,preventiva,505.96,nenhuma falha,sem falha,equipe beta,0
+MT000835,RB002,,,2026-03-10T16:08:53,2026-03-10T18:31:41,2.4,módulo de rede,preventiva,776.38,nenhuma falha,sem falha,equipe gama,1
+MT000836,RB057,,,2026-03-11T05:11:58,2026-03-11T08:30:44,3.3,rodas,preventiva,337.16,nenhuma falha,sem falha,equipe gama,0
+MT000837,RB046,,,2026-03-11T12:25:16,2026-03-11T14:04:27,1.7,controlador,preventiva,351.79,desgaste dentro do limite,sem falha,equipe beta,1
+MT000838,RB026,MS007956,2026-03-11T19:35:32,2026-03-11T20:28:07,2026-03-12T04:45:19,8.3,módulo de rede,corretiva,1049.16,efeito de colisão leve,leve,equipe beta,0
+MT000839,RB003,,,2026-03-11T22:08:47,2026-03-12T01:53:46,3.7,controlador,preventiva,672.36,nenhuma falha,sem falha,equipe beta,0
+MT000840,RB022,,,2026-03-14T12:20:10,2026-03-14T14:24:14,2.1,sensores de proximidade,preventiva,636.29,desgaste dentro do limite,sem falha,equipe beta,0
+MT000841,RB043,,,2026-03-15T00:58:19,2026-03-15T02:43:04,1.7,rodas,preventiva,219.43,nenhuma falha,sem falha,equipe gama,0
+MT000842,RB006,,,2026-03-15T07:21:42,2026-03-15T10:06:52,2.8,rodas,preventiva,465.18,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000843,RB053,,,2026-03-15T09:10:26,2026-03-15T10:00:20,0.8,módulo de rede,preventiva,621.59,nenhuma falha,sem falha,equipe gama,0
+MT000844,RB012,,,2026-03-15T15:07:40,2026-03-15T17:58:33,2.8,motor de tração,preventiva,420.94,desgaste dentro do limite,sem falha,equipe beta,1
+MT000845,RB054,,,2026-03-16T06:55:09,2026-03-16T09:42:11,2.8,sensores de proximidade,preventiva,226.97,nenhuma falha,sem falha,equipe gama,0
+MT000846,RB016,,,2026-03-17T16:47:54,2026-03-17T20:02:16,3.2,LiDAR,preventiva,738.79,desgaste dentro do limite,sem falha,equipe beta,0
+MT000847,RB052,,,2026-03-18T23:01:57,2026-03-19T02:21:35,3.3,motor de tração,preventiva,208.44,desgaste dentro do limite,sem falha,equipe gama,0
+MT000848,RB060,,,2026-03-19T01:04:00,2026-03-19T04:44:20,3.7,controlador,preventiva,579.61,nenhuma falha,sem falha,equipe gama,1
+MT000849,RB050,,,2026-03-19T18:17:19,2026-03-19T19:51:20,1.6,sensores de proximidade,preventiva,290.82,nenhuma falha,sem falha,equipe beta,1
+MT000850,RB048,,,2026-03-19T23:26:39,2026-03-20T00:14:39,0.8,controlador,preventiva,756.82,nenhuma falha,sem falha,equipe beta,0
+MT000851,RB023,,,2026-03-20T10:40:56,2026-03-20T13:12:53,2.5,LiDAR,preventiva,357.66,nenhuma falha,sem falha,equipe beta,0
+MT000852,RB012,MS008124,2026-03-20T10:55:38,2026-03-20T11:04:54,2026-03-20T19:26:44,8.4,sensores de proximidade,corretiva,1351.7,efeito de colisão leve,leve,equipe alfa,1
+MT000853,RB039,,,2026-03-20T22:09:34,2026-03-21T00:09:17,2,controlador,preventiva,341.16,nenhuma falha,sem falha,equipe gama,0
+MT000854,RB026,,,2026-03-22T04:32:53,2026-03-22T07:55:35,3.4,sensores de proximidade,preventiva,325.53,nenhuma falha,sem falha,equipe beta,1
+MT000855,RB051,,,2026-03-22T08:00:05,2026-03-22T09:15:51,1.3,motor de tração,preventiva,769.73,desgaste dentro do limite,sem falha,equipe gama,0
+MT000856,RB037,MS008162,2026-03-22T07:47:42,2026-03-22T08:06:54,2026-03-22T11:24:07,3.3,rodas,corretiva,2300,efeito de colisão leve,leve,equipe alfa,1
+MT000857,RB021,,,2026-03-22T09:09:03,2026-03-22T10:34:15,1.4,sensores de proximidade,preventiva,538.39,nenhuma falha,sem falha,equipe beta,0
+MT000858,RB044,MS008165,2026-03-22T09:07:00,2026-03-22T09:40:23,2026-03-22T11:10:23,1.5,rodas,corretiva,4014.82,efeito de colisão grave,crítica,equipe gama,1
+MT000859,RB015,,,2026-03-22T23:07:00,2026-03-23T01:48:35,2.7,motor de tração,preventiva,366.7,nenhuma falha,sem falha,equipe gama,1
+MT000860,RB027,,,2026-03-23T05:37:42,2026-03-23T08:28:25,2.8,bateria,preventiva,627.91,nenhuma falha,sem falha,equipe alfa,0
+MT000861,RB005,MS008181,2026-03-23T07:45:31,2026-03-23T08:07:11,2026-03-24T06:50:03,22.7,motor de tração,corretiva,3638,efeito de colisão grave,crítica,equipe alfa,1
+MT000862,RB005,,,2026-03-24T07:05:03,2026-03-24T09:36:46,2.5,controlador,preventiva,307.93,nenhuma falha,sem falha,equipe beta,0
+MT000863,RB037,MS008210,2026-03-24T14:42:43,2026-03-24T15:20:40,2026-03-25T02:52:25,11.5,controlador,corretiva,2495.5,efeito de colisão moderada,moderada,equipe gama,0
+MT000864,RB033,,,2026-03-25T06:39:10,2026-03-25T10:08:17,3.5,motor de tração,preventiva,348.47,nenhuma falha,sem falha,equipe gama,0
+MT000865,RB024,,,2026-03-25T11:28:49,2026-03-25T15:29:16,4,motor de tração,preventiva,644.11,nenhuma falha,sem falha,equipe beta,0
+MT000866,RB058,,,2026-03-26T02:11:08,2026-03-26T03:34:28,1.4,módulo de rede,preventiva,567.89,nenhuma falha,sem falha,equipe gama,0
+MT000867,RB030,MS008265,2026-03-26T21:41:44,2026-03-26T22:06:05,2026-03-27T02:27:06,4.4,LiDAR,corretiva,978.66,efeito de colisão leve,leve,equipe alfa,1
+MT000868,RB018,MS008273,2026-03-27T07:42:35,2026-03-27T08:17:36,2026-03-27T19:34:15,11.3,rodas,corretiva,485.21,sensor,moderada,equipe gama,1
+MT000869,RB031,MS008276,2026-03-27T09:21:46,2026-03-27T10:00:06,2026-03-28T00:16:43,14.3,sensores de proximidade,corretiva,2293.34,motor de tração,moderada,equipe gama,1
+MT000870,RB017,,,2026-03-28T08:04:29,2026-03-28T10:07:24,2,rodas,preventiva,401.91,nenhuma falha,sem falha,equipe gama,1
+MT000871,RB030,,,2026-03-29T07:18:10,2026-03-29T08:19:47,1,rodas,preventiva,353.35,nenhuma falha,sem falha,equipe gama,0
+MT000872,RB041,,,2026-03-30T04:56:01,2026-03-30T09:17:31,4.4,rodas,preventiva,627.77,desgaste dentro do limite,sem falha,equipe beta,0
+MT000873,RB013,,,2026-03-30T10:18:46,2026-03-30T14:05:45,3.8,rodas,preventiva,480.74,nenhuma falha,sem falha,equipe beta,0
+MT000874,RB031,,,2026-03-30T13:53:43,2026-03-30T18:09:00,4.3,motor de tração,preventiva,508.14,nenhuma falha,sem falha,equipe alfa,0
+MT000875,RB034,,,2026-03-30T15:54:21,2026-03-30T19:06:26,3.2,motor de tração,preventiva,120,nenhuma falha,sem falha,equipe beta,0
+MT000876,RB009,MS008349,2026-03-31T12:50:16,2026-03-31T13:25:59,2026-04-01T03:17:36,13.9,motor de tração,corretiva,1166.27,efeito de colisão moderada,moderada,equipe alfa,1
+MT000877,RB056,,,2026-03-31T15:21:24,2026-03-31T18:08:06,2.8,rodas,preventiva,747.78,nenhuma falha,sem falha,equipe beta,0
+MT000878,RB025,,,2026-03-31T20:04:53,2026-03-31T22:47:45,2.7,LiDAR,preventiva,390.55,desgaste dentro do limite,sem falha,equipe gama,0
+MT000879,RB037,,,2026-04-01T07:46:04,2026-04-01T09:37:06,1.9,LiDAR,preventiva,668.07,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000880,RB042,,,2026-04-01T16:56:50,2026-04-01T19:20:23,2.4,freios,preventiva,462.5,nenhuma falha,sem falha,equipe beta,1
+MT000881,RB043,MS008385,2026-04-02T06:42:42,2026-04-02T06:54:47,2026-04-02T14:14:02,7.3,LiDAR,corretiva,1055.54,efeito de colisão moderada,moderada,equipe beta,1
+MT000882,RB011,MS008393,2026-04-02T17:25:43,2026-04-02T18:19:39,2026-04-03T05:54:58,11.6,módulo de rede,corretiva,2913.6,efeito de colisão moderada,moderada,equipe gama,0
+MT000883,RB055,,,2026-04-03T06:06:18,2026-04-03T07:56:46,1.8,rodas,preventiva,842.78,desgaste dentro do limite,sem falha,equipe beta,0
+MT000884,RB020,,,2026-04-03T09:03:48,2026-04-03T10:45:24,1.7,controlador,preventiva,460.54,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000885,RB029,,,2026-04-03T17:14:43,2026-04-03T20:06:40,2.9,freios,preventiva,376.37,nenhuma falha,sem falha,equipe gama,0
+MT000886,RB011,,,2026-04-04T08:04:51,2026-04-04T09:12:45,1.1,módulo de rede,preventiva,603.76,nenhuma falha,sem falha,equipe alfa,0
+MT000887,RB005,MS008458,2026-04-07T08:58:09,2026-04-07T09:41:45,2026-04-07T17:03:12,7.4,rodas,corretiva,2682.6,efeito de colisão grave,crítica,equipe alfa,1
+MT000888,RB045,,,2026-04-07T10:57:02,2026-04-07T12:52:04,1.9,sensores de proximidade,preventiva,565.88,nenhuma falha,sem falha,equipe alfa,0
+MT000889,RB040,,,2026-04-08T06:54:33,2026-04-08T10:24:35,3.5,motor de tração,preventiva,566.07,nenhuma falha,sem falha,equipe gama,0
+MT000890,RB007,,,2026-04-10T05:03:35,2026-04-10T06:39:22,1.6,freios,preventiva,690.46,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000891,RB059,,,2026-04-10T16:21:39,2026-04-10T17:53:48,1.5,bateria,preventiva,259.78,desgaste dentro do limite,sem falha,equipe beta,0
+MT000892,RB044,,,2026-04-11T01:56:11,2026-04-11T04:32:34,2.6,freios,preventiva,415.72,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000893,RB014,,,2026-04-11T08:48:46,2026-04-11T11:03:00,2.2,motor de tração,preventiva,151.18,nenhuma falha,sem falha,equipe gama,0
+MT000894,RB036,,,2026-04-11T11:25:39,2026-04-11T14:21:08,2.9,motor de tração,preventiva,400.17,nenhuma falha,sem falha,equipe gama,0
+MT000895,RB004,,,2026-04-11T11:52:35,2026-04-11T13:47:08,1.9,sensores de proximidade,preventiva,414.06,desgaste dentro do limite,sem falha,equipe gama,0
+MT000896,RB001,,,2026-04-11T18:07:38,2026-04-11T21:09:02,3,módulo de rede,preventiva,120,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000897,RB049,,,2026-04-14T07:02:02,2026-04-14T10:39:57,3.6,bateria,preventiva,120,desgaste dentro do limite,sem falha,equipe beta,0
+MT000898,RB057,,,2026-04-16T06:36:54,2026-04-16T08:49:40,2.2,motor de tração,preventiva,449.42,nenhuma falha,sem falha,equipe beta,0
+MT000899,RB047,,,2026-04-16T18:23:06,2026-04-16T20:48:54,2.4,rodas,preventiva,413.62,nenhuma falha,sem falha,equipe gama,0
+MT000900,RB018,,,2026-04-17T11:24:09,2026-04-17T13:01:37,1.6,motor de tração,preventiva,497.03,nenhuma falha,sem falha,equipe gama,0
+MT000901,RB038,,,2026-04-17T22:13:35,2026-04-18T00:16:50,2.1,freios,preventiva,834.95,nenhuma falha,sem falha,equipe beta,0
+MT000902,RB035,,,2026-04-18T00:22:46,2026-04-18T04:57:14,4.6,sensores de proximidade,preventiva,554.78,nenhuma falha,sem falha,equipe alfa,0
+MT000903,RB028,,,2026-04-18T17:40:49,2026-04-18T20:45:20,3.1,sensores de proximidade,preventiva,471.59,desgaste dentro do limite,sem falha,equipe gama,1
+MT000904,RB056,MS008661,2026-04-18T19:12:24,2026-04-18T19:33:41,2026-04-19T00:11:25,4.6,bateria,corretiva,1110.76,efeito de colisão leve,leve,equipe gama,1
+MT000905,RB008,,,2026-04-18T20:46:12,2026-04-19T00:23:30,3.6,motor de tração,preventiva,202.2,nenhuma falha,sem falha,equipe beta,0
+MT000906,RB022,,,2026-04-19T11:29:46,2026-04-19T13:35:08,2.1,sensores de proximidade,preventiva,932.83,nenhuma falha,sem falha,equipe gama,0
+MT000907,RB010,,,2026-04-20T17:14:05,2026-04-20T20:24:10,3.2,rodas,preventiva,440.92,nenhuma falha,sem falha,equipe gama,0
+MT000908,RB019,,,2026-04-21T01:44:53,2026-04-21T05:31:23,3.8,sensores de proximidade,preventiva,536.23,nenhuma falha,sem falha,equipe beta,0
+MT000909,RB052,,,2026-04-22T01:20:04,2026-04-22T03:32:35,2.2,sensores de proximidade,preventiva,870.35,nenhuma falha,sem falha,equipe beta,1
+MT000910,RB039,,,2026-04-22T16:48:57,2026-04-22T19:51:39,3,controlador,preventiva,349.58,nenhuma falha,sem falha,equipe gama,0
+MT000911,RB050,,,2026-04-23T00:26:53,2026-04-23T03:48:34,3.4,rodas,preventiva,378.37,nenhuma falha,sem falha,equipe gama,0
+MT000912,RB012,,,2026-04-23T18:43:27,2026-04-23T20:48:02,2.1,motor de tração,preventiva,524.56,nenhuma falha,sem falha,equipe alfa,0
+MT000913,RB043,,,2026-04-23T20:14:15,2026-04-23T23:21:01,3.1,bateria,preventiva,578.31,nenhuma falha,sem falha,equipe beta,0
+MT000914,RB002,,,2026-04-24T01:49:09,2026-04-24T03:50:42,2,rodas,preventiva,232.09,nenhuma falha,sem falha,equipe alfa,0
+MT000915,RB030,MS008778,2026-04-24T15:55:09,2026-04-24T16:13:02,2026-04-24T18:54:50,2.7,freios,corretiva,1788.2,perda persistente de comunicação,moderada,equipe gama,1
+MT000916,RB045,MS008783,2026-04-24T20:41:55,2026-04-24T21:19:21,2026-04-25T05:05:54,7.8,controlador,corretiva,3128.95,efeito de colisão moderada,moderada,equipe beta,1
+MT000917,RB047,MS008788,2026-04-25T07:41:41,2026-04-25T08:26:14,2026-04-25T12:53:25,4.5,motor de tração,corretiva,1232.62,efeito de colisão leve,leve,equipe beta,0
+MT000918,RB021,,,2026-04-25T18:41:36,2026-04-25T19:54:37,1.2,freios,preventiva,484.42,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000919,RB017,MS008805,2026-04-26T02:16:11,2026-04-26T03:06:06,2026-04-26T07:49:43,4.7,motor de tração,corretiva,2305.1,efeito de colisão leve,leve,equipe gama,1
+MT000920,RB033,,,2026-04-26T07:13:05,2026-04-26T09:10:25,2,sensores de proximidade,preventiva,716.8,nenhuma falha,sem falha,equipe beta,0
+MT000921,RB009,,,2026-04-26T15:26:54,2026-04-26T17:36:08,2.2,motor de tração,preventiva,675.29,nenhuma falha,sem falha,equipe beta,0
+MT000922,RB023,,,2026-04-26T21:21:16,2026-04-27T00:20:35,3,controlador,preventiva,588.24,nenhuma falha,sem falha,equipe alfa,0
+MT000923,RB046,,,2026-04-27T05:27:06,2026-04-27T09:02:53,3.6,módulo de rede,preventiva,742.88,nenhuma falha,sem falha,equipe beta,1
+MT000924,RB053,,,2026-04-27T19:35:51,2026-04-27T22:44:49,3.1,módulo de rede,preventiva,423.91,nenhuma falha,sem falha,equipe gama,0
+MT000925,RB042,MS008841,2026-04-27T22:09:23,2026-04-27T22:20:56,2026-04-28T06:25:30,8.1,controlador,corretiva,2699.85,sensor,moderada,equipe alfa,0
+MT000926,RB048,,,2026-04-28T07:30:51,2026-04-28T09:56:35,2.4,LiDAR,preventiva,546.32,nenhuma falha,sem falha,equipe beta,0
+MT000927,RB032,,,2026-04-28T11:07:53,2026-04-28T15:16:25,4.1,sensores de proximidade,preventiva,401.9,nenhuma falha,sem falha,equipe beta,0
+MT000928,RB024,,,2026-04-28T13:09:51,2026-04-28T13:57:51,0.8,sensores de proximidade,preventiva,732.27,desgaste dentro do limite,sem falha,equipe gama,0
+MT000929,RB016,,,2026-04-28T16:57:57,2026-04-28T19:25:33,2.5,módulo de rede,preventiva,722.04,nenhuma falha,sem falha,equipe beta,0
+MT000930,RB037,MS008881,2026-04-29T14:05:59,2026-04-29T14:47:48,2026-04-30T00:44:21,9.9,bateria,corretiva,842,sensor,moderada,equipe gama,1
+MT000931,RB003,,,2026-04-30T06:14:24,2026-04-30T08:20:25,2.1,motor de tração,preventiva,559.4,nenhuma falha,sem falha,equipe beta,0
+MT000932,RB027,,,2026-05-01T10:36:57,2026-05-01T11:32:11,0.9,bateria,preventiva,585.12,nenhuma falha,sem falha,equipe gama,0
+MT000933,RB009,MS008947,2026-05-02T23:50:08,2026-05-03T00:35:54,2026-05-03T10:42:21,10.1,motor de tração,corretiva,2292.82,bateria abaixo do limite,moderada,equipe alfa,1
+MT000934,RB006,,,2026-05-03T18:10:40,2026-05-03T21:22:39,3.2,motor de tração,preventiva,913.04,nenhuma falha,sem falha,equipe beta,0
+MT000935,RB005,,,2026-05-04T16:47:50,2026-05-04T19:22:10,2.6,módulo de rede,preventiva,967.42,nenhuma falha,sem falha,equipe gama,0
+MT000936,RB054,,,2026-05-06T01:03:12,2026-05-06T04:46:47,3.7,controlador,preventiva,455.42,desgaste dentro do limite,sem falha,equipe beta,1
+MT000937,RB031,,,2026-05-06T04:53:23,2026-05-06T06:53:11,2,bateria,preventiva,685.57,desgaste dentro do limite,sem falha,equipe beta,0
+MT000938,RB058,,,2026-05-06T06:59:16,2026-05-06T07:53:25,0.9,controlador,preventiva,243.83,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000939,RB013,,,2026-05-06T17:25:47,2026-05-06T19:18:42,1.9,sensores de proximidade,preventiva,511.59,nenhuma falha,sem falha,equipe gama,0
+MT000940,RB057,MS009024,2026-05-07T11:07:35,2026-05-07T11:54:50,2026-05-07T18:05:53,6.2,LiDAR,corretiva,1666.82,sensor,moderada,equipe alfa,1
+MT000941,RB041,,,2026-05-07T12:05:13,2026-05-07T14:47:06,2.7,sensores de proximidade,preventiva,946.64,nenhuma falha,sem falha,equipe beta,0
+MT000942,RB017,,,2026-05-08T03:27:27,2026-05-08T05:11:17,1.7,freios,preventiva,422.8,nenhuma falha,sem falha,equipe gama,0
+MT000943,RB026,,,2026-05-08T06:18:59,2026-05-08T07:53:26,1.6,controlador,preventiva,561.59,desgaste dentro do limite,sem falha,equipe gama,0
+MT000944,RB030,,,2026-05-08T07:17:23,2026-05-08T12:05:30,4.8,LiDAR,preventiva,518.11,nenhuma falha,sem falha,equipe alfa,0
+MT000945,RB020,,,2026-05-08T21:42:37,2026-05-09T02:10:56,4.5,bateria,preventiva,741.62,desgaste dentro do limite,sem falha,equipe gama,0
+MT000946,RB060,,,2026-05-09T12:46:50,2026-05-09T13:34:50,0.8,LiDAR,preventiva,537.05,nenhuma falha,sem falha,equipe beta,0
+MT000947,RB051,,,2026-05-10T02:20:50,2026-05-10T04:48:05,2.5,sensores de proximidade,preventiva,769.6,nenhuma falha,sem falha,equipe beta,1
+MT000948,RB037,,,2026-05-11T03:12:34,2026-05-11T05:55:58,2.7,motor de tração,preventiva,331.97,nenhuma falha,sem falha,equipe alfa,0
+MT000949,RB015,,,2026-05-11T10:40:04,2026-05-11T13:13:01,2.5,sensores de proximidade,preventiva,483.36,nenhuma falha,sem falha,equipe gama,0
+MT000950,RB033,MS009103,2026-05-11T19:59:23,2026-05-11T20:53:48,2026-05-12T03:49:42,6.9,rodas,corretiva,2347.74,bateria abaixo do limite,moderada,equipe beta,1
+MT000951,RB025,,,2026-05-13T11:53:21,2026-05-13T14:29:34,2.6,rodas,preventiva,356.08,nenhuma falha,sem falha,equipe alfa,1
+MT000952,RB034,,,2026-05-14T00:02:17,2026-05-14T01:09:55,1.1,módulo de rede,preventiva,357.54,nenhuma falha,sem falha,equipe alfa,0
+MT000953,RB042,,,2026-05-14T03:05:13,2026-05-14T06:08:56,3.1,motor de tração,preventiva,599.13,nenhuma falha,sem falha,equipe gama,0
+MT000954,RB001,,,2026-05-14T04:35:09,2026-05-14T07:16:53,2.7,sensores de proximidade,preventiva,331.46,nenhuma falha,sem falha,equipe beta,0
+MT000955,RB055,,,2026-05-14T15:32:04,2026-05-14T18:16:53,2.7,controlador,preventiva,317.33,desgaste dentro do limite,sem falha,equipe gama,0
+MT000956,RB048,MS009159,2026-05-14T21:48:30,2026-05-14T22:18:34,2026-05-15T09:02:51,10.7,módulo de rede,corretiva,2229.55,efeito de colisão moderada,moderada,equipe alfa,1
+MT000957,RB043,MS009182,2026-05-16T09:56:22,2026-05-16T10:03:09,2026-05-16T14:17:31,4.2,motor de tração,corretiva,1716.47,efeito de colisão moderada,moderada,equipe gama,1
+MT000958,RB056,,,2026-05-17T06:10:46,2026-05-17T09:15:44,3.1,motor de tração,preventiva,408.42,nenhuma falha,sem falha,equipe beta,1
+MT000959,RB011,,,2026-05-17T22:45:25,2026-05-18T02:01:33,3.3,controlador,preventiva,418.76,nenhuma falha,sem falha,equipe beta,0
+MT000960,RB007,,,2026-05-18T05:50:33,2026-05-18T08:13:47,2.4,módulo de rede,preventiva,509.78,nenhuma falha,sem falha,equipe alfa,1
+MT000961,RB014,MS009222,2026-05-18T07:39:43,2026-05-18T08:34:21,2026-05-18T13:46:56,5.2,LiDAR,corretiva,3242.04,sensor,moderada,equipe beta,0
+MT000962,RB041,MS009265,2026-05-20T08:10:47,2026-05-20T09:02:47,2026-05-20T15:16:25,6.2,sensores de proximidade,corretiva,408.08,efeito de colisão moderada,moderada,equipe alfa,1
+MT000963,RB014,,,2026-05-20T09:28:39,2026-05-20T13:15:15,3.8,rodas,preventiva,621.19,nenhuma falha,sem falha,equipe gama,0
+MT000964,RB025,MS009280,2026-05-20T17:23:15,2026-05-20T17:49:22,2026-05-20T22:56:57,5.1,sensores de proximidade,corretiva,816.93,efeito de colisão leve,leve,equipe beta,1
+MT000965,RB042,MS009293,2026-05-21T06:06:51,2026-05-21T06:24:18,2026-05-21T17:20:12,10.9,rodas,corretiva,1264.2,bateria abaixo do limite,moderada,equipe beta,1
+MT000966,RB049,,,2026-05-21T22:01:53,2026-05-22T02:14:29,4.2,sensores de proximidade,preventiva,786.02,nenhuma falha,sem falha,equipe beta,0
+MT000967,RB022,,,2026-05-22T16:15:56,2026-05-22T18:02:02,1.8,freios,preventiva,399.62,nenhuma falha,sem falha,equipe gama,0
+MT000968,RB029,,,2026-05-23T07:38:36,2026-05-23T10:08:59,2.5,módulo de rede,preventiva,229.24,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000969,RB040,,,2026-05-23T18:02:58,2026-05-23T21:45:06,3.7,rodas,preventiva,402.83,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000970,RB007,MS009359,2026-05-25T12:24:36,2026-05-25T12:45:49,2026-05-25T21:00:09,8.2,bateria,corretiva,2977.2,perda persistente de comunicação,moderada,equipe gama,0
+MT000971,RB052,,,2026-05-25T13:20:22,2026-05-25T15:24:00,2.1,sensores de proximidade,preventiva,647.63,desgaste dentro do limite,sem falha,equipe beta,0
+MT000972,RB044,MS009363,2026-05-25T16:54:37,2026-05-25T17:12:00,2026-05-26T03:16:58,10.1,LiDAR,corretiva,1972.09,efeito de colisão leve,leve,equipe beta,1
+MT000973,RB040,MS009387,2026-05-26T21:15:45,2026-05-26T21:37:28,2026-05-27T12:03:19,14.4,módulo de rede,corretiva,2165.6,efeito de colisão moderada,moderada,equipe alfa,1
+MT000974,RB045,,,2026-05-26T22:19:45,2026-05-27T00:19:12,2,módulo de rede,preventiva,120,nenhuma falha,sem falha,equipe alfa,0
+MT000975,RB043,,,2026-05-27T01:20:06,2026-05-27T04:36:34,3.3,motor de tração,preventiva,511.23,desgaste dentro do limite,sem falha,equipe beta,0
+MT000976,RB008,,,2026-05-27T04:21:56,2026-05-27T08:16:47,3.9,sensores de proximidade,preventiva,120,nenhuma falha,sem falha,equipe gama,0
+MT000977,RB045,MS009390,2026-05-27T04:33:38,2026-05-27T05:02:38,2026-05-27T18:37:00,13.6,controlador,corretiva,1193.25,sensor,moderada,equipe gama,1
+MT000978,RB019,,,2026-05-28T01:56:37,2026-05-28T05:18:56,3.4,freios,preventiva,582.01,nenhuma falha,sem falha,equipe beta,0
+MT000979,RB057,,,2026-05-28T16:14:11,2026-05-28T17:42:31,1.5,sensores de proximidade,preventiva,202.35,nenhuma falha,sem falha,equipe beta,0
+MT000980,RB036,,,2026-05-29T06:09:49,2026-05-29T08:31:27,2.4,bateria,preventiva,536.26,nenhuma falha,sem falha,equipe gama,0
+MT000981,RB053,,,2026-05-29T21:54:28,2026-05-30T00:34:12,2.7,motor de tração,preventiva,504.58,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000982,RB047,,,2026-05-29T22:38:27,2026-05-29T23:59:59,1.4,freios,preventiva,381.27,nenhuma falha,sem falha,equipe beta,0
+MT000983,RB004,,,2026-05-30T02:21:15,2026-05-30T04:08:28,1.8,bateria,preventiva,516.57,nenhuma falha,sem falha,equipe gama,0
+MT000984,RB018,,,2026-05-30T05:08:18,2026-05-30T10:33:41,5.4,LiDAR,preventiva,502.64,nenhuma falha,sem falha,equipe alfa,0
+MT000985,RB044,,,2026-05-31T11:25:09,2026-05-31T15:59:07,4.6,freios,preventiva,538.71,desgaste dentro do limite,sem falha,equipe beta,0
+MT000986,RB009,,,2026-05-31T18:13:06,2026-05-31T20:49:42,2.6,motor de tração,preventiva,876.51,nenhuma falha,sem falha,equipe beta,0
+MT000987,RB059,,,2026-06-01T14:26:06,2026-06-01T17:34:00,3.1,sensores de proximidade,preventiva,473.05,nenhuma falha,sem falha,equipe alfa,0
+MT000988,RB031,MS009495,2026-06-02T09:23:03,2026-06-02T09:34:55,2026-06-02T17:01:22,7.4,bateria,corretiva,1996.98,efeito de colisão leve,leve,equipe gama,1
+MT000989,RB021,,,2026-06-03T15:22:35,2026-06-03T19:59:22,4.6,bateria,preventiva,208.36,nenhuma falha,sem falha,equipe gama,0
+MT000990,RB033,,,2026-06-04T02:34:37,2026-06-04T03:58:03,1.4,sensores de proximidade,preventiva,502.66,nenhuma falha,sem falha,equipe beta,0
+MT000991,RB035,,,2026-06-04T10:49:11,2026-06-04T11:37:11,0.8,sensores de proximidade,preventiva,492.13,nenhuma falha,sem falha,equipe beta,1
+MT000992,RB016,,,2026-06-04T11:41:16,2026-06-04T13:00:49,1.3,bateria,preventiva,191.92,nenhuma falha,sem falha,equipe alfa,0
+MT000993,RB055,MS009531,2026-06-04T14:17:11,2026-06-04T14:51:37,2026-06-05T04:23:29,13.5,controlador,corretiva,2366.02,motor de tração,moderada,equipe gama,1
+MT000994,RB039,,,2026-06-05T02:13:10,2026-06-05T03:07:58,0.9,módulo de rede,preventiva,260.03,nenhuma falha,sem falha,equipe gama,0
+MT000995,RB010,,,2026-06-05T10:00:42,2026-06-05T12:28:08,2.5,sensores de proximidade,preventiva,297.74,nenhuma falha,sem falha,equipe gama,0
+MT000996,RB058,MS009556,2026-06-05T16:55:25,2026-06-05T17:24:16,2026-06-06T05:08:41,11.7,LiDAR,corretiva,2044.03,efeito de colisão moderada,moderada,equipe beta,1
+MT000997,RB001,MS009557,2026-06-05T17:10:57,2026-06-05T17:26:46,2026-06-06T02:33:21,9.1,controlador,corretiva,859.86,efeito de colisão leve,leve,equipe beta,1
+MT000998,RB038,,,2026-06-06T10:12:02,2026-06-06T13:49:20,3.6,bateria,preventiva,628.77,desgaste dentro do limite,sem falha,equipe alfa,0
+MT000999,RB032,,,2026-06-07T03:47:39,2026-06-07T07:46:42,4,LiDAR,preventiva,801.28,nenhuma falha,sem falha,equipe gama,0
+MT001000,RB028,,,2026-06-07T17:30:19,2026-06-07T21:00:59,3.5,freios,preventiva,544.94,desgaste dentro do limite,sem falha,equipe alfa,1
+MT001001,RB027,,,2026-06-08T05:57:15,2026-06-08T08:43:17,2.8,freios,preventiva,120,desgaste dentro do limite,sem falha,equipe beta,0
+MT001002,RB029,MS009615,2026-06-08T12:46:28,2026-06-08T13:12:33,2026-06-08T14:42:33,1.5,motor de tração,corretiva,350,sensor,moderada,equipe alfa,1
+MT001003,RB050,,,2026-06-10T02:05:08,2026-06-10T03:46:26,1.7,bateria,preventiva,209.15,desgaste dentro do limite,sem falha,equipe gama,0
+MT001004,RB045,MS009652,2026-06-10T07:58:46,2026-06-10T08:38:32,2026-06-10T18:45:53,10.1,rodas,corretiva,2024.18,efeito de colisão moderada,moderada,equipe beta,1
+MT001005,RB003,,,2026-06-10T11:59:40,2026-06-10T15:18:28,3.3,rodas,preventiva,727.66,nenhuma falha,sem falha,equipe gama,0
+MT001006,RB012,,,2026-06-10T15:45:22,2026-06-10T17:20:18,1.6,motor de tração,preventiva,251.74,desgaste dentro do limite,sem falha,equipe gama,0
+MT001007,RB016,MS009658,2026-06-10T17:04:19,2026-06-10T17:26:33,2026-06-10T18:56:33,1.5,rodas,corretiva,1482.19,efeito de colisão moderada,moderada,equipe gama,1
+MT001008,RB026,,,2026-06-11T00:11:49,2026-06-11T02:56:46,2.7,motor de tração,preventiva,521.53,nenhuma falha,sem falha,equipe gama,0
+MT001009,RB017,,,2026-06-11T04:13:34,2026-06-11T07:02:48,2.8,módulo de rede,preventiva,426.77,desgaste dentro do limite,sem falha,equipe beta,0
+MT001010,RB032,MS009681,2026-06-11T21:38:41,2026-06-11T22:26:30,2026-06-12T04:08:53,5.7,bateria,corretiva,637.7,efeito de colisão leve,leve,equipe alfa,1
+MT001011,RB046,,,2026-06-11T22:38:46,2026-06-12T02:18:05,3.7,freios,preventiva,306.9,desgaste dentro do limite,sem falha,equipe gama,0
+MT001012,RB036,MS009691,2026-06-12T17:10:10,2026-06-12T18:03:35,2026-06-13T07:38:49,13.6,módulo de rede,corretiva,1827.04,efeito de colisão moderada,moderada,equipe gama,0
+MT001013,RB023,,,2026-06-13T02:47:47,2026-06-13T03:51:27,1.1,sensores de proximidade,preventiva,822.05,nenhuma falha,sem falha,equipe alfa,0
+MT001014,RB031,,,2026-06-13T09:36:03,2026-06-13T11:30:47,1.9,módulo de rede,preventiva,712.3,nenhuma falha,sem falha,equipe gama,0
+MT001015,RB016,MS009701,2026-06-13T10:46:05,2026-06-13T11:20:15,2026-06-13T18:51:22,7.5,bateria,corretiva,1097.81,efeito de colisão grave,crítica,equipe alfa,0
+MT001016,RB024,,,2026-06-13T11:55:43,2026-06-13T14:20:12,2.4,módulo de rede,preventiva,658.24,desgaste dentro do limite,sem falha,equipe gama,0
+MT001017,RB002,,,2026-06-13T19:15:38,2026-06-13T20:35:48,1.3,motor de tração,preventiva,494.04,nenhuma falha,sem falha,equipe gama,1
+MT001018,RB047,MS009707,2026-06-13T20:58:31,2026-06-13T21:41:33,2026-06-14T03:56:27,6.2,sensores de proximidade,corretiva,1833.72,efeito de colisão leve,leve,equipe beta,1
+MT001019,RB060,,,2026-06-14T00:47:28,2026-06-14T03:14:36,2.5,sensores de proximidade,preventiva,528.02,desgaste dentro do limite,sem falha,equipe alfa,0
+MT001020,RB041,,,2026-06-15T17:09:30,2026-06-15T19:45:08,2.6,módulo de rede,preventiva,381.82,nenhuma falha,sem falha,equipe gama,0
+MT001021,RB037,,,2026-06-16T01:20:49,2026-06-16T03:08:20,1.8,módulo de rede,preventiva,692.68,nenhuma falha,sem falha,equipe gama,0
+MT001022,RB030,,,2026-06-16T18:02:42,2026-06-16T20:15:34,2.2,módulo de rede,preventiva,516.21,nenhuma falha,sem falha,equipe alfa,0
+MT001023,RB048,,,2026-06-17T14:48:46,2026-06-17T16:33:16,1.7,bateria,preventiva,346.28,desgaste dentro do limite,sem falha,equipe alfa,0
+MT001024,RB050,MS009783,2026-06-17T15:20:11,2026-06-17T15:48:17,2026-06-18T00:26:38,8.6,sensores de proximidade,corretiva,1173.94,efeito de colisão leve,leve,equipe gama,1
+MT001025,RB022,MS009793,2026-06-18T07:32:08,2026-06-18T07:51:42,2026-06-18T15:25:56,7.6,motor de tração,corretiva,1520.38,efeito de colisão leve,leve,equipe beta,1
+MT001026,RB025,,,2026-06-18T12:23:07,2026-06-18T14:14:28,1.9,motor de tração,preventiva,971.12,nenhuma falha,sem falha,equipe alfa,1
+MT001027,RB005,,,2026-06-18T17:36:03,2026-06-18T20:36:55,3,módulo de rede,preventiva,906.39,nenhuma falha,sem falha,equipe gama,0
+MT001028,RB054,,,2026-06-20T08:14:53,2026-06-20T11:26:59,3.2,bateria,preventiva,649.9,desgaste dentro do limite,sem falha,equipe alfa,0
+MT001029,RB006,,,2026-06-20T15:21:21,2026-06-20T17:40:16,2.3,sensores de proximidade,preventiva,642.11,nenhuma falha,sem falha,equipe alfa,1
+MT001030,RB034,,,2026-06-20T22:30:07,2026-06-21T00:01:21,1.5,rodas,preventiva,421.86,desgaste dentro do limite,sem falha,equipe beta,0
+MT001031,RB020,,,2026-06-21T17:39:05,2026-06-21T19:46:10,2.1,sensores de proximidade,preventiva,824.78,desgaste dentro do limite,sem falha,equipe alfa,0
+MT001032,RB003,MS009855,2026-06-22T06:33:54,2026-06-22T06:51:18,2026-06-22T14:30:39,7.7,bateria,corretiva,2876.57,efeito de colisão moderada,moderada,equipe gama,1
+MT001033,RB001,,,2026-06-22T19:38:35,2026-06-22T21:45:30,2.1,rodas,preventiva,607.49,nenhuma falha,sem falha,equipe alfa,0
+MT001034,RB060,MS009890,2026-06-23T13:35:09,2026-06-23T13:57:01,2026-06-24T00:00:12,10.1,bateria,corretiva,1110.93,efeito de colisão leve,leve,equipe gama,1
+MT001035,RB011,,,2026-06-23T18:16:58,2026-06-23T19:40:14,1.4,rodas,preventiva,503.38,desgaste dentro do limite,sem falha,equipe alfa,0
+MT001036,RB035,MS009895,2026-06-23T18:00:10,2026-06-23T18:41:18,2026-06-24T01:45:25,7.1,rodas,corretiva,2168.32,efeito de colisão moderada,moderada,equipe alfa,0
+MT001037,RB055,,,2026-06-23T21:45:33,2026-06-24T00:00:47,2.3,motor de tração,preventiva,517.28,nenhuma falha,sem falha,equipe beta,0
+MT001038,RB058,,,2026-06-24T11:03:51,2026-06-24T12:11:11,1.1,motor de tração,preventiva,535.49,nenhuma falha,sem falha,equipe gama,0
+MT001039,RB051,,,2026-06-26T02:44:04,2026-06-26T04:39:04,1.9,bateria,preventiva,279.13,desgaste dentro do limite,sem falha,equipe beta,0
+MT001040,RB053,MS009988,2026-06-28T10:50:08,2026-06-28T11:19:23,2026-06-28T17:48:38,6.5,sensores de proximidade,corretiva,1338.85,sensor,moderada,equipe alfa,1
+MT001041,RB042,,,2026-06-28T13:24:37,2026-06-28T15:55:38,2.5,rodas,preventiva,535.15,nenhuma falha,sem falha,equipe gama,0
+MT001042,RB040,,,2026-06-28T17:48:33,2026-06-28T21:07:42,3.3,rodas,preventiva,580.34,nenhuma falha,sem falha,equipe beta,0

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Synthetic Mobile Robot Fleet Dataset relational and temporal schema</title>
+  <desc id="desc">Diagram of registration, temporal snapshot, event, and analytical tables with their main relationships.</desc>
+  <metadata>
+    <rdf:RDF>
+      <rdf:Description rdf:about="">
+        <dc:title>Synthetic Mobile Robot Fleet Dataset relational and temporal schema</dc:title>
+        <dc:creator><rdf:Seq><rdf:li>Maria Karolina Silva de Souza</rdf:li></rdf:Seq></dc:creator>
+        <dc:rights>Copyright 2026 Maria Karolina Silva de Souza</dc:rights>
+        <dc:description>Relational and temporal schema for the locally prepared dataset package version 1.0.0.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <style>
+      .bg{fill:#f7fafb}.title{font:700 34px Arial,sans-serif;fill:#103d4b}.subtitle{font:18px Arial,sans-serif;fill:#3f5962}.lane{fill:#eaf3f5;stroke:#bfd4d9;stroke-width:2}.lane-title{font:700 19px Arial,sans-serif;fill:#164e63}.box{fill:#fff;stroke:#1b6c80;stroke-width:2.5;rx:14}.event{fill:#fff7ed;stroke:#c66a1d}.analytical{fill:#ecfdf5;stroke:#17845c}.table{font:700 18px Arial,sans-serif;fill:#123743}.meta{font:14px Arial,sans-serif;fill:#52656c}.edge{fill:none;stroke:#58767f;stroke-width:2.5;marker-end:url(#arrow)}.join{fill:none;stroke:#16805b;stroke-width:3;stroke-dasharray:10 7;marker-end:url(#arrow-green)}.label{font:13px Arial,sans-serif;fill:#38545d}.legend{font:15px Arial,sans-serif;fill:#38545d}.key{fill:#164e63}.keyText{font:700 12px Arial,sans-serif;fill:#fff}
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#58767f"/></marker>
+    <marker id="arrow-green" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#16805b"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="1100"/>
+  <text class="title" x="70" y="58">Synthetic Mobile Robot Fleet Dataset</text>
+  <text class="subtitle" x="70" y="91">Relational records + temporal snapshots + events -> analysis-ready tables</text>
+
+  <rect class="lane" x="50" y="125" width="1500" height="215" rx="18"/>
+  <text class="lane-title" x="75" y="160">Registration layer</text>
+  <g transform="translate(110 195)"><rect class="box" width="300" height="105"/><text class="table" x="24" y="38">MODELOS_ROBO</text><text class="meta" x="24" y="66">4 robot models</text><text class="meta" x="24" y="88">PK modelo_id</text></g>
+  <g transform="translate(525 195)"><rect class="box" width="300" height="105"/><text class="table" x="24" y="38">ROBOS</text><text class="meta" x="24" y="66">60 physical robots</text><text class="meta" x="24" y="88">PK robo_id</text></g>
+  <g transform="translate(940 195)"><rect class="box" width="300" height="105"/><text class="table" x="24" y="38">AMBIENTES</text><text class="meta" x="24" y="66">14 logistics sectors</text><text class="meta" x="24" y="88">PK setor_id</text></g>
+  <g transform="translate(1280 195)"><rect class="box" width="220" height="105"/><text class="table" x="24" y="38">ROTAS</text><text class="meta" x="24" y="66">182 directed routes</text><text class="meta" x="24" y="88">PK rota_id</text></g>
+  <path class="edge" d="M410 247 H525"/>
+  <path class="edge" d="M940 270 C890 315 845 315 795 300"/>
+  <path class="edge" d="M1240 247 H1280"/>
+
+  <rect class="lane" x="50" y="365" width="1500" height="290" rx="18"/>
+  <text class="lane-title" x="75" y="400">Temporal snapshots and operational events</text>
+  <g transform="translate(110 445)"><rect class="box" width="330" height="120"/><text class="table" x="24" y="40">HISTORICO_ROBOS</text><text class="meta" x="24" y="70">12,144 robot state snapshots</text><text class="meta" x="24" y="94">PK historico_id; FK robo_id</text></g>
+  <g transform="translate(500 445)"><rect class="box" width="350" height="120"/><text class="table" x="24" y="40">CONDICOES_AMBIENTAIS</text><text class="meta" x="24" y="70">22,932 sector observations</text><text class="meta" x="24" y="94">PK condicao_id; FK setor_id</text></g>
+  <g transform="translate(920 430)"><rect class="box event" width="300" height="150"/><text class="table" x="24" y="40">MISSOES</text><text class="meta" x="24" y="70">10,000 mission events</text><text class="meta" x="24" y="94">FK robo_id, rota_id</text><text class="meta" x="24" y="118">FK condicao_inicio_id</text></g>
+  <g transform="translate(1280 445)"><rect class="box event" width="250" height="120"/><text class="table" x="24" y="40">MANUTENCOES</text><text class="meta" x="24" y="70">1,042 work orders</text><text class="meta" x="24" y="94">FK robo_id; optional mission</text></g>
+  <path class="edge" d="M675 300 C590 350 390 375 300 445"/>
+  <path class="edge" d="M1090 300 C1000 350 770 375 680 445"/>
+  <path class="edge" d="M675 300 C730 355 960 355 1000 430"/>
+  <path class="edge" d="M1390 300 V405 C1390 420 1240 405 1175 430"/>
+  <path class="edge" d="M850 505 H920"/>
+  <path class="edge" d="M1220 505 H1280"/>
+
+  <rect class="lane" x="50" y="685" width="1500" height="290" rx="18"/>
+  <text class="lane-title" x="75" y="720">Analysis-ready layer</text>
+  <g transform="translate(260 790)"><rect class="box analytical" width="440" height="130"/><text class="table" x="24" y="42">BASE_ML_MISSOES</text><text class="meta" x="24" y="73">10,000 rows - one per mission</text><text class="meta" x="24" y="98">Predictors available by mission start</text></g>
+  <g transform="translate(900 790)"><rect class="box analytical" width="440" height="130"/><text class="table" x="24" y="42">BASE_ML_MANUTENCAO</text><text class="meta" x="24" y="73">4,680 robot-week rows</text><text class="meta" x="24" y="98">78 Mondays x 60 robots</text></g>
+  <path class="join" d="M275 565 C275 680 420 680 460 790"/><text class="label" x="300" y="675">latest robot state</text>
+  <path class="join" d="M675 565 C675 675 545 690 520 790"/><text class="label" x="570" y="705">latest environment</text>
+  <path class="join" d="M1060 580 C1060 680 620 680 580 790"/><text class="label" x="750" y="665">mission + route + model</text>
+  <path class="join" d="M1070 580 C1070 675 1090 690 1100 790"/><text class="label" x="1080" y="690">rolling mission history</text>
+  <path class="join" d="M1405 565 C1405 680 1235 700 1200 790"/><text class="label" x="1260" y="690">maintenance history + future labels</text>
+
+  <rect x="70" y="1010" width="24" height="6" fill="#58767f"/><text class="legend" x="108" y="1020">declared foreign-key/event relationship</text>
+  <line x1="520" y1="1013" x2="555" y2="1013" class="join"/><text class="legend" x="570" y="1020">temporal/analytical join</text>
+  <text class="legend" x="70" y="1060">Author: Maria Karolina Silva de Souza | All records are synthetic | Public package v1.0.0 from internal revision v2.</text>
+</svg>

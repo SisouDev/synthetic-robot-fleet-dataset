@@ -1,0 +1,15 @@
+setor_id,nome_setor,tipo_piso,iluminacao_instalada,largura_corredor_m
+S01,Recebimento,Concreto polido,média,2.8
+S02,Triagem A,Epóxi,alta,2.4
+S03,Triagem B,Epóxi,média,2.3
+S04,Estoque leve,Concreto polido,alta,2.6
+S05,Estoque pesado,Concreto rugoso,média,2.9
+S06,Separação A,Epóxi,alta,2.1
+S07,Separação B,Borracha industrial,média,2
+S08,Embalagem,Borracha industrial,alta,2.2
+S09,Controle de qualidade,Epóxi,alta,2.5
+S10,Expedição,Concreto polido,média,2.7
+S11,Recarga,Epóxi,alta,2.4
+S12,Manutenção,Concreto rugoso,alta,2.8
+S13,Corredor externo,Piso irregular,baixa,1.9
+S14,Devoluções,Concreto rugoso,baixa,2
