@@ -2,7 +2,7 @@
 
 [Português (Brasil)](README.pt-BR.md)
 
-> **Publication status:** local pre-publication package for the proposed public version **v1.0.0**. It is derived from the second internal revision of the dataset and **has not been published or released yet**.
+> **Publication status:** Publication status: Public release v1.0.0.
 
 **Creator:** Maria Karolina Silva de Souza
 
